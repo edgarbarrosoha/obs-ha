@@ -16,24 +16,24 @@ Aquí se prioriza portafolio, se ejecuta, se mide y se cierra el ciclo para actu
 ## Conexiones
 
 ### Coordina con
-- [[HA-Raíz]] — Priorización y gobernanza
-- [[1-Legado]] — Criterios de éxito
+- [[ha-raíz]] — Priorización y gobernanza
+- [[1-legado]] — Criterios de éxito
 
 ### Alimenta a
-- [[3-Aprendizaje]] — Lecciones aprendidas
-- [[1-Legado]] — Resultados y ajustes
+- [[3-aprendizaje]] — Lecciones aprendidas
+- [[1-legado]] — Resultados y ajustes
 
 ### Se nutre de
-- [[2-Comunidad]] — Quién ejecuta
-- [[4-Tecnología]] — Herramientas disponibles
-- [[5-Contexto]] — Condiciones externas
-- [[3-Aprendizaje]] — Capacidades del equipo
+- [[2-comunidad]] — Quién ejecuta
+- [[4-tecnología]] — Herramientas disponibles
+- [[5-contexto]] — Condiciones externas
+- [[3-aprendizaje]] — Capacidades del equipo
 
 ## Entradas
-- Función de [[1-Legado]]
+- Función de [[1-legado]]
 - Capacidades de ejecución
-- [[5-Contexto]] actual
-- [[4-Tecnología]] disponible
+- [[5-contexto]] actual
+- [[4-tecnología]] disponible
 
 ## Salidas
 - Project management
@@ -45,7 +45,7 @@ Aquí se prioriza portafolio, se ejecuta, se mide y se cierra el ciclo para actu
 ## Evita
 - Actividad sin impacto
 - Proyectos sin aprendizaje
-- Desalineación con el [[1-Legado]]
+- Desalineación con el [[1-legado]]
 
 ---
 

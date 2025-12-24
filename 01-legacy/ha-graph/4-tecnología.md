@@ -8,7 +8,7 @@ Define qué servicios y tools usar, cómo integrarlos, con qué protocolos y cos
 
 ## Preguntas Clave
 
-- ¿Qué stack soporta el [[1-Legado]]?
+- ¿Qué stack soporta el [[1-legado]]?
 - ¿Cómo garantizamos interoperabilidad?
 - ¿Cómo aseguramos ética y seguridad?
 - ¿Qué automatizar vs. mantener humano?
@@ -16,16 +16,16 @@ Define qué servicios y tools usar, cómo integrarlos, con qué protocolos y cos
 ## Conexiones
 
 ### Coordina con
-- [[HA-Raíz]] — Orquestación de agentes
-- [[3-Aprendizaje]] — Bases de conocimiento
+- [[ha-raíz]] — Orquestación de agentes
+- [[3-aprendizaje]] — Bases de conocimiento
 
 ### Alimenta a
-- [[6-Proyectos]] — Herramientas disponibles
-- [[2-Comunidad]] — Plataformas de colaboración
+- [[6-proyectos]] — Herramientas disponibles
+- [[2-comunidad]] — Plataformas de colaboración
 
 ### Se nutre de
-- [[5-Contexto]] — Tendencias tecnológicas
-- [[1-Legado]] — Requisitos del sistema
+- [[5-contexto]] — Tendencias tecnológicas
+- [[1-legado]] — Requisitos del sistema
 
 ## Entradas
 - Inventario de sistemas

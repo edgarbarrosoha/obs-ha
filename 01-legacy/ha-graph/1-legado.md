@@ -17,16 +17,16 @@ El Legado es la **función objetivo** del sistema. Gobierna decisiones humanas y
 ## Conexiones
 
 ### Coordina con
-- [[HA-Raíz]] — Reporta el norte estratégico
-- [[6-Proyectos]] — Define criterios de éxito
+- [[ha-raíz]] — Reporta el norte estratégico
+- [[6-proyectos]] — Define criterios de éxito
 
 ### Alimenta a
-- [[3-Aprendizaje]] — Qué capacidades desarrollar
-- [[4-Tecnología]] — Qué stack soporta el legado
+- [[3-aprendizaje]] — Qué capacidades desarrollar
+- [[4-tecnología]] — Qué stack soporta el legado
 
 ### Se nutre de
-- [[5-Contexto]] — Restricciones externas
-- [[2-Comunidad]] — Quién valida y adopta
+- [[5-contexto]] — Restricciones externas
+- [[2-comunidad]] — Quién valida y adopta
 
 ## Entradas
 - Visión y estrategia

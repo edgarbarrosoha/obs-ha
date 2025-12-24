@@ -8,7 +8,7 @@ Es **escaneo dinámico**: personas definen variables a monitorear y agentes sugi
 
 ## Preguntas Clave
 
-- ¿Qué cambia en el entorno que influye en el [[1-Legado]]?
+- ¿Qué cambia en el entorno que influye en el [[1-legado]]?
 - ¿Qué deberíamos saber para anticiparnos?
 - ¿Qué datos contextuales son relevantes?
 - ¿Qué riesgos externos enfrentamos?
@@ -16,16 +16,16 @@ Es **escaneo dinámico**: personas definen variables a monitorear y agentes sugi
 ## Conexiones
 
 ### Coordina con
-- [[HA-Raíz]] — Alertas y escenarios
-- [[1-Legado]] — Restricciones al objetivo
+- [[ha-raíz]] — Alertas y escenarios
+- [[1-legado]] — Restricciones al objetivo
 
 ### Alimenta a
-- [[6-Proyectos]] — Condiciones de ejecución
-- [[4-Tecnología]] — Tendencias tecnológicas
-- [[3-Aprendizaje]] — Mejores prácticas externas
+- [[6-proyectos]] — Condiciones de ejecución
+- [[4-tecnología]] — Tendencias tecnológicas
+- [[3-aprendizaje]] — Mejores prácticas externas
 
 ### Se nutre de
-- [[2-Comunidad]] — Actores externos
+- [[2-comunidad]] — Actores externos
 - Fuentes externas (mercado, regulación, etc.)
 
 ## Entradas

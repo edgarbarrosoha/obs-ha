@@ -12,7 +12,7 @@ tags:
 [Context: Notes: Ethics]
 [Timestamp: 2025/10/27 10:25:24]
 
-**ai**: Here’s a personality snapshot inferred from [[Ethics]]:
+**ai**: Here’s a personality snapshot inferred from [[ethics]]:
 
 - High-openness, systems thinker: Scans near- and long-term horizons (2025→2030), uses scenario design, and connects technical, social, and institutional angles.
 - Highly conscientious and rigorous: Emphasizes study limitations, generalizability, methodology, measurement constraints (EEG vs fMRI), and careful claims. Dislikes sensationalism; corrects vocabulary misuse.
@@ -29,7 +29,7 @@ If you like, I can turn this into a concise “persona card” note with tags an
 [Context: Notes: Ethics]
 [Timestamp: 2025/10/27 10:26:16]
 
-**ai**: Great—here’s a ready-to-paste persona card. Want me to save it as [[Persona - Vault Steward]] and link it from the top of [[Ethics]]?
+**ai**: Great—here’s a ready-to-paste persona card. Want me to save it as [[Persona - Vault Steward]] and link it from the top of [[ethics]]?
 
 ---
 aliases:
@@ -43,7 +43,7 @@ tags:
   - education
   - public-policy
 related:
-  - "[[Ethics]]"
+  - "[[ethics]]"
 languages:
   - es
   - en
@@ -80,7 +80,7 @@ Active questions
 - Protecting human judgment as AI agents become ubiquitous.
 
 Operating contexts
-- [[Ethics]] (Tec de Monterrey, Escuela de Gobierno; syllabus/session design).
+- [[ethics]] (Tec de Monterrey, Escuela de Gobierno; syllabus/session design).
 - Academic–public sector interfaces, policy design.
 
 How to collaborate
@@ -95,11 +95,11 @@ Risks they watch
 - Diluted responsibility in distributed decision systems.
 
 Evidence links
-- Session design, prompts, and vocabulary guidance: [[Ethics]].
+- Session design, prompts, and vocabulary guidance: [[ethics]].
 
 If that looks good, I’ll:
 - Save as [[Persona - Vault Steward]] in a Personas folder you choose.
-- Insert a “Related” link in [[Ethics]] pointing to this card.
+- Insert a “Related” link in [[ethics]] pointing to this card.
 Prefer a different title or tags?
 [Timestamp: 2025/10/27 10:26:58]
 

@@ -19,7 +19,7 @@ Define qué servicios y tools usar, cómo integrarlos, con qué protocolos y cos
 - [[stack-ha]] — Herramientas actuales
 
 ### Prompts y Metodologías
-- [[C.R.E.A.T.I.V.O.]] — Prompt para narrativas persuasivas
+- [[c.r.e.a.t.i.v.o.]] — Prompt para narrativas persuasivas
 - prompts/ — Biblioteca de prompts
 
 ### Agentes

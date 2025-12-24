@@ -8,7 +8,7 @@ No es solo un organigrama; es un **grafo operativo** para coordinar quién decid
 
 ## Preguntas Clave
 
-- ¿A quién necesitamos para lograr el [[1-Legado]]?
+- ¿A quién necesitamos para lograr el [[1-legado]]?
 - ¿A quién afecta/beneficia?
 - ¿Quién valida?
 - ¿Qué redes internas y externas activar?
@@ -16,16 +16,16 @@ No es solo un organigrama; es un **grafo operativo** para coordinar quién decid
 ## Conexiones
 
 ### Coordina con
-- [[HA-Raíz]] — Mapa de actores
-- [[3-Aprendizaje]] — Transferencia de conocimiento
+- [[ha-raíz]] — Mapa de actores
+- [[3-aprendizaje]] — Transferencia de conocimiento
 
 ### Alimenta a
-- [[6-Proyectos]] — Quién ejecuta y valida
-- [[1-Legado]] — Alineación de stakeholders
+- [[6-proyectos]] — Quién ejecuta y valida
+- [[1-legado]] — Alineación de stakeholders
 
 ### Se nutre de
-- [[5-Contexto]] — Actores externos relevantes
-- [[4-Tecnología]] — Herramientas de colaboración
+- [[5-contexto]] — Actores externos relevantes
+- [[4-tecnología]] — Herramientas de colaboración
 
 ## Entradas
 - Estructuras formales

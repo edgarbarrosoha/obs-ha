@@ -29,20 +29,20 @@
 ## Nodos del Grafo
 
 ### Centro
-- [[HA-Raíz]] — Agente coordinador
+- [[ha-raíz]] — Agente coordinador
 
 ### Dimensiones
 | # | Dimensión | Rol | Líder |
 |---|-----------|-----|-------|
-| 1 | [[1-Legado]] | Driver estratégico | Edgar |
-| 2 | [[2-Comunidad]] | Habilitador social | Sarahí & Edgar |
-| 3 | [[3-Aprendizaje]] | Motor evolutivo | Sarahí & Betty |
-| 4 | [[4-Tecnología]] | Infraestructura | Oscar |
-| 5 | [[5-Contexto]] | Sensibilidad del entorno | Oscar & Edgar |
-| 6 | [[6-Proyectos]] | Ejecución | Javi |
+| 1 | [[1-legado]] | Driver estratégico | Edgar |
+| 2 | [[2-comunidad]] | Habilitador social | Sarahí & Edgar |
+| 3 | [[3-aprendizaje]] | Motor evolutivo | Sarahí & Betty |
+| 4 | [[4-tecnología]] | Infraestructura | Oscar |
+| 5 | [[5-contexto]] | Sensibilidad del entorno | Oscar & Edgar |
+| 6 | [[6-proyectos]] | Ejecución | Javi |
 
 ### Proyectos
-- [[Proyecto-Ejemplo]] — Template de proyecto HA
+- [[proyecto-ejemplo]] — Template de proyecto HA
 
 ## Principios del Grafo
 

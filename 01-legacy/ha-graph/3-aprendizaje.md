@@ -4,11 +4,11 @@
 
 ## Rol en HA
 
-Incluye activos explícitos (manuales, wikis, datasets) y tácitos (skills del equipo). Habilita que los resultados de [[6-Proyectos]] **retroalimenten** métodos, estándares y formación continua.
+Incluye activos explícitos (manuales, wikis, datasets) y tácitos (skills del equipo). Habilita que los resultados de [[6-proyectos]] **retroalimenten** métodos, estándares y formación continua.
 
 ## Preguntas Clave
 
-- ¿Qué necesitamos saber para cumplir el [[1-Legado]]?
+- ¿Qué necesitamos saber para cumplir el [[1-legado]]?
 - ¿Qué capacidades desarrollar?
 - ¿Cómo documentamos lo aprendido?
 - ¿Cómo transferimos conocimiento?
@@ -16,16 +16,16 @@ Incluye activos explícitos (manuales, wikis, datasets) y tácitos (skills del e
 ## Conexiones
 
 ### Coordina con
-- [[HA-Raíz]] — Base de conocimiento
-- [[2-Comunidad]] — Quién sabe qué
+- [[ha-raíz]] — Base de conocimiento
+- [[2-comunidad]] — Quién sabe qué
 
 ### Alimenta a
-- [[4-Tecnología]] — Patrones reutilizables
-- [[6-Proyectos]] — Capacidades disponibles
+- [[4-tecnología]] — Patrones reutilizables
+- [[6-proyectos]] — Capacidades disponibles
 
 ### Se nutre de
-- [[6-Proyectos]] — Lecciones aprendidas
-- [[5-Contexto]] — Tendencias y mejores prácticas
+- [[6-proyectos]] — Lecciones aprendidas
+- [[5-contexto]] — Tendencias y mejores prácticas
 
 ## Entradas
 - Resultados de pilotos

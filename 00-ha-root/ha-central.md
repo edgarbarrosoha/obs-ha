@@ -33,36 +33,36 @@
 
 | # | Dimensión | MOC | Rol | Líder |
 |---|-----------|-----|-----|-------|
-| 1 | [[01-legacy/01-legacy\|Legado]] | [[01-legacy/01-legacy]] | Driver estratégico | Edgar |
-| 2 | [[02-community/02-community\|Comunidad]] | [[02-community/02-community]] | Habilitador social | Sarahí & Edgar |
-| 3 | [[03-learning/03-learning\|Aprendizaje]] | [[03-learning/03-learning]] | Motor evolutivo | Sarahí & Betty |
-| 4 | [[04-technology/04-technology\|Tecnología]] | [[04-technology/04-technology]] | Infraestructura | Oscar |
-| 5 | [[05-context/05-context\|Contexto]] | [[05-context/05-context]] | Sensibilidad entorno | Oscar & Edgar |
-| 6 | [[06-projects/06-projects\|Proyectos]] | [[06-projects/06-projects]] | Ejecución | Javi |
+| 1 | [[01-legacy\|Legado]] | [[01-legacy]] | Driver estratégico | Edgar |
+| 2 | [[02-community\|Comunidad]] | [[02-community]] | Habilitador social | Sarahí & Edgar |
+| 3 | [[03-learning\|Aprendizaje]] | [[03-learning]] | Motor evolutivo | Sarahí & Betty |
+| 4 | [[04-technology\|Tecnología]] | [[04-technology]] | Infraestructura | Oscar |
+| 5 | [[05-context\|Contexto]] | [[05-context]] | Sensibilidad entorno | Oscar & Edgar |
+| 6 | [[06-projects\|Proyectos]] | [[06-projects]] | Ejecución | Javi |
 
 ## Documentos Clave
 
 ### Estrategia
-- [[01-legacy/vision-estrategia\|Visión y Estrategia]]
-- [[01-legacy/objetivos-tradeoffs\|Objetivos y Trade-offs]]
-- [[01-legacy/proyectos-legado\|Legados por Proyecto]]
+- [[vision-estrategia\|Visión y Estrategia]]
+- [[objetivos-tradeoffs\|Objetivos y Trade-offs]]
+- [[proyectos-legado\|Legados por Proyecto]]
 
 ### Metodología
-- [[03-learning/metodologias/6-dimensiones\|Las 6 Dimensiones]]
-- [[03-learning/metodologias/8-pasos-ha\|Los 8 Pasos]]
-- [[03-learning/metodologias/arquitectura-fractal\|Arquitectura Fractal]]
+- [[6-dimensiones\|Las 6 Dimensiones]]
+- [[8-pasos-ha\|Los 8 Pasos]]
+- [[arquitectura-fractal\|Arquitectura Fractal]]
 
 ### Equipo
-- [[02-community/equipo-ha\|Equipo HA]]
-- [[02-community/partners-red\|Partners y Red]]
+- [[equipo-ha\|Equipo HA]]
+- [[partners-red\|Partners y Red]]
 
 ### Tecnología
-- [[04-technology/stack-ha\|Stack Tecnológico]]
-- [[04-technology/agentes-ha\|Agentes HA]]
+- [[stack-ha\|Stack Tecnológico]]
+- [[agentes-ha\|Agentes HA]]
 
 ### Contexto
-- [[05-context/mercado-tendencias\|Mercado y Tendencias]]
-- [[05-context/competidores\|Competidores]]
+- [[mercado-tendencias\|Mercado y Tendencias]]
+- [[competidores\|Competidores]]
 
 ## Proyectos Activos
 

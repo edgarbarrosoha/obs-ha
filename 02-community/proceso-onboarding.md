@@ -14,7 +14,7 @@ Integrar a nuevas personas al sistema HA de manera que:
 
 **Actividades:**
 - [ ] Bienvenida con líder de [[02-community]]
-- [ ] Introducción a las [[03-learning/metodologias/6-dimensiones|6 Dimensiones]]
+- [ ] Introducción a las [[6-dimensiones|6 Dimensiones]]
 - [ ] Tour por el vault de Obsidian
 - [ ] Acceso a herramientas ([[04-technology]])
 
@@ -27,7 +27,7 @@ Integrar a nuevas personas al sistema HA de manera que:
 ### Fase 2: Inmersión (Semana 1-2)
 
 **Actividades:**
-- [ ] Lectura de [[03-learning/metodologias/8-pasos-ha|8 Pasos HA]]
+- [ ] Lectura de [[8-pasos-ha|8 Pasos HA]]
 - [ ] Shadowing con líder de dimensión asignada
 - [ ] Revisión de [[06-projects]] activos
 - [ ] Primera contribución documentada

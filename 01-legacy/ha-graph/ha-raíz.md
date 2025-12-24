@@ -4,20 +4,20 @@ El agente raíz coordina las 6 dimensiones y mantiene coherencia del sistema.
 
 ## Dimensiones
 
-- [[1-Legado]] — Driver estratégico
-- [[2-Comunidad]] — Habilitador social
-- [[3-Aprendizaje]] — Motor evolutivo
-- [[4-Tecnología]] — Infraestructura
-- [[5-Contexto]] — Sensibilidad del entorno
-- [[6-Proyectos]] — Ejecución
+- [[1-legado]] — Driver estratégico
+- [[2-comunidad]] — Habilitador social
+- [[3-aprendizaje]] — Motor evolutivo
+- [[4-tecnología]] — Infraestructura
+- [[5-contexto]] — Sensibilidad del entorno
+- [[6-proyectos]] — Ejecución
 
 ## Funciones del Agente Raíz
 
 1. Coordinar agentes dimensionales
 2. Gestionar permisos y trazabilidad
-3. Asegurar alineación con el [[1-Legado]]
-4. Activar escenarios desde [[5-Contexto]]
-5. Orquestar [[6-Proyectos]]
+3. Asegurar alineación con el [[1-legado]]
+4. Activar escenarios desde [[5-contexto]]
+5. Orquestar [[6-proyectos]]
 
 ## Conexiones Clave
 

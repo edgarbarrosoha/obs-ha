@@ -21,7 +21,7 @@ El Legado es la **función objetivo** del sistema. Gobierna decisiones humanas y
 - [[vision-estrategia]]
 
 ### Legados por Proyecto
-- [[Legacy]] — Resumen de legados
+- [[legacy]] — Resumen de legados
 - [[proyectos-legado]] — Detalle con principios HA
 
 ### Función Objetivo

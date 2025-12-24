@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "to-do/dashboard.md",
+                "file": "05-context/grants-oportunidades.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dashboard"
+              "title": "grants-oportunidades"
             }
           }
         ]
@@ -180,10 +180,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "56d69c25aa6c9e25",
   "lastOpenFiles": [
+    "HA-howitworks.pdf",
+    "05-context/mercado-tendencias.md",
+    "06-projects/06-projects.md",
+    "00-ha-root/ha-central.md",
+    "00-ha-root",
+    "06-projects/__to-do/dashboard.md",
     "01-legacy/01-legacy.md",
-    "to-do/dashboard.md",
     "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/z.-benchmark-tot.md",
     "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/v.-conclusiones.md",
     "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/preguntas-de-investigación-por-dimensión.md",
@@ -204,10 +209,6 @@
     "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos/opiniones-divergentes.md",
     "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos/fermín-legorreta.md",
     "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos/sandra-castañeda.md",
-    "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos/recomendaciones-para-víctor-gutiérrez.md",
-    "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos/julio-noriega.md",
-    "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos/elsa-fernández.md",
-    "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos/jessica-gonzález.md",
     "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso",
     "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos",
     "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/prompts",
@@ -218,7 +219,6 @@
     "06-projects/z-completed/programa-de-gobierno-2024-20230/02-original-categories/01-pre-production",
     "06-projects/z-completed/programa-de-gobierno-2024-20230/00-programa-de-gobierno/Programa de Gobierno Mapa Mental.canvas",
     "06-projects/tec-monterrey/narrativa-campus-monterrey/docs-base-de-conocimiento/Rumbo al 2030 Tec Educational Group.pdf",
-    "06-projects/tec-monterrey/ha-course/interfaz/gto-líderes-públicos",
     "06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.26.png",
     "06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.19.png",
     "06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.11.png",
