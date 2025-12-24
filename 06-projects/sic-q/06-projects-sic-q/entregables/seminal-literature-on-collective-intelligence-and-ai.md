@@ -1,4 +1,4 @@
-[[05-context-sic-q/context-sic-q]]
+[[06-projects-sic-q/06-projects-sic-q]]
 
 Below is a curated set of seminal works on collective intelligence (CI) and on the use of AI to enable CI at very large scale, with emphasis on platforms and deployments that have reached millions of people or have been used nationally or supra‑nationally. An artifact table summarizing titles, contributions, scale, and AI roles is embedded.
 

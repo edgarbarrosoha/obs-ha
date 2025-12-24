@@ -1,0 +1,27 @@
+# Legacy (SIC-Q)
+
+## Purpose
+Establecer una infraestructura cívica duradera para la participación ciudadana de Querétaro, de modo que las ideas colectivas se conviertan en inteligencia accionable y no se pierdan con los ciclos políticos.
+
+## La visión
+Un sistema donde cualquier ciudadana o ciudadano puede aportar, ver trazabilidad y recibir respuesta clara, con legitimidad social y respaldo institucional.
+
+## Horizonte de tiempo
+30 años, con continuidad garantizada más allá de administraciones y partidos.
+
+## Legado institucional
+- Instituto del Futuro como entidad autónoma que sostiene el sistema en el tiempo.
+- Reglas claras para orquestar talento ciudadano y convertirlo en politica pública.
+
+## No negociables
+- Transparencia y explicabilidad en el uso de datos e IA.
+- Feedback obligatorio a cada propuesta ciudadana (fin del “black hole”).
+- Acceso fácil y masivo (no solo foros presenciales).
+
+## Evidencias base
+- Visión expresada por Antonio Rangel en entrevistas: herramienta sostenible, válida social y jurídicamente, útil para futuras administraciones.
+- Definición SIC-Q: orquestación de talento colectivo y continuidad institucional.
+
+## Links
+- [[01-legacy-sic-q/sic-q-definition/sic-q-definition]]
+- [[06-projects-sic-q/transcripts-zooms/entrevista-toño-limpia]]

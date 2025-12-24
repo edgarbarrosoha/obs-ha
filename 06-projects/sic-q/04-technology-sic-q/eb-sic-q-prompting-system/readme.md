@@ -1,5 +1,5 @@
 # eb-sic-q-prompting-system
-[[04-technology-sic-q/technology-sic-q]]
+[[04-technology-sic-q/04-technology-sic-q]]
 
 
 Documentation, prompts, and research for the SIC-Q (Sistema de Inteligencia Colectiva de Queretaro) project and related materials used by Arquitectura de Horizontes (HA). This repo is primarily a knowledge base and prompt library, not an application.

@@ -1,5 +1,5 @@
 # System Prompt: Agente SIC-Q
-[[04-technology-sic-q/technology-sic-q]]
+[[04-technology-sic-q/04-technology-sic-q]]
 
 **Version:** 1.1
 

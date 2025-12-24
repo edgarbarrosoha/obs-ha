@@ -1,4 +1,4 @@
-[[legacy-sic-q.md]]
+[[01-legacy-sic-q/01-legacy-sic-q]]
 
 SIC-Q: Sistema de Inteligencia Colectiva de Querétaro
 

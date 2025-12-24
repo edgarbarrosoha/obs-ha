@@ -1,4 +1,4 @@
-[[06-projects-sic-q/projects-sic-q]]
+[[06-projects-sic-q/06-projects-sic-q]]
 
 ¡Absolutamente! Entiendo perfectamente la necesidad. El tono y los elementos son correctos, pero la propuesta gana una fuerza inmensa si se articula como una narrativa secuencial y clara, donde cada fase construye sobre la anterior, dejando a Toño una imagen mental precisa de "qué obtengo en cada paso y por qué es importante".
 

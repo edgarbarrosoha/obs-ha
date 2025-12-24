@@ -1,5 +1,5 @@
 # Joaquin Suarez
-[[02-community-sic-q/community-sic-q]]
+[[02-community-sic-q/02-community-sic-q]]
 
 ## Rol
 - Direccion de Planeacion y Seguimiento.

@@ -1,4 +1,4 @@
-[[04-technology-sic-q/technology-sic-q]]
+[[04-technology-sic-q/04-technology-sic-q]]
 
 ## Resumen de las 12 Fases
 

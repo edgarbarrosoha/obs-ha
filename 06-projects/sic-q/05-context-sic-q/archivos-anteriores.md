@@ -1,5 +1,5 @@
 # archivos-anteriores (consolidado)
-[[05-context-sic-q/context-sic-q]]
+[[05-context-sic-q/05-context-sic-q]]
 
 
 Compilación de materiales históricos del proyecto SIC-Q. Cada sección conserva su ruta original.

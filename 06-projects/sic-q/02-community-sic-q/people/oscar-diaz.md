@@ -1,5 +1,5 @@
 # Oscar Diaz
-[[02-community-sic-q/community-sic-q]]
+[[02-community-sic-q/02-community-sic-q]]
 
 ## Rol
 - Apoyo tecnico/data.

@@ -1,5 +1,5 @@
 # Operacion institucional (SIC-Q)
-[[03-learning-sic-q/learning-sic-q]]
+[[03-learning-sic-q/03-learning-sic-q]]
 
 ## Puntos clave
 - Flujo de decision hacia consejos tematicos y autoridades.

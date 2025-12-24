@@ -1,5 +1,5 @@
 # **Horizons Architecture**
-[[05-context-sic-q/context-sic-q]]
+[[05-context-sic-q/05-context-sic-q]]
 
 
 ## **Towards a Non-Linear Fractal Framework for Scaling Human-AI Collaboration in Complex Endeavors** 

@@ -1,4 +1,4 @@
-[[04-technology-sic-q/technology-sic-q]]
+[[04-technology-sic-q/04-technology-sic-q]]
 
 **C - Contexto (Context):**
 Soy **Edgar Barroso, CEO de HA** (una consultora especializada en innovación transdisciplinaria y arquitectura de horizontes). Estamos desarrollando un proyecto estratégico de **Inteligencia Colectiva para el Gobierno del Estado de Querétaro**, trabajando directamente con **Antonio Rangel, Secretario de Planeación y Participación Ciudadana**.

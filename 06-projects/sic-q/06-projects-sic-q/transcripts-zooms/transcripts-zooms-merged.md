@@ -1,4 +1,4 @@
-[[06-projects-sic-q/projects-sic-q]]
+[[06-projects-sic-q/06-projects-sic-q]]
 
 #### +Entrevista+ inicial HA - Guión
 

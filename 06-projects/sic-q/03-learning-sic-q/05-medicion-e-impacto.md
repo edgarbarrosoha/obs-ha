@@ -1,5 +1,5 @@
 # Medicion e impacto (SIC-Q)
-[[03-learning-sic-q/learning-sic-q]]
+[[03-learning-sic-q/03-learning-sic-q]]
 
 ## Puntos clave
 - Definir KPIs de participacion, calidad de propuestas y adopcion institucional.

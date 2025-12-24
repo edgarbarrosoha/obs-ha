@@ -1,5 +1,5 @@
 # Patricia
-[[02-community-sic-q/community-sic-q]]
+[[02-community-sic-q/02-community-sic-q]]
 
 ## Rol
 - Coordinadora de estadistica (segun entrevistas).

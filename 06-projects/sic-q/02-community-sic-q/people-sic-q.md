@@ -1,4 +1,6 @@
 # People — SIC-Q
+[[02-community-sic-q/02-community-sic-q]]
+
 
 ## Personas clave (con nota)
 - [[02-community-sic-q/people/antonio-rangel]]

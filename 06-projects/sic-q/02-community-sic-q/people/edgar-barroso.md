@@ -1,5 +1,5 @@
 # Edgar Barroso
-[[02-community-sic-q/community-sic-q]]
+[[02-community-sic-q/02-community-sic-q]]
 
 ## Rol
 - CEO de Arquitectura de Horizontes (HA).

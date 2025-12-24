@@ -1,5 +1,5 @@
 # Codigo de etica SIC-Q
-[[02-community-sic-q/community-sic-q]]
+[[02-community-sic-q/02-community-sic-q]]
 
 
 **Version:** 0.1 (borrador)

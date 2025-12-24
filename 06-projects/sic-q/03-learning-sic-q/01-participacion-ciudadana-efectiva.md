@@ -1,5 +1,5 @@
 # Participacion ciudadana efectiva (SIC-Q)
-[[03-learning-sic-q/learning-sic-q]]
+[[03-learning-sic-q/03-learning-sic-q]]
 
 ## Puntos clave
 - Disenar flujos que reduzcan friccion (onboarding simple, canales multiples).

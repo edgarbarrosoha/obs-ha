@@ -1,4 +1,4 @@
-[[04-technology-sic-q/technology-sic-q]]
+[[04-technology-sic-q/04-technology-sic-q]]
 
 Te doy un poco el contexto, Toño Rangel es el director de Planeacion y Participación ciudadana en el Estado de Querétaro. Yo soy el CEO de Arquitectura de Horizontes. En la primera reunión con Toño, le presentamos las posibilidades que tendría para hacer, si utilizara nuestra empresa y nuestros servicios de arquitectura de horizontes y le gustaron mucho.
 

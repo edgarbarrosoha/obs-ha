@@ -1,4 +1,4 @@
-[[05-context-sic-q/context-sic-q]]
+[[06-projects-sic-q/06-projects-sic-q]]
 
 
 # Benchmarks mundiales de plataformas de participación ciudadana con IA e inteligencia colectiva

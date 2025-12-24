@@ -1,4 +1,4 @@
-[[04-technology-sic-q/technology-sic-q]]
+[[04-technology-sic-q/04-technology-sic-q]]
 
 
 **C - Contexto (Context):**

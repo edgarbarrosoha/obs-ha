@@ -1,17 +1,8 @@
 # Community (SIC-Q)
 [[02-community-sic-q/people-sic-q]]
 
-
-## Scope
-## Work
-## Outputs
-
-## Links
-
-# Comunidad SIC-Q
-
 ## Personas clave (identificadas en documentos del proyecto)
-- #AntonioRangel ("Toño") — Director/Secretario de Planeación y Participación Ciudadana del Estado de Querétaro; sponsor gubernamental del proyecto.
+- Antonio Rangel ("Toño") — Director/Secretario de Planeación y Participación Ciudadana del Estado de Querétaro; sponsor gubernamental del proyecto.
 - Edgar Barroso — CEO de Arquitectura de Horizontes (HA); liderazgo del lado consultora.
 - Joaquín Suárez — Dirección de Planeación y Seguimiento; interlocución técnica y de datos.
 - Patricia ("Patty", apellido por confirmar) — Coordinadora de estadística; responsable de datos del estado.

@@ -1,5 +1,5 @@
 # Arquitectura socio-tecnica (SIC-Q)
-[[03-learning-sic-q/learning-sic-q]]
+[[03-learning-sic-q/03-learning-sic-q]]
 
 ## Puntos clave
 - Modelos de datos y procesos de ingesta (fuentes oficiales y ciudadanas).
