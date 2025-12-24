@@ -68,9 +68,9 @@
 
 | Proyecto | Dimensión Principal | Status |
 |----------|---------------------|--------|
-| [[06-projects/tec-monterrey/\|tec-monterrey]] | [[01-legacy]] + [[02-community]] | 🟢 |
-| [[06-projects/docet-agentic/\|DOCET]] | [[04-technology]] + [[03-learning]] | 🟡 |
-| [[06-projects/xignux/\|xignux]] | [[04-technology]] + [[06-projects]] | 🟢 |
+| [[06-projects/tec-monterrey/|tec-monterrey]] | [[01-legacy]] + [[02-community]] | 🟢 |
+| [[06-projects/docet-agentic/|DOCET]] | [[04-technology]] + [[03-learning]] | 🟡 |
+| [[06-projects/xignux/|xignux]] | [[04-technology]] + [[06-projects]] | 🟢 |
 
 ## Cómo Usar Este Sistema
 
