@@ -1,13 +1,12 @@
 [
-  "mermaid-tools",
-  "obsidian-pandoc",
-  "obsidian-zotero-desktop-connector",
   "obsidian-git",
+  "obsidian-advanced-slides",
+  "table-editor-obsidian",
+  "calendar",
   "obsidian-fullscreen-plugin",
-  "obsidian-advanced-uri",
-  "advanced-merger",
-  "dataview",
-  "homepage",
+  "mermaid-tools",
+  "obsidian-outliner",
   "widgets",
+  "omnisearch",
   "copilot"
 ]

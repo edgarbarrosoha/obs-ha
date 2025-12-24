@@ -2,7 +2,7 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "Git-Obs-HA/To do/Journal/Dashboard",
+      "value": "06-projects/__to-do/dashboard",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
