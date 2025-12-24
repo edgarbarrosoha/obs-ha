@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-legacy/01-legacy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-legacy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7a9497e98272ed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "005730acaf1eab3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56d69c25aa6c9e25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5badc1c75438ec66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#JuntosPorGuanajuato",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4c3d335e65cb59ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 594.5
+  },
+  "right": {
+    "id": "378b8b2e75a82003",
+    "type": "split",
+    "children": [
+      {
+        "id": "86c519c9db1a3631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da0ef0858a799598",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git-Obs-HA/06-Projects/Libia-Visión-PG2024-2030/Benchmark/Documento/A. Dimensión de Legado.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for A. Dimensión de Legado"
+            }
+          },
+          {
+            "id": "8576186e5ad750f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git-Obs-Research/01-HA-Theoretical-Paper/1. Background and Literature Review/1. Atelier/1. Background and Literature Review_Draft.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Background and Literature Review_Draft"
+            }
+          },
+          {
+            "id": "13bb4232c1748a35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1b9f62b1a111ba91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git-Obs-Research/01-HA-Theoretical-Paper/1. Background and Literature Review/1. Atelier/1. Background and Literature Review_Draft.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Background and Literature Review_Draft"
+            }
+          },
+          {
+            "id": "2dc97643f7620b50",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "bases:Create new base": false,
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "widgets:Add widget": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "to-do/dashboard.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/z.-benchmark-tot.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/v.-conclusiones.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/preguntas-de-investigación-por-dimensión.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/outline-v04.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/outline-v03.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/iv.-consolidación-y-síntesis-final.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/iii.-desarrollo-por-dimensión.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/iii.-benchmarks-y-buenas-prácticas-por-dimensión-ha.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/ii.-marco-metodológico.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/i.-introducción.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/f.-dimensión-de-proyectos.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/estructura-de-desarrollo-del-documento.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/e.-dimensión-de-contexto.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/d.-dimensión-de-tecnología.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/a.-dimensión-de-legado.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/c.-dimensión-de-aprendizaje.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso/b.-dimensión-de-comunidad.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos/opiniones-divergentes.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos/fermín-legorreta.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos/sandra-castañeda.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos/recomendaciones-para-víctor-gutiérrez.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos/julio-noriega.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos/elsa-fernández.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos/jessica-gonzález.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos/guillermo-garrido.md",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/proceso",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/lll/entrevistas-hallazgos",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/prompts",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/documento",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/02-original-categories/02-production",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/02-original-categories/03-post-production",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/02-original-categories/01-pre-production",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/00-programa-de-gobierno/Programa de Gobierno Mapa Mental.canvas",
+    "06-projects/tec-monterrey/narrativa-campus-monterrey/docs-base-de-conocimiento/Rumbo al 2030 Tec Educational Group.pdf",
+    "06-projects/tec-monterrey/ha-course/interfaz/gto-líderes-públicos",
+    "06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.26.png",
+    "06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.19.png",
+    "06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.11.png",
+    "06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.04.png",
+    "06-projects/z-completed/programa-de-gobierno-2024-20230/Programa de Gobierno.canvas",
+    "06-projects/upu/conferencia-upu/Screenshot 2024-10-02 at 9.47.56.png",
+    "06-projects/upu/conferencia-upu/Screenshot 2024-10-02 at 9.47.56 1.png",
+    "06-projects/sic-q/Untitled diagram-2025-11-11-162644.png",
+    "06-Projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.26.png",
+    "06-Projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.19.png",
+    "06-Projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.11.png",
+    "06-Projects/z-completed/programa-de-gobierno-2024-20230/00-programa-de-gobierno/Programa de Gobierno Mapa Mental.canvas",
+    "06-Projects/z-completed/programa-de-gobierno-2024-20230/Programa de Gobierno.canvas",
+    "06-Projects/z-completed/Programa_de_Gobierno_2024-20230/00-programa-de-gobierno/Programa de Gobierno Mapa Mental.canvas",
+    "06-Projects/z-completed/Programa_de_Gobierno_2024-20230/00-Programa_de_Gobierno/Programa de Gobierno Mapa Mental.canvas",
+    "06-Projects/z-completed/Programa_de_Gobierno_2024-20230/Programa de Gobierno.canvas",
+    "06-Projects/z-Completed/Programa_de_Gobierno_2024-20230/00-Programa_de_Gobierno/Programa de Gobierno Mapa Mental.canvas",
+    "06-Projects/z-Completed/Programa_de_Gobierno_2024-20230/Programa de Gobierno.canvas",
+    "Git-Obs-HA/06-Projects/z-Completed/Programa_de_Gobierno_2024-20230/Programa de Gobierno.canvas"
+  ]
+}
