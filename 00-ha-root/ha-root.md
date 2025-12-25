@@ -51,8 +51,8 @@ Convertirnos en la primera unicornio latinoamericana de inteligencia híbrida (h
 | [[01-legacy/proyectos-legado\|proyectos-legado]] | Proyectos | Legados por proyecto (ES) |
 | [[01-legacy/what-ha-wants-to-become\|what-ha-wants-to-become]] | Visión | Lo que HA quiere ser |
 | [[01-legacy/preguntas-de-legado-para-cadad-proyecto\|preguntas-de-legado]] | Metodología | Preguntas generativas |
-| [[01-legacy/ha-graph/ha-raíz\|ha-graph/ha-raíz]] | Grafo | Nodo raíz del grafo HA |
-| [[01-legacy/ha-graph/ha-moc\|ha-graph/ha-moc]] | Grafo | Mapa de contenido HA |
+| [[ha-raíz\|ha-graph/ha-raíz]] | Grafo | Nodo raíz del grafo HA |
+| [[ha-moc\|ha-graph/ha-moc]] | Grafo | Mapa de contenido HA |
 
 ### 02 — Community (Equipo & Red)
 
