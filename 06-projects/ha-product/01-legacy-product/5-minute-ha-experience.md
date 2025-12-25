@@ -322,4 +322,3 @@ Start with: "What's on your mind today?"
 
 ---
 
-*This is HA as experience, not explanation.*

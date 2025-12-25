@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b234436e2dac47a0",
+        "id": "c3e29a4b02c72338",
         "type": "tabs",
         "children": [
           {
-            "id": "682c96c7f04254ee",
+            "id": "b5755bbb2ad25ef7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-projects/ha-product/01-legacy-product/5-minute-ha-experience.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "5-minute-ha-experience"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 580.5
+    "width": 200
   },
   "right": {
     "id": "378b8b2e75a82003",
@@ -180,12 +176,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "682c96c7f04254ee",
+  "active": "b5755bbb2ad25ef7",
   "lastOpenFiles": [
+    "06-projects/sic-q/06-projects-sic-q/entregables/entregables.md",
+    "06-projects/sic-q/06-projects-sic-q/entregables/criterios-evaluacion-tecnica-propuestas.md",
+    "06-projects/ha-product/01-legacy-product/5-minute-ha-experience.md",
     "01-legacy/01-legacy.md",
     "01-legacy/legacy.md",
     "01-legacy/reflexiones-eb-claude4.5-sobre-HA.md",
-    "06-projects/ha-product/01-legacy-product/5-minute-ha-experience.md",
     "01-legacy/ha-raíz.md",
     "01-legacy/proyecto-ejemplo.md",
     "01-legacy/1-legado.md",
@@ -206,8 +204,6 @@
     "06-projects/tec-monterrey/narrativa-campus-monterrey/02-community-ncm/02-community-ncm.md",
     "06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/agent-ncm-legacy.md",
     "06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/01-legacy-ncm.md",
-    "06-projects/tec-monterrey/narrativa-campus-monterrey/00-ha-root-ncm/agent-ncm-root.md",
-    "06-projects/tec-monterrey/narrativa-campus-monterrey/00-ha-root-ncm/ha-root-ncm.md",
     "06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/docs-base-de-conocimiento/Rumbo al 2030 Tec Educational Group.pdf",
     "06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/docs-base-de-conocimiento",
     "06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm",
