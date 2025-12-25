@@ -1,5 +1,12 @@
-# Participacion ciudadana efectiva (SIC-Q)
-[[03-learning-sic-q/03-learning-sic-q]]
+---
+dimension: learning
+project: sic-q
+area: 01-participacion
+status: active
+parent: "[[03-learning-sic-q/03-learning-sic-q]]"
+---
+
+# Participación ciudadana efectiva (SIC-Q)
 
 ## Puntos clave
 - Disenar flujos que reduzcan friccion (onboarding simple, canales multiples).

@@ -1,7 +1,21 @@
-# Community (SIC-Q)
-[[02-community-sic-q/people-sic-q]]
+---
+dimension: community
+project: sic-q
+status: active
+parent: "[[00-ha-root-sic-q/ha-root-sic-q]]"
+---
 
-## Personas clave (identificadas en documentos del proyecto)
+# Community (SIC-Q)
+
+> Red de actores humanos e institucionales que participan en SIC-Q.
+
+## Índice
+- [[02-community-sic-q/people-sic-q|Directorio de personas]]
+- [[02-community-sic-q/codigo-de-etic-sic-q|Código de ética]]
+
+---
+
+## Personas clave
 - Antonio Rangel ("Toño") — Director/Secretario de Planeación y Participación Ciudadana del Estado de Querétaro; sponsor gubernamental del proyecto.
 - Edgar Barroso — CEO de Arquitectura de Horizontes (HA); liderazgo del lado consultora.
 - Joaquín Suárez — Dirección de Planeación y Seguimiento; interlocución técnica y de datos.
@@ -27,6 +41,20 @@
 - INEGI (datos estadísticos oficiales).
 - CONEVAL (fuentes históricas mencionadas).
 - Plan Estatal de Desarrollo y Plan Querétaro 2050 (documentos base de planeación).
+
+---
+
+## Perfiles individuales
+- [[02-community-sic-q/people/antonio-rangel|Antonio Rangel]]
+- [[02-community-sic-q/people/edgar-barroso|Edgar Barroso]]
+- [[02-community-sic-q/people/joaquin-suarez|Joaquín Suárez]]
+- [[02-community-sic-q/people/patricia|Patricia]]
+- [[02-community-sic-q/people/oscar-diaz|Oscar Díaz]]
+- [[02-community-sic-q/people/javier-ocampo|Javier Ocampo]]
+- [[02-community-sic-q/people/poncho|Poncho]]
+- [[02-community-sic-q/people/sarahi|Sarahí]]
+
+---
 
 ## Notas de verificación
 - Nombres incompletos o roles por confirmar: Patricia (apellido), Poncho, Javier Ocampo (rol exacto).

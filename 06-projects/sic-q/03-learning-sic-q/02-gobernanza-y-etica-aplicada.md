@@ -1,5 +1,12 @@
-# Gobernanza y etica aplicada (SIC-Q)
-[[03-learning-sic-q/03-learning-sic-q]]
+---
+dimension: learning
+project: sic-q
+area: 02-gobernanza
+status: active
+parent: "[[03-learning-sic-q/03-learning-sic-q]]"
+---
+
+# Gobernanza y ética aplicada (SIC-Q)
 
 ## Puntos clave
 - Marcos de privacidad, consentimiento y proteccion de datos aplicables.

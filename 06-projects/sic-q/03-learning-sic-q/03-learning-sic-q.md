@@ -1,12 +1,28 @@
-## Nodos de aprendizaje
-- [[03-learning-sic-q/01-participacion-ciudadana-efectiva]]
-- [[03-learning-sic-q/02-gobernanza-y-etica-aplicada]]
-- [[03-learning-sic-q/03-arquitectura-socio-tecnica]]
-- [[03-learning-sic-q/04-operacion-institucional]]
-- [[03-learning-sic-q/05-medicion-e-impacto]]
-- [[03-learning-sic-q/06-comunicacion-publica]]
+---
+dimension: learning
+project: sic-q
+status: active
+parent: "[[00-ha-root-sic-q/ha-root-sic-q]]"
+---
 
-# Aprendizajes SIC-Q
+# Learning (SIC-Q)
+
+> Conocimientos, capacidades y brechas de aprendizaje necesarias para operar SIC-Q.
+
+## Nodos de aprendizaje
+
+| # | Área | Descripción |
+|---|------|-------------|
+| 01 | [[03-learning-sic-q/01-participacion-ciudadana-efectiva\|Participación ciudadana]] | Diseño de flujos, incentivos, facilitación |
+| 02 | [[03-learning-sic-q/02-gobernanza-y-etica-aplicada\|Gobernanza y ética]] | Privacidad, transparencia, supervisión |
+| 03 | [[03-learning-sic-q/03-arquitectura-socio-tecnica\|Arquitectura socio-técnica]] | Modelos de datos, clustering, integración |
+| 04 | [[03-learning-sic-q/04-operacion-institucional\|Operación institucional]] | Flujos de decisión, tiempos de respuesta |
+| 05 | [[03-learning-sic-q/05-medicion-e-impacto\|Medición e impacto]] | KPIs, evaluación de sesgos, iteraciones |
+| 06 | [[03-learning-sic-q/06-comunicacion-publica\|Comunicación pública]] | Narrativa, difusión, educación cívica |
+
+---
+
+# Detalle por área
 
 ## 1. Participacion ciudadana efectiva
 - Disenar flujos que reduzcan friccion (onboarding simple, canales multiples).

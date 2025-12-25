@@ -1,5 +1,12 @@
-# Medicion e impacto (SIC-Q)
-[[03-learning-sic-q/03-learning-sic-q]]
+---
+dimension: learning
+project: sic-q
+area: 05-medicion
+status: active
+parent: "[[03-learning-sic-q/03-learning-sic-q]]"
+---
+
+# Medición e impacto (SIC-Q)
 
 ## Puntos clave
 - Definir KPIs de participacion, calidad de propuestas y adopcion institucional.

@@ -1,6 +1,17 @@
-# Benchmarks mundiales de plataformas de participación ciudadana con IA e inteligencia colectiva
-[[05-context-sic-q/05-context-sic-q]]
+---
+dimension: context
+project: sic-q
+type: benchmark
+status: active
+parent: "[[05-context-sic-q/05-context-sic-q]]"
+tags: [research, comparative-analysis, global-platforms]
+---
 
+# Benchmarks mundiales de plataformas de participación ciudadana con IA e inteligencia colectiva
+
+> Análisis comparativo de 50+ implementaciones internacionales de participación ciudadana con IA.
+
+---
 
 Las siguientes tablas compilan algunas de las experiencias de **plataformas y programas públicos** que combinan herramientas de participación digital con algoritmos de inteligencia artificial (IA) para **procesar aportaciones ciudadanas**, generar inteligencia colectiva y mejorar la interacción con los gobiernos. Se organizaron por regiones para mostrar la diversidad global de enfoques.
 

@@ -1,5 +1,12 @@
-# Arquitectura socio-tecnica (SIC-Q)
-[[03-learning-sic-q/03-learning-sic-q]]
+---
+dimension: learning
+project: sic-q
+area: 03-arquitectura
+status: active
+parent: "[[03-learning-sic-q/03-learning-sic-q]]"
+---
+
+# Arquitectura socio-técnica (SIC-Q)
 
 ## Puntos clave
 - Modelos de datos y procesos de ingesta (fuentes oficiales y ciudadanas).

@@ -1,8 +1,15 @@
-[[01-legacy-sic-q/01-legacy-sic-q]]
+---
+dimension: legacy
+project: sic-q
+type: definition
+status: active
+parent: "[[01-legacy-sic-q/01-legacy-sic-q]]"
+tags: [core-document, citizen-participation, ai-platform]
+---
 
-SIC-Q: Sistema de Inteligencia Colectiva de Querétaro
+# SIC-Q: Sistema de Inteligencia Colectiva de Querétaro
 
-  Definition
+## Definition
 
   SIC-Q is an AI-powered Collective Intelligence System designed to transform citizen participation in state-level planning for Querétaro, Mexico. It moves beyond the traditional "suggestion box" model toward a functional platform where artificial intelligence processes, clusters, and synthesizes thousands of citizen voices into actionable intelligence for public policy.
 

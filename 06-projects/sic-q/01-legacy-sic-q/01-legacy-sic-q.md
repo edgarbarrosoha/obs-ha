@@ -1,3 +1,11 @@
+---
+dimension: legacy
+project: sic-q
+status: active
+horizon: 30 años
+parent: "[[00-ha-root-sic-q/ha-root-sic-q]]"
+---
+
 # Legacy (SIC-Q)
 
 ## Purpose
