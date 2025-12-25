@@ -45,6 +45,7 @@ parent: "[[00-ha-root-ha-core/ha-root-ha-core|HA Root]]"
 |-----------|------|-------------|
 | [[04-technology-ha-core/large-prompts-per-ha-agent\|large-prompts-per-ha-agent]] | Prompts | 7 system prompts para agentes HA |
 | [[04-technology-ha-core/prompt-to-create-agentic-ha-code\|prompt-to-create-agentic-ha-code]] | Prompt | Meta-prompt para generar código HA |
+| [[04-technology-ha-core/haizing-prompt-compact\|haizing-prompt-compact]] | Prompt | **HAizing**: Transforma cualquier input en estructura HA completa |
 
 ### Infraestructura
 | Documento | Tipo | Descripción |

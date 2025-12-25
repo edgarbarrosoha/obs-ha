@@ -32,9 +32,21 @@ Democratizar el pensamiento sistémico. Que cualquier persona tenga acceso a un 
 ## Documentos Clave
 
 - [[00-ha-root-product/product-spec|Especificación del Producto]]
+- [[04-technology-product/product-suite-vision|Product Suite Vision]] — 30+ tools across 6 dimensions
 - [[04-technology-product/technical-architecture|Arquitectura Técnica]]
 - [[04-technology-product/universal-agents|Agentes Universales]]
 - [[06-projects-product/mvp-roadmap|Roadmap MVP]]
+
+## Product Suite Overview
+
+| Dimension | Key Tools |
+|-----------|-----------|
+| **Legacy** | Legacy Builder, Collective Legacy Integrator, Impact Visualizer |
+| **Community** | Network Visualizer 3D, Stakeholder Mapper, Team Health Dashboard |
+| **Learning** | Course Maker, Lesson Extractor, Skills Gap Analyzer |
+| **Technology** | Agent Builder, Prompt Studio, Integration Marketplace |
+| **Context** | Market Radar, Competitor Tracker, Scenario Planner |
+| **Projects** | Portfolio Dashboard, Project Health Monitor, Legacy Score |
 
 ## El Pitch
 

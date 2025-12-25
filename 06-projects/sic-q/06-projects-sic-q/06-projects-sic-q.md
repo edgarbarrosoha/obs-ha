@@ -44,5 +44,5 @@ parent: "[[00-ha-root-sic-q/ha-root-sic-q]]"
 
 ## Notas adicionales
 
-- [[06-projects-sic-q/cepaciqqro.com|CEPACI QRO]]
+- [[cepaciqqro.com|CEPACI QRO]]
 

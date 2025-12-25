@@ -63,6 +63,7 @@ Horizons Architecture (HA) es un framework de pensamiento sistémico que integra
 | [[04-technology-ha-core/ha-source-code\|ha-source-code]] | Código | Código fuente principal |
 | [[04-technology-ha-core/prompt-to-create-agentic-ha-code\|prompt-to-create-agentic-ha-code]] | Prompt | Prompt para generar código HA |
 | [[04-technology-ha-core/large-prompts-per-ha-agent\|large-prompts-per-ha-agent]] | Prompts | 7 prompts de agentes HA |
+| [[04-technology-ha-core/haizing-prompt-compact\|haizing-prompt-compact]] | Prompt | HAizing: input → estructura HA completa |
 | [[04-technology-ha-core/ha-cloud\|ha-cloud]] | Infra | Arquitectura cloud |
 | [[04-technology-ha-core/eb-ha-app-dev\|eb-ha-app-dev]] | App | Desarrollo de aplicación HA |
 

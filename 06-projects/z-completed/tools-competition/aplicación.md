@@ -6,11 +6,11 @@ A collective human-machine peer-to-peer platform enabling project-based vocation
 # Proposal abstract *
 Describe your proposed tool. We want to understand how it works, how it reaches the learner populations and learning outcomes relevant to your track, and how the technology functions.
 
-Students often struggle to connect academics with real-world careers. To make informed decisions about a major or career path, students may benefit from vocational guidance and transdisciplinary experiences. The HA Hybrid Intelligence Project-Based Vocational Platform addresses this gap by offering personalized guidance through a human-AI peer-to-peer network. It fosters a self-evolving support ecosystem integrating human mentorship, hybrid intelligence, and collaboration between educators, institutions, and AI-driven multi-agent systems.
+Students often struggle to connect their academic studies to real-world careers. To make informed decisions about a major or career path, students may benefit from vocational guidance and transdisciplinary experiences. The HA Hybrid Intelligence Project-Based Vocational Platform addresses this gap by offering personalized guidance through a human-AI peer-to-peer network. It fosters a self-evolving support ecosystem that integrates human mentorship, hybrid intelligence, and collaboration among educators, institutions, and AI-driven multi-agent systems.
 
 The platform facilitates individualized learning and teamwork through project-based initiatives, empowering students to explore talents, understand vocational aspirations, and bridge personal growth with collective innovation.
 
-The platform is built on the Horizons Architecture (HA) framework, which is powered by six multidimensional AI agents: Legacy, Community, Learning, Technology, Context, and Projects. These AI agents collaborate with human mentors, educators, and peers, forming a hybrid support network system enriched by a generative ontology of sub-agents for personalized guidance.
+The platform is built on the Horizons Architecture (HA) framework, which is powered by six multidimensional AI agents: Legacy, Community, Learning, Technology, Context, and Projects. These AI agents collaborate with human mentors, educators, and peers, forming a hybrid support network enriched by a generative ontology of sub-agents to provide personalized guidance.
 
 Imagine Sam, unsure about their future career. Through the platform Sam:
 
