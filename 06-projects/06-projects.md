@@ -2,6 +2,10 @@
 
 > La acción: iniciativas, tareas, recursos, riesgos y entregables que materializan el Legado.
 
+## Agente de Dimensión
+
+- [[agent-ha-projects|Agent HA Projects]] — Ejecutor del portafolio
+
 ## Rol en HA
 
 Aquí se prioriza portafolio, se ejecuta, se mide y se cierra el ciclo para actualizar las demás dimensiones.

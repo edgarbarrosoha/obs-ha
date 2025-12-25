@@ -2,6 +2,10 @@
 
 > Mapa vivo de personas e instituciones con sus relaciones, incentivos e influencia.
 
+## Agente de Dimensión
+
+- [[agent-ha-community|Agent HA Community]] — Guardián del equipo y red
+
 ## Rol en HA
 
 No es solo un organigrama; es un **grafo operativo** para coordinar quién decide qué, con quién y cuándo. Las redes humanas son el activo más valioso del sistema.

@@ -7,11 +7,11 @@ parent: "[[00-ha-root-sic-q/ha-root-sic-q]]"
 
 # Community (SIC-Q)
 
-> Red de actores humanos e institucionales que participan en SIC-Q.
+> Red de actores e interacciones humanas e institucionales que participan en SIC-Q.
 
 ## Índice
 - [[02-community-sic-q/people-sic-q|Directorio de personas]]
-- [[02-community-sic-q/codigo-de-etic-sic-q|Código de ética]]
+- [[codigo-de-etic-sic-q|Código de ética]]
 
 ---
 
@@ -23,7 +23,7 @@ parent: "[[00-ha-root-sic-q/ha-root-sic-q]]"
 - Oscar Díaz — Apoyo técnico/data; propone mapeo e ingesta de fuentes.
 - Javier Ocampo — Participante en sesiones; rol específico por confirmar.
 - Poncho (nombre incompleto) — Participante en sesiones; rol específico por confirmar.
-- Sarahí — Project Manager del lado de HA; mencionada para coordinación.
+- Sarahí Orduño — Project Manager del lado de HA; mencionada para coordinación.
 
 ## Instituciones y organizaciones
 - Gobierno del Estado de Querétaro.
@@ -52,7 +52,7 @@ parent: "[[00-ha-root-sic-q/ha-root-sic-q]]"
 - [[02-community-sic-q/people/oscar-diaz|Oscar Díaz]]
 - [[02-community-sic-q/people/javier-ocampo|Javier Ocampo]]
 - [[02-community-sic-q/people/poncho|Poncho]]
-- [[02-community-sic-q/people/sarahi|Sarahí]]
+- [[sarahí-orduño|Sarahí]]
 
 ---
 

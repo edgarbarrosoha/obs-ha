@@ -26,3 +26,25 @@ updated: 2025-12-25
 
 - **Eje de Tiempo**: Pasado (lecciones aprendidas) → Presente (operación actual) → Futuro (visión 2050)
 - **Eje de Complejidad Simultánea**: Las 6 dimensiones operando en paralelo
+
+---
+
+## Sistema de Agentes IA
+
+> Ontología agentiva generativa para SIC-Q: agentes especializados bajo supervisión humana interpretativa.
+
+| Agente | Dimensión | Función | Prompt |
+|--------|-----------|---------|--------|
+| **Root** | Orquestador | Coordina dimensiones, sintetiza respuestas | [[00-ha-root-sic-q/agent-sic-q-root]] |
+| Legacy | 01 | Custodio del propósito y visión 30 años | [[01-legacy-sic-q/agent-sic-q-legacy]] |
+| Community | 02 | Mapeo de stakeholders y dinámicas sociales | [[02-community-sic-q/agent-sic-q-community]] |
+| Learning | 03 | Brechas de conocimiento, mejora continua | [[03-learning-sic-q/agent-sic-q-learning]] |
+| Technology | 04 | Arquitectura técnica, IA, gobernanza | [[04-technology-sic-q/agent-sic-q-technology]] |
+| Context | 05 | Entorno externo, benchmarks, regulación | [[05-context-sic-q/agent-sic-q-context]] |
+| Projects | 06 | Ejecución, recursos, entregables | [[06-projects-sic-q/agent-sic-q-projects]] |
+
+### Uso de los Agentes
+
+1. **Consulta específica** → Usar agente dimensional directamente
+2. **Consulta compleja** → Root Agent coordina y sintetiza
+3. **Supervisión humana** → Siempre presenta opciones, nunca decide solo

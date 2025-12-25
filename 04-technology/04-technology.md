@@ -2,6 +2,10 @@
 
 > Infraestructura y herramientas (datos, integración, IA, simulación) como sistema socio-técnico.
 
+## Agente de Dimensión
+
+- [[agent-ha-technology|Agent HA Technology]] — Arquitecto de la implementación
+
 ## Rol en HA
 
 Define qué servicios y tools usar, cómo integrarlos, con qué protocolos y costos. Aloja bases de datos, bases de conocimiento y orquesta agentes.

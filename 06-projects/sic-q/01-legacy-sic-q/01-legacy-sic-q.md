@@ -12,14 +12,14 @@ parent: "[[00-ha-root-sic-q/ha-root-sic-q]]"
 Establecer una infraestructura cívica duradera para la participación ciudadana de Querétaro, de modo que las ideas colectivas se conviertan en inteligencia accionable y no se pierdan con los ciclos políticos.
 
 ## La visión
-Un sistema donde cualquier ciudadana o ciudadano puede aportar, ver trazabilidad y recibir respuesta clara, con legitimidad social y respaldo institucional.
+Un sistema en el que cualquier ciudadana o ciudadano puede aportar, ver la trazabilidad y recibir una respuesta clara, con legitimidad social y respaldo institucional.
 
 ## Horizonte de tiempo
-30 años, con continuidad garantizada más allá de administraciones y partidos.
+30 años, con continuidad garantizada más allá de las administraciones y los partidos.
 
 ## Legado institucional
-- Instituto del Futuro como entidad autónoma que sostiene el sistema en el tiempo.
-- Reglas claras para orquestar talento ciudadano y convertirlo en politica pública.
+- Instituto del Futuro como entidad autónoma que sostiene el sistema a lo largo del tiempo.
+- Reglas claras para orquestar el talento ciudadano y convertirlo en política pública.
 
 ## No negociables
 - Transparencia y explicabilidad en el uso de datos e IA.

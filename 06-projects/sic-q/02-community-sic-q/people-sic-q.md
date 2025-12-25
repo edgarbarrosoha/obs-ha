@@ -10,7 +10,7 @@
 - [[02-community-sic-q/people/oscar-diaz]]
 - [[02-community-sic-q/people/javier-ocampo]]
 - [[02-community-sic-q/people/poncho]]
-- [[02-community-sic-q/people/sarahi]]
+- [[sarahí-orduño]]
 
 ## Otras personas (tags)
 - #persona/Antonio-Rangel

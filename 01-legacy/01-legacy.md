@@ -2,6 +2,10 @@
 
 > La brújula estratégica: define "qué significa ganar" y en qué horizonte de tiempo.
 
+## Agente de Dimensión
+
+- [[agent-ha-legacy|Agent HA Legacy]] — Custodio del propósito
+
 ## Rol en HA
 
 El Legado es la **función objetivo** del sistema. Gobierna decisiones humanas y agentes de IA en todos los niveles. Es lo que queremos lograr que trascienda.

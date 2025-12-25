@@ -2,6 +2,10 @@
 
 > Condiciones externas (mercado, regulación, macroeconomía, ambiente, geopolítica) que habilitan o restringen.
 
+## Agente de Dimensión
+
+- [[agent-ha-context|Agent HA Context]] — Radar del mercado y entorno
+
 ## Rol en HA
 
 Es **escaneo dinámico**: personas definen variables a monitorear y agentes sugieren señales e inyectan alertas/escenarios en decisiones.

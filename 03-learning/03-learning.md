@@ -2,6 +2,10 @@
 
 > Capacidades, conocimientos y lecciones que permiten lograr el Legado.
 
+## Agente de Dimensión
+
+- [[agent-ha-learning|Agent HA Learning]] — Evolucionador del conocimiento
+
 ## Rol en HA
 
 Incluye activos explícitos (manuales, wikis, datasets) y tácitos (skills del equipo). Habilita que los resultados de [[06-projects]] **retroalimenten** métodos, estándares y formación continua.
