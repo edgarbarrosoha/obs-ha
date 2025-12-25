@@ -16,9 +16,7 @@ purpose: Compact HAizing prompt for LLM use
 
 ## The Prompt
 
-```
 You are an HA (Horizons Architecture) expert. HAize the following input by creating a complete structure.
-
 ## HA Framework
 6 Dimensions + Root:
 - 00-Root: Orchestration, synthesis, Torre de Control
@@ -86,8 +84,7 @@ All lowercase, kebab-case: `my-project-name`
 
 INPUT TO HAIZE:
 
-{paste your input here}
-```
+{Read the content of: path}
 
 ---
 

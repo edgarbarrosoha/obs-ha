@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c3e29a4b02c72338",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "b5755bbb2ad25ef7",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04-technology/prompts/haizing-prompt.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "haizing-prompt"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mara",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 550.500732421875
   },
   "right": {
     "id": "378b8b2e75a82003",
@@ -176,34 +180,34 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b5755bbb2ad25ef7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Untitled.md",
+    "04-technology/prompts/haizing-prompt.md",
+    "06-projects/ha-core/04-technology-ha-core/haizing-prompt-compact.md",
+    "06-projects/ha-core/04-technology-ha-core/04-technology-ha-core.md",
+    "01-legacy/ha-raíz.md",
+    "01-legacy/01-legacy.md",
+    "01-legacy/1-legado.md",
+    "01-legacy/2-comunidad.md",
+    "01-legacy/3-aprendizaje.md",
+    "01-legacy/4-tecnología.md",
+    "01-legacy/5-contexto.md",
+    "01-legacy/6-proyectos.md",
+    "06-projects/ha-core/04-technology-ha-core/ha-v02.md",
+    "06-projects/__to-do/dashboard.md",
     "06-projects/sic-q/06-projects-sic-q/entregables/entregables.md",
     "06-projects/sic-q/06-projects-sic-q/entregables/criterios-evaluacion-tecnica-propuestas.md",
     "06-projects/ha-product/01-legacy-product/5-minute-ha-experience.md",
-    "01-legacy/01-legacy.md",
     "01-legacy/legacy.md",
     "01-legacy/reflexiones-eb-claude4.5-sobre-HA.md",
-    "01-legacy/ha-raíz.md",
     "01-legacy/proyecto-ejemplo.md",
-    "01-legacy/1-legado.md",
     "04-technology/prompts/haize-prompt.md",
     "04-technology/prompts/ultimate-haize-prompt.md",
     "06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-campus-monterrey-2030-versión-para-revisión.md",
     "06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/06-projects-ncm.md",
-    "06-projects/__to-do/dashboard.md",
     "06-projects/sic-q/06-projects-sic-q/06-projects-sic-q.md",
     "06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/agent-ncm-projects.md",
-    "06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/agent-ncm-context.md",
-    "06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/05-context-ncm.md",
-    "06-projects/tec-monterrey/narrativa-campus-monterrey/04-technology-ncm/agent-ncm-technology.md",
-    "06-projects/tec-monterrey/narrativa-campus-monterrey/04-technology-ncm/04-technology-ncm.md",
-    "06-projects/tec-monterrey/narrativa-campus-monterrey/03-learning-ncm/agent-ncm-learning.md",
-    "06-projects/tec-monterrey/narrativa-campus-monterrey/03-learning-ncm/03-learning-ncm.md",
-    "06-projects/tec-monterrey/narrativa-campus-monterrey/02-community-ncm/agent-ncm-community.md",
-    "06-projects/tec-monterrey/narrativa-campus-monterrey/02-community-ncm/02-community-ncm.md",
-    "06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/agent-ncm-legacy.md",
-    "06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/01-legacy-ncm.md",
     "06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/docs-base-de-conocimiento/Rumbo al 2030 Tec Educational Group.pdf",
     "06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/docs-base-de-conocimiento",
     "06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm",

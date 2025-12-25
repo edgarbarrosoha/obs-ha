@@ -1,4 +1,3 @@
 ```widgets
 type: clock
 ```
-
