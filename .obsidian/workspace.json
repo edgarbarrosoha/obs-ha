@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/mermaid-citizens-journey-v.03.md",
+                "file": "00-ha-root/06-projects/__to-do/dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mermaid-citizens-journey-v.03"
+              "title": "dashboard"
             }
           }
         ]
@@ -27,20 +27,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f7a9497e98272ed3",
+    "id": "de731eeb9d40e9c2",
     "type": "split",
     "children": [
       {
-        "id": "005730acaf1eab3b",
+        "id": "810c047fe5059d17",
         "type": "tabs",
         "children": [
           {
-            "id": "56d69c25aa6c9e25",
+            "id": "47d5b77df9ffd879",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -48,13 +48,13 @@
             }
           },
           {
-            "id": "5badc1c75438ec66",
+            "id": "3cf6b18ef9e445d0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "entrevista ",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "4c3d335e65cb59ef",
+            "id": "119024e0d4763c73",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.50271224975586
+    "width": 655.5
   },
   "right": {
-    "id": "378b8b2e75a82003",
+    "id": "91d3bc9e8ba0f1cd",
     "type": "split",
     "children": [
       {
-        "id": "86c519c9db1a3631",
+        "id": "27156f39d5ea30d6",
         "type": "tabs",
         "children": [
           {
-            "id": "da0ef0858a799598",
+            "id": "b472868b4bb1a578",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git-Obs-HA/06-Projects/Libia-Visión-PG2024-2030/Benchmark/Documento/A. Dimensión de Legado.md",
+                "file": "00-ha-root/06-projects/__to-do/dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,133 +104,139 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A. Dimensión de Legado"
+              "title": "Backlinks for dashboard"
             }
           },
           {
-            "id": "8576186e5ad750f2",
+            "id": "92b7b7754bdc9e76",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git-Obs-Research/01-HA-Theoretical-Paper/1. Background and Literature Review/1. Atelier/1. Background and Literature Review_Draft.md",
+                "file": "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/ascii-citizens-journey-v.03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Background and Literature Review_Draft"
+              "title": "Outgoing links from ascii-citizens-journey-v.03"
             }
           },
           {
-            "id": "13bb4232c1748a35",
+            "id": "62721ad46fac3625",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "1b9f62b1a111ba91",
+            "id": "15a06c6c56db64a6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "a7893058bc20e934",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/ascii-citizens-journey-v.03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of ascii-citizens-journey-v.03"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 734.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "bases:Create new base": false,
       "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "widgets:Add widget": false,
-      "terminal:Open terminal": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "homepage:Open homepage": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "47d5b77df9ffd879",
   "lastOpenFiles": [
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/ascii-citizens-journey-v.03.md",
+    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/experiencia-plataforma-v01.ascii",
+    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/diagrama-mermaid-v02.mmd",
+    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/diagrama-mermaid-v01.mmd",
+    "00-ha-root/03-learning/vibecoding/Zo-Webinar.txt",
     "00-ha-root/06-projects/__to-do/dashboard.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/mermaid-citizens-journey-v.03.md",
     "00-ha-root/06-projects/sic-q/02-community-sic-q/metodología-proceso-codiseño-sic-q-ha-v.02.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey-past-versions/metodología-proceso-codiseño-sic-q-v.01.md",
+    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/mermaid-citizens-journey-v.03.md",
+    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/ascii-citizens-journey-v.03.md",
     "00-ha-root/06-projects/sic-q/05-context-sic-q/documentos-base-conocimientos-sic-q.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey-past-versions/citizens-journey-v.02.md",
+    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/codex.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey-past-versions/citizens-journey-prompt.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey-past-versions",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/ASCII.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey 1.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/documentos-base-conocimientos-sic-q.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/codex.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/notas-diagrama-impresa.md",
+    "00-ha-root/06-projects/06-projects.md",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/5C962185-CA38-428B-8EC3-83A87C9589AC (1).png",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/prompts-sic-q/prompt-agente-sicq-ciudadano.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/prompts-sic-q/prompt-agente-sic-q-raiz-gobierno.md",
     "00-ha-root/06-projects/y-HA-Atelier/propuesta-tec-lemmontech-v01.md",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/03-learning-ncm/value-proposition-of-presence-senge.md",
-    "5C962185-CA38-428B-8EC3-83A87C9589AC (1).png",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/03-learning-ncm/social-cognitive-theory-bandura.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/proceso-diseño-sic-q-ha.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/proceso-diseño-sic-q.md",
-    "00-ha-root/06-projects/ha-core/01-legacy-ha-core/ha-theoretical-paper.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey.md",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/entrevista-david-garza.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/diagrama-mermaid-v02.mmd",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/entrevista-juan-pablo-murra.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/agent-ncm-projects.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/entrevista-presentación-transcript-05.12.2025.md",
-    "00-ha-root/06-projects/sic-q/05-context-sic-q/doc-knowledge/QRO2050 Plan.pdf",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/docs-base-de-conocimiento/Rumbo al 2030 Tec Educational Group.pdf",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/docs-base-de-conocimiento",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/04-technology-ncm",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/03-learning-ncm",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/02-community-ncm",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/Untitled diagram-2025-11-11-162644.png",
-    "06-projects/sic-q/04-technology/Untitled diagram-2025-11-11-162644.png",
-    "06-projects/sic-q/technology/Untitled diagram-2025-11-11-162644.png",
-    "00-ha-root/06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.26.png",
+    "00-ha-root/06-projects/sic-q/04-technology-sic-q/prompts-sic-q/prompt-mejorar-citizens-journey.md",
+    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-campus-monterrey-2030-versión-para-revisión.md",
+    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/Prompt incluye facultad.md",
+    "00-ha-root/06-projects/ha-core/00-ha-root-ha-core/Axioms in HA.md",
+    "00-ha-root/01-legacy/advisory-conversation-ha-as-discipline.md.md",
+    "00-ha-root/01-legacy/metas-2026-ha.md",
+    "00-ha-root/01-legacy/pitch-nicho-talisis-2026.md",
+    "00-ha-root/01-legacy/pitch-poncho-docet-2026.md",
+    "00-ha-root/01-legacy/pitch-upu-expansion-2026.md",
+    "00-ha-root/02-community/stakeholders",
+    "00-ha-root/03-learning/metodologias",
+    "00-ha-root/03-learning/vibecoding",
+    "00-ha-root/04-technology/prompts",
+    "00-ha-root/05-context/grants-ha",
+    "00-ha-root/04-technology",
     "00-ha-root/06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.19.png",
     "00-ha-root/06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.11.png",
+    "00-ha-root/06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.26.png",
     "00-ha-root/06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.04.png",
+    "00-ha-root/06-projects/sic-q/04-technology-sic-q/Untitled diagram-2025-11-11-162644.png",
+    "00-ha-root/06-projects/upu/conferencia-upu/Screenshot 2024-10-02 at 9.47.56.png",
+    "00-ha-root/06-projects/upu/conferencia-upu/Screenshot 2024-10-02 at 9.47.56 1.png",
     "00-ha-root/06-projects/z-completed/programa-de-gobierno-2024-20230/Programa de Gobierno.canvas",
-    "06-projects/sic-q/Untitled diagram-2025-11-11-162644.png",
-    "06-projects/z-completed/projects/programa-de-gobierno-2024-20230/Programa de Gobierno.canvas",
-    "00-ha-root/06-projects/z-completed/programa-de-gobierno-2024-20230/00-programa-de-gobierno/Programa de Gobierno Mapa Mental.canvas",
-    "06-Projects/z-completed/programa-de-gobierno-2024-20230/00-programa-de-gobierno/Programa de Gobierno Mapa Mental.canvas",
-    "06-Projects/z-completed/programa-de-gobierno-2024-20230/Programa de Gobierno.canvas",
-    "06-Projects/z-completed/Programa_de_Gobierno_2024-20230/00-programa-de-gobierno/Programa de Gobierno Mapa Mental.canvas",
-    "06-Projects/z-completed/Programa_de_Gobierno_2024-20230/00-Programa_de_Gobierno/Programa de Gobierno Mapa Mental.canvas",
-    "06-Projects/z-completed/Programa_de_Gobierno_2024-20230/Programa de Gobierno.canvas",
-    "06-Projects/z-Completed/Programa_de_Gobierno_2024-20230/00-Programa_de_Gobierno/Programa de Gobierno Mapa Mental.canvas",
-    "06-Projects/z-Completed/Programa_de_Gobierno_2024-20230/Programa de Gobierno.canvas"
+    "00-ha-root/06-projects/z-completed/programa-de-gobierno-2024-20230/00-programa-de-gobierno/Programa de Gobierno Mapa Mental.canvas"
   ]
 }
