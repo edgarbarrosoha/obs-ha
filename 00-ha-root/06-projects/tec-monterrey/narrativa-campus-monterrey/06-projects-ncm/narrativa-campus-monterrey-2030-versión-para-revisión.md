@@ -4,7 +4,7 @@
 
 ## 1. Dónde estamos
 
-En los últimos cinco años, el Campus Monterrey creció en métricas que importan. Las publicaciones científicas pasaron de 1,528 en 2019 a 2,306 en 2024. Las citas subieron de 18,370 a más de 102,000. Las y los investigadores en el SNI aumentó de 570 a 705. La Faculty of Excellence atrajo a más de 40 docentes de 14 nacionalidades. Y Expedition lleva un año operando con talento investigador del top 2% del mundo. Este avance se debe al esfuerzo de nuestra comunidad.
+En los últimos cinco años, el Campus Monterrey creció en métricas que importan. Las publicaciones científicas pasaron de 1,528 en 2019 a 2,306 en 2024. Las citas subieron de 18,370 a más de 102,000. Las y los investigadores en el SNI aumentaron de 570 a 705. La Faculty of Excellence atrajo a más de 40 docentes de 14 nacionalidades. Y Expedition lleva un año operando con talento investigador del top 2% del mundo. Este avance se debe al esfuerzo de nuestra comunidad.
 
 Pero 2030 está a cuatro años, y el contexto ha cambiado. El mundo enfrenta tensiones geopolíticas, disrupciones tecnológicas que transforman industrias enteras, y retos climáticos que exigen respuestas coordinadas. México navega desafíos propios: desigualdad persistente, la necesidad de diversificar su economía, y la urgencia de formar talento que pueda competir y liderar globalmente.
 
@@ -46,7 +46,7 @@ Lo que ya tenemos son los nodos fuertes. Lo que falta es sistematizar las colisi
 
 En Expedition ya vimos qué pasa cuando esto funciona. Una persona de biotecnología compartiendo pasillo con un equipo de diseño industrial: en seis meses desarrollaron un prototipo de dispositivo médico que nadie habría concebido en aislamiento.
 
-Eso es lo que queremos: escalar el impacto mediante la colaboración potenciada por la IA. Fortalecer lo disciplinar, y construir un sistema de conexiones robusto en el que la innovación para enfrentar ese futuro lleno de incertidumbre. Y lo único que teníamos claro era que necesitábamos escuchar diferentes perspectivas para lograrlo. 
+Eso es lo que queremos: escalar el impacto mediante la colaboración potenciada por la IA. Fortalecer lo disciplinar y construir un sistema de conexiones robusto que nos permita innovar para enfrentar ese futuro lleno de incertidumbre. Y lo único que teníamos claro era que necesitábamos escuchar diferentes perspectivas para lograrlo. 
 
 ---
 
@@ -63,8 +63,6 @@ Así que lo primero que hicimos fue escuchar. Hablamos con decanaturas, estudian
 ---
 
 ## 5. Las tres apuestas transformadoras del Campus Monterrey
-
-Empezamos pensando en cinco pilares. Filtramos. Descartamos dos que, aunque valiosos, no cambiaban la dinámica del campus—eran mejoras, no transformaciones. Nos quedamos con tres.
 
 ### 1. Distrito de Innovación
 
@@ -88,6 +86,20 @@ La selectividad es lo que hace que las otras dos apuestas funcionen. Sin las per
 *   **Estudiantes:** entender el perfil de ingreso. Buscamos a las y los mejores de todas partes, usando IA para identificar talento a tiempo en olimpiadas y concursos, antes de que soliciten admisión.
 *   **Docentes:** Faculty of Excellence es el inicio. La meta es integrar a estas personas como mentoras activas, no como estrellas aisladas. Ya hay ejemplos muy loables de eso como X, Y y Z. 
 *   **Programas:** cupos limitados en programas clave. La exclusividad basada en mérito eleva el estándar para toda la comunidad.
+
+### 4. Facultad
+
+El Campus Monterrey ya tiene una facultad sólida. No es solo el número —705 SNI— sino el trabajo de cada escuela por elevar el estándar: contrataciones más rigurosas, desarrollo profesional continuo, y una cultura de publicación que hace diez años no existía. Faculty of Excellence sumó 40+ docentes de 14 nacionalidades. Expedition demostró que el top 2% mundial quiere estar aquí.
+
+Pero tener talento no es lo mismo que activarlo. La pregunta es: ¿cómo convertimos a nuestra facultad en el principal argumento para que los mejores estudiantes y los mejores profesores del mundo quieran venir?
+
+- **La transformación:** que cada docente de alto nivel sea un embajador activo —en el aula, en la industria, y en las redes globales donde se decide quién es relevante.
+- **Los mecanismos:**
+    - **En el aula:** Faculty of Excellence enseñando al menos un curso de licenciatura al año. El talento de clase mundial no puede ser invisible para el estudiantado.
+    - **En la industria:** residencias cruzadas. Profesores en empresas por sprints de 3 meses; ejecutivos en laboratorios por el mismo periodo. Investigación que resuelve problemas reales, no papers que nadie lee.
+    - **En el mundo:** cada FoE con el compromiso de traer a un colega internacional al campus cada año. No conferencias —estancias de trabajo. Así se construye reputación: persona a persona, proyecto a proyecto.
+
+Mejor facultad atrae mejores estudiantes. Mejores estudiantes atraen mejor facultad. El objetivo para 2030 es que el Tec sea la primera opción en Latinoamérica para quien quiere investigar con impacto —y que eso se sepa.
 
 ### Los habilitadores sistémicos
 
@@ -113,7 +125,7 @@ Una vez que veamos el mapa, activamos:
 *   **En TecSalud:** 3 Living Labs piloto con Ingeniería para Q3 2025. No esperamos el plan perfecto—prototipamos y aprendemos operando.
 
 ### Priorizar con claridad
-Para hacer esto realidad, necesitamos enfocarnos. El criterio es simple: **priorizamos lo que conecta y cree valor para las  personas.**
+Para hacer esto realidad, necesitamos enfocarnos. El criterio es simple: **priorizamos lo que conecta y crea valor para las personas.**
 
 Iniciativas que generen colisiones interdisciplinarias, atraigan talento del top 2%, o contribuyan a las 3 apuestas recibirán prioridad en recursos, espacios y visibilidad. Lo que no conecte, pierde prioridad. Reasignaremos recursos de lo administrativo y lo inercial hacia fondos semilla y atracción de talento. No pedimos solo dinero nuevo; optimizamos el actual.
 

@@ -163,11 +163,11 @@ Where This Gets Interesting
 
 If this is the play, then your partner strategy makes more sense:
 
-|Partner|What They Bring|What They Get|
-|---|---|---|
-|Tec de Monterrey|Academic legitimacy, 100K+ students/year, research infrastructure|First-mover on hybrid intelligence curriculum|
-|Nicho/Talisis|150K students, distribution network|Differentiated methodology for their schools|
-|Poncho/DOCET|K-9 implementation, "AI-First school" case study|Competitive edge, HA as operating system|
+| Partner          | What They Bring                                                   | What They Get                                 |
+| ---------------- | ----------------------------------------------------------------- | --------------------------------------------- |
+| Tec de Monterrey | Academic legitimacy, 100K+ students/year, research infrastructure | First-mover on hybrid intelligence curriculum |
+| Nicho/Talisis    | 150K students, distribution network                               | Differentiated methodology for their schools  |
+| Poncho/DOCET     | K-9 implementation, "AI-First school" case study                  | Competitive edge, HA as operating system      |
 
 These aren't customers. They're co-creators of a movement.
 
@@ -180,13 +180,13 @@ Think Salesforce (platform + partners + methodology), or even CrossFit (methodol
 For HA, the unicorn path might be:
 
 1. Methodology = HA Framework (6 dimensions, 2 axes)
-    
+
 2. Platforms = Mara (B2C), SIC-Q (B2G), future instantiations
-    
+
 3. Certification = HA practitioners, trained by Tec and partners
-    
+
 4. Community = Network of organizations running HA
-    
+
 5. Ecosystem = Partners building on top of HA
     
 
@@ -210,12 +210,12 @@ Short answer: In the beginning, yes. Eventually, no.
 
 Look at the pattern:
 
-|Discipline|Early Evangelist|What Carries It Now|
-|---|---|---|
-|Design Thinking|David Kelley|Stanford d.school + IDEO institution|
-|Lean Startup|Eric Ries|Books + accelerators + ecosystem|
-|Scrum|Jeff Sutherland|Scrum Alliance + certifications|
-|Systems Dynamics|Jay Forrester|MIT + academic lineage|
+| Discipline       | Early Evangelist | What Carries It Now                  |
+| ---------------- | ---------------- | ------------------------------------ |
+| Design Thinking  | David Kelley     | Stanford d.school + IDEO institution |
+| Lean Startup     | Eric Ries        | Books + accelerators + ecosystem     |
+| Scrum            | Jeff Sutherland  | Scrum Alliance + certifications      |
+| Systems Dynamics | Jay Forrester    | MIT + academic lineage               |
 
 Every discipline needs a voice in the wilderness phase. Someone who can articulate it, defend it, demonstrate it. That's you, for now.
 
@@ -283,15 +283,16 @@ What This Changes About Strategy
 
 Your credibility assets are:
 
-|Asset|Status|
-|---|---|
-|Harvard pedigree|✓ Locked|
-|Tec de Monterrey professor|✓ Locked|
-|Switzerland base|✓ Locked|
-|Composer/artist identity|✓ Locked|
-|Academic book|Needed|
-|Peer-reviewed paper|Needed|
-|Major case study (SIC-Q)|In progress|
+| Asset                      | Status      |
+| -------------------------- | ----------- |
+| Harvard pedigree           | ✓ Locked    |
+| Tec de Monterrey professor | ✓ Locked    |
+| Switzerland base           | ✓ Locked    |
+| Composer/artist identity   | ✓ Locked    |
+| Academic book              | Needed      |
+| Peer-reviewed paper        | Needed      |
+| Major case study (SIC-Q)   | In progress |
+| El programa de gobierno    |             |
 
 The book and paper aren't marketing. They're your credentials. Without them, you're a consultant with interesting ideas. With them, you're a scholar with a validated framework.
 

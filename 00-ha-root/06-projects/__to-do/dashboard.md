@@ -1,22 +1,6 @@
 ```widgets
 type: clock
 ```
-
-- [ ] HA
-	- [ ] Hacer un gran SIC-Q
-	- [ ] Lanzar Mara
-	- [ ] Encontrar un proyecto de más de 100k CHF en Suiza
-	- [ ] Facturar 1.5M USD en 2026. 
-	- [ ] Hacer un corte de caja de lo que tenemos y crear productos
-	- [ ] HA curso con el Tec de Monterrey
-	- [ ] HA libro
-	- [ ] HA paper
-	- [ ] Subir de socios a
-		- [ ] Nicho
-		- [ ] Poncho
-		- [ ] Tec de Monterrey
-	- [ ] Hacer empresa suiza
-
 # Today
 ```schedule
 [Start]: 27/12/25 - 09:30 AM
@@ -33,9 +17,6 @@ type: clock
 # Priorities
 - [ ] Mejorar el prompt del [narrative-builder](obsidian://open?vault=obs-ha&file=00-ha-root%2F06-projects%2Fha-atelier%2Fprompts%2Fnarrative-builder)
 - [ ] Suavizar el eran 5 y nos enfocamos en 3 de la narrativa
-- [ ] Sacar 
-- [ ] Pasar mi paper a Obsidian
-	- [ ] Preguntar cómo podemos rematar ese proyecto
 - [ ] Vibecode a reference checker with what we have (lista bibliográfica)
 - [ ] Mandar las preguntas a Gabe
 - [ ] Vibecode a class maker (Ethics)
