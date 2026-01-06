@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/documentos-base-conocimientos-sic-q.md",
+                "file": "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/mermaid-citizens-journey-v.03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "documentos-base-conocimientos-sic-q"
+              "title": "mermaid-citizens-journey-v.03"
             }
           }
         ]
@@ -175,9 +175,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/ascii-citizens-journey-v.03.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/ASCII.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/codex.md",
+    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey 1.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/mermaid-citizens-journey-v.03.md",
+    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/documentos-base-conocimientos-sic-q.md",
+    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/codex.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/notas-diagrama-impresa.md",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/5C962185-CA38-428B-8EC3-83A87C9589AC (1).png",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/prompts-sic-q/prompt-agente-sicq-ciudadano.md",
@@ -187,7 +190,6 @@
     "5C962185-CA38-428B-8EC3-83A87C9589AC (1).png",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/03-learning-ncm/social-cognitive-theory-bandura.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/proceso-diseño-sic-q-ha.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/documentos-base-conocimientos-sic-q.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/proceso-diseño-sic-q.md",
     "00-ha-root/06-projects/ha-core/01-legacy-ha-core/ha-theoretical-paper.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey.md",
@@ -202,8 +204,6 @@
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/06-projects-ncm.md",
     "00-ha-root/06-projects/sic-q/05-context-sic-q/agent-sic-q-context.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/prompts-sic-q/prompt-mejorar-citizens-journey.md",
-    "00-ha-root/06-projects/sic-q/05-context-sic-q/archivos-anteriores.md",
-    "00-ha-root/06-projects/sic-q/05-context-sic-q/cepaciqqro.com.md",
     "00-ha-root/06-projects/sic-q/05-context-sic-q/doc-knowledge/QRO2050 Plan.pdf",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/docs-base-de-conocimiento/Rumbo al 2030 Tec Educational Group.pdf",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/docs-base-de-conocimiento",

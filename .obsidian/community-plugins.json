@@ -10,5 +10,8 @@
   "omnisearch",
   "homepage",
   "terminal",
-  "textgrams"
+  "advanced-merger",
+  "dataview",
+  "obsidian-pandoc",
+  "obsidian-zotero-desktop-connector"
 ]
