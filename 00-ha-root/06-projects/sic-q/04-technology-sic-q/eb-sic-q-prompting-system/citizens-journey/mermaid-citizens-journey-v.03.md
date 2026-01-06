@@ -1,4 +1,6 @@
-```mermaid
+https://www.mermaidchart.com/app/projects/50e0c433-65e4-42a2-838c-152a5b829630/diagrams/873ea6ee-fd9b-4b54-9998-2e015f78af9c/share/invite/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkb2N1bWVudElEIjoiODczZWE2ZWUtZmQ5Yi00YjU0LTk5OTgtMmUwMTVmNzhhZjljIiwiYWNjZXNzIjoiRWRpdCIsImlhdCI6MTc2NzcyNjI4N30.tpLIVBW-_kzMaSjWdyUDIkkSppVr8RkjuvFYhJwJcHw
+
+```mermaid 
 ---
 config:
   layout: dagre
@@ -88,5 +90,4 @@ flowchart LR
     GOB3 --> FB
     FB --> CICLO
     CICLO -. Regresa a participar .-> REG_TITLE
-
 ```

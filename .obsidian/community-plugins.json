@@ -1,8 +1,6 @@
 [
-  "obsidian-git",
   "obsidian-advanced-slides",
   "table-editor-obsidian",
-  "calendar",
   "obsidian-fullscreen-plugin",
   "mermaid-tools",
   "obsidian-outliner",
@@ -10,8 +8,10 @@
   "omnisearch",
   "homepage",
   "terminal",
-  "advanced-merger",
+  "textgrams",
+  "obsidian-advanced-uri",
   "dataview",
   "obsidian-pandoc",
-  "obsidian-zotero-desktop-connector"
+  "advanced-merger",
+  "obsidian-git"
 ]

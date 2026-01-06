@@ -15,7 +15,7 @@ parent: "[[ha-root-sic-q]]"
 |------------|-------------|------|
 | Agente SIC-Q | Agente central de IA | [[sic-q-agent]] |
 | Prompts | Instrucciones para agentes | Ver sección abajo |
-| Citizens Journey | Flujo de experiencia ciudadana | [[citizens-journey 1]] |
+| Citizens Journey | Flujo de experiencia ciudadana | [[citizens-journey-v.02]] |
 | Sistema completo | Documentación del sistema | [[readme]] |
 
 ---
@@ -27,7 +27,7 @@ parent: "[[ha-root-sic-q]]"
 
 ## Citizens Journey (diagramas)
 
-- [[00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey|Journey principal]]
+- [[citizens-journey-prompt|Journey principal]]
 - [[propuesta|Propuesta técnica]]
 
 ## Recursos adicionales
