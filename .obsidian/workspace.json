@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-ha-root/06-projects/__to-do/dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dashboard"
+              "title": "Backlinks"
             }
           },
           {
@@ -190,13 +189,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "47d5b77df9ffd879",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00-ha-root/06-projects/__to-do/dashboard.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/experiencia-plataforma-v01.ascii",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/diagrama-mermaid-v02.mmd",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/diagrama-mermaid-v01.mmd",
     "00-ha-root/03-learning/vibecoding/Zo-Webinar.txt",
-    "00-ha-root/06-projects/__to-do/dashboard.md",
     "00-ha-root/06-projects/sic-q/02-community-sic-q/metodología-proceso-codiseño-sic-q-ha-v.02.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey-past-versions/metodología-proceso-codiseño-sic-q-v.01.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/mermaid-citizens-journey-v.03.md",
@@ -228,7 +227,6 @@
     "00-ha-root/03-learning/vibecoding",
     "00-ha-root/04-technology/prompts",
     "00-ha-root/05-context/grants-ha",
-    "00-ha-root/04-technology",
     "00-ha-root/06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.19.png",
     "00-ha-root/06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.11.png",
     "00-ha-root/06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.26.png",
