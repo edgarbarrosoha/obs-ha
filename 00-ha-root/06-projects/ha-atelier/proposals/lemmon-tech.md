@@ -61,7 +61,7 @@ El estudio requiere una metodología mixta que se divide en dos fases concurrent
     
 - Alcance: Identificación de despachos en las ramas Corporativa, Laboral, Fiscal y Propiedad Intelectual.
     
-- Regiones foco: CDMX, Jalisco, Nuevo León (Monterrey) y Baja California (a definir de común acuerdo) y otras ciudades por definir.
+- Regiones foco: CDMX, Jalisco, Nuevo León (Monterrey) y Baja California. Se presentará una propuesta detallada de ciudades adicionales tras los primeros hallazgos del mapeo, la cual será validada en conjunto con el equipo de Lemontech (LT).
     
 - Variables: Tamaño del despacho, antigüedad, presencia digital y huella pública.
     
@@ -69,13 +69,14 @@ El estudio requiere una metodología mixta que se divide en dos fases concurrent
   
 
 - Fase B: Análisis cualitativo (el "cómo" y el "por qué")
-    
+    - Selección de la muestra: La determinación de los despachos a entrevistar se realizará en colaboración estrecha con LT. Se buscará incluir perfiles diversos, tales como clientes actuales, prospectos que declinaron el servicio (para entender barreras de entrada) y despachos identificados en el mapeo cuantitativo.
 
 - Aproximación: Profundización en la estructura y el funcionamiento de los despachos.
     
-- Instrumento: Entrevistas semi-estructuradas realizadas tanto por agentes de IA diseñados específicamente para este proyecto como por personal académico del Tec de Monterrey.
+- Instrumento: Entrevistas semi-estructuradas realizadas mediante un modelo híbrido: agentes de IA diseñados específicamente para el proyecto y entrevistas personales conducidas por el equipo de expertos del Tec de Monterrey. Las entrevistas presenciales se priorizarán en casos estratégicos o con actores clave donde la profundidad cualitativa requiera una interacción humana directa. Se estima que aproximadamente un 20% de las entrevistas sean realizadas de manera presencial por los cuatro profesores expertos propuestos.
     
-- Propósito: Esta combinación permite escalar la recolección de información manteniendo criterios académicos, consistencia metodológica y trazabilidad. El procesamiento con IA nos permite detectar patrones de comportamiento y operación difíciles de observar (por ejemplo, procesos informales o razones culturales y emocionales detrás de la adopción —o no— de software) y anonimizar automáticamente información sensible desde el origen del análisis.
+- Propósito: Esta combinación permite escalar la recolección de información manteniendo criterios académicos y consistencia metodológica. Es altamente deseable que una parte representativa de las entrevistas sea presencial para capturar matices culturales y operativos que fortalecen la trazabilidad y riqueza del estudio.
+- El procesamiento con IA nos permite detectar patrones de comportamiento y operación difíciles de observar (por ejemplo, procesos informales o razones culturales y emocionales detrás de la adopción —o no— de software) y anonimizar automáticamente información sensible desde el origen del análisis.
     
 
 Cruzar variables regulatorias, operativas y organizacionales para construir una visión integrada del estado y futuro de la práctica legal.
@@ -95,13 +96,13 @@ En ambas etapas de la metodología se usará Inteligencia Artificial en conjunto
 
 El estudio arrojará indicadores agrupados en cuatro dimensiones estratégicas para Lemontech:
 
-|   |   |   |
-|---|---|---|
-|Dimensión|Indicadores Clave a Investigar|Utilidad para Lemontech|
-|1. Modelos de negocio|% de cobro por Hora vs. Iguala vs. Híbrido. Estructura de costos y rentabilidad por tipo de despacho.|Input para producto: rediseño de módulos de facturación y gestión de proyectos (Project Management legal).|
-|2. Cultura operativa|Uso real de herramientas (Excel, WhatsApp, ERPs). Nivel de "dolor" administrativo y fricción tecnológica.|Input para ventas: identificación de los "Jobs-to-be-done" reales del abogado mexicano.|
-|3. Contexto regulatorio|Impacto percibido de la Reforma Judicial y nuevas normativas. Demanda emergente (ej. auge de Compliance).|Input para estrategia: posicionamiento como líder de opinión y anticipación a nuevas necesidades de mercado.|
-|4. Talento y capacitación|Brechas de habilidades en los abogados actuales. Necesidades de formación tecnológica.|Alianzas: oportunidad de crear programas educativos conjuntos (Tec + Lemontech).|
+|                           |                                                                                                           |                                                                                                              |
+| ------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Dimensión                 | Indicadores Clave a Investigar                                                                            | Utilidad para Lemontech                                                                                      |
+| 1. Modelos de negocio     | % de cobro por Hora vs. Iguala vs. Híbrido. Estructura de costos y rentabilidad por tipo de despacho.     | Input para producto: rediseño de módulos de facturación y gestión de proyectos (Project Management legal).   |
+| 2. Cultura operativa      | Uso real de herramientas (Excel, WhatsApp, ERPs). Nivel de "dolor" administrativo y fricción tecnológica. | Input para ventas: identificación de los "Jobs-to-be-done" reales del abogado mexicano.                      |
+| 3. Contexto regulatorio   | Impacto percibido de la Reforma Judicial y nuevas normativas. Demanda emergente (ej. auge de Compliance). | Input para estrategia: posicionamiento como líder de opinión y anticipación a nuevas necesidades de mercado. |
+| 4. Talento y capacitación | Brechas de habilidades en los abogados actuales. Necesidades de formación tecnológica.                    | Alianzas: oportunidad de crear programas educativos conjuntos (Tec + Lemontech).                             |
 
   
 
@@ -129,29 +130,18 @@ Al finalizar la investigación, el Tecnológico de Monterrey entregará un white
     
 
 - Documento basado en evidencia y visión de negocios.
-    
 - Diagnóstico del estado actual de la abogacía en las regiones y despachos seleccionados.
-    
 - Validación de hipótesis sobre modelos de cobro.
-    
 - El análisis, las conclusiones y el diagnóstico.
-    
 - Los estudios aplicados y los resultados obtenidos.
     
-
 3. Documento ejecutivo de inteligencia de mercado:
-    
-
 - Síntesis de los datos cuantitativos y cualitativos.
-    
 - Segmentación de mercado ("Océano Azul" vs. "Océano Rojo").
-    
 
 5. Anexos técnicos para equipo de producto:
     
-
 - "User Personas" detallados del abogado corporativo mexicano.
-    
 - Listado de fricciones operativas detectadas (Feature requests implícitos).
     
 
@@ -159,8 +149,7 @@ Al finalizar la investigación, el Tecnológico de Monterrey entregará un white
     
 8. Highlights de entrevistas: Los highlights de la información obtenida en las entrevistas, así como la sistematización de dicha información.
     
-9.   
-    
+9. Presentación ejecutiva de resultados: Presentación presencial de los principales hallazgos y conclusiones en el evento programado para el 15 de junio.
 
 # 08. Requerimientos (personal y logística)
 
@@ -214,7 +203,7 @@ Como institución académica, trabajamos bajo principios éticos que buscan gene
 
 - Privacidad: Toda la información recolectada de los despachos será tratada con estricta confidencialidad y anonimizada para proteger a las personas y organizaciones participantes.
     
-- Propiedad intelectual: Los insights estratégicos y el white paper resultante serán propiedad conjunta de ambas partes, permitiendo su uso académico, comercial y estratégico de manera alineada y transparente.
+- Propiedad intelectual: Los insights estratégicos y el white paper resultante serán propiedad conjunta de ambas partes. Se autoriza explícitamente al Tecnológico de Monterrey el uso de la información y los resultados obtenidos para fines académicos y de investigación, permitiendo asimismo su aprovechamiento comercial y estratégico por parte de Lemontech, de manera alineada y transparente.
     
 - Mitigación de sesgos: Tanto los protocolos de entrevista como los algoritmos de análisis han sido diseñados para reducir sesgos y favorecer interpretaciones responsables y equilibradas.
     
