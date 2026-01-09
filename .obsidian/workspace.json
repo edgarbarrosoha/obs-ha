@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-ha-root/06-projects/__to-do/dashboard.md",
+                "file": "00-ha-root/06-projects/ha-atelier/proposals/Lemmon Tech.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dashboard"
+              "title": "Lemmon Tech"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lemon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-ha-root/06-projects/__to-do/dashboard.md",
+                "file": "00-ha-root/06-projects/sic-q/05-context-sic-q/benchmarks/benchmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dashboard"
+              "title": "Backlinks for benchmarks"
             }
           },
           {
@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,6 +194,9 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "00-ha-root/06-projects/__to-do/dashboard.md",
+    "00-ha-root/06-projects/ha-atelier/proposals/Lemmon Tech.md",
+    "00-ha-root/06-projects/sic-q/05-context-sic-q/benchmarks/benchmarks.md",
+    "00-ha-root/06-projects/z-completed/programa-de-gobierno-2024-20230/benchmark/atelier/benchmark-para-el-programa-de-gobierno-de-guanajuato.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/experiencia-plataforma-v01.ascii",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/diagrama-mermaid-v02.mmd",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/diagrama-mermaid-v01.mmd",
@@ -221,8 +225,6 @@
     "00-ha-root/01-legacy/advisory-conversation-ha-as-discipline.md.md",
     "00-ha-root/01-legacy/metas-2026-ha.md",
     "00-ha-root/01-legacy/pitch-nicho-talisis-2026.md",
-    "00-ha-root/01-legacy/pitch-poncho-docet-2026.md",
-    "00-ha-root/01-legacy/pitch-upu-expansion-2026.md",
     "00-ha-root/02-community/stakeholders",
     "00-ha-root/03-learning/metodologias",
     "00-ha-root/03-learning/vibecoding",
