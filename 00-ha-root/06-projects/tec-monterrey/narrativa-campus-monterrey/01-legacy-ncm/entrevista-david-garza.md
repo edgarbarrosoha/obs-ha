@@ -1,103 +1,98 @@
-# CONVERSACIÓN ESTRATÉGICA CON DAVID GARZA SALAZAR
+# CONVERSACIÓN CON DAVID GARZA SALAZAR
 
-**Tema:** Tec de Monterrey 2030 – Ecosistema de Innovación, Aprendizaje Permanente e Impacto Global  1
+**Tema:** Campus Monterrey 2030 – Diálogo de Conocimiento
 **Duración total:** 60 min (45 min efectivos de conversación)  
-**Formato:** Diálogo de Conocimiento (grabado)
+**Formato:** Diálogo (grabado)
 
 ---
 
 ## APERTURA (4–5 min)
 
-David, esta conversación busca ir más allá de la gestión diaria. Lideras lo que tú mismo has llamado una "Industria de la Esperanza"—y ahora, como presidente de Universitas 21, esa esperanza tiene un escenario global.
+**Contexto y propósito:**
+"David, esta conversación tiene un propósito que va más allá de una entrevista habitual. Estamos grabando esto con una doble intención estratégica:
 
-No solo diriges una universidad; diseñas un sistema que conecta investigación, innovación e internacionalización en un momento donde la IA y la relocalización reconfiguran las reglas del juego.
+1.  **Documento Histórico:** Queremos que este sea un archivo al que podamos volver en el futuro para entender las visiones fundamentales que cimentaron el Tec del 2030.
+2.  **Vector de Dirección para IA:** Tu voz y tus reflexiones se convertirán literalmente en un 'vector' dentro de nuestro sistema de Inteligencia Artificial. Esto significa que tu pensamiento guiará, de forma sistémica, el rumbo y la toma de decisiones del Campus Monterrey.
 
-**Objetivo de hoy:** Capturar tu pensamiento estratégico vivo—no el discurso institucional, sino tus reflexiones profundas sobre hacia dónde se mueve el mundo y cómo el Tec se moverá con él (o antes que él). Queremos que esta conversación sirva como insumo para la historia estratégica del Tec y para orientar a personas y sistemas que vienen.
+**Tu perspectiva única:**
+Eres la persona ideal para trazar esta línea porque encarnas la evolución completa de la institución: fuiste **Director de este Campus**, después **Rector del Tec de Monterrey**, y ahora tienes la **visión sistémica de todo el Grupo Educativo**. Conoces la operación en tierra, la academia y ahora la estrategia global.
 
----
-
-## PREGUNTA 1: VISIÓN GLOBAL 2030 (15–18 min)
-
-> "David, miremos hacia el 2030. Más allá de los rankings, ¿cómo imaginas el rol del Tec de Monterrey en el escenario global y en la sociedad del conocimiento?"
-
-*[Silencio. Permitir que conecte con su visión. No llenar pausas largas.]*
-
-### Profundizaciones potenciales (solo si la conversación lo pide):
-
-**Sobre las alianzas globales:**  
-"Has dicho que las alianzas deben ir más allá de los memorandos—que requieren valor complementario, comprometer recursos y esfuerzos, reconociendo que el tiempo y la capacidad son finitos. Para enfocarnos: 
-- ¿cómo se ve eso en la práctica para 2030? ¿Qué tipo de colaboraciones debemos enfocarnos en fomentar y cuáles deberíamos limitar o, de plano, evitar (si es que las hay)? La idea es entender qué quieres ver más, y qué te gustaría ver menos."
-
-**Sobre el talento internacional:**  
-"El Tec, y específicamente el Campus, ha realizado un esfuerzo importante para atraer a las y los mejores profesores del mundo. Faculty of Excellence es un ejemplo de ello. Reconociendo estos esfuerzos, 
-- ¿cómo te imaginas que el campus puede contribuir, de manera orgánica, a que podamos atraer a una facultad más y mejor en el futuro? 
-- Por un lado, potenciando al profesorado que ya tenemos y por otro a que siempre llegue nuevo talento"
-
-**Sobre la tensión físico-digital:**  
-"¿Cómo conviven el Distrito Tec, los campus físicos y la presencia digital global? ¿Cómo evoluciona esa relación hacia 2030?"
-
-**Sobre la Industria de la Esperanza:**  
-"En un mundo polarizado y complejo, ¿cómo materializa el Tec esa esperanza para un estudiante que entra hoy?"
-
-**Señales de éxito:**  
-"¿Qué titular de noticia sobre el Tec en 2030 te gustaría leer, o qué experiencia quisieras tener que te confirmara que logramos la transformación?"
+El objetivo hoy es conectar esos mundos: usar tu visión global actual para definir el norte de tu 'casa origen', el Campus Monterrey."
 
 ---
 
-## PREGUNTA 2: LA RUTA DE LA TRANSFORMACIÓN (15–18 min)
+## PREGUNTA 1: VISIÓN 2030 (15–18 min)
 
-> "Esa visión de impacto global es ambiciosa. ¿Cómo llegamos allí? ¿Cuáles son los habilitadores críticos que debemos activar hoy?"
+**“Empecemos: ¿Cómo imaginas al Campus Monterrey en 2030?”**  
+[Silencio. Dejar que piense y arranque desde donde quiera. No interrumpir. Si hace pausas largas, no llenar el silencio inmediatamente.]
 
-*[Espacio para reflexionar sobre cultura, talento, tecnología y renuncias estratégicas.]*
+**Posibles profundizaciones (sólo si la conversación lo pide):**
 
-### Profundizaciones potenciales:
+- “¿Qué hace único al Campus Monterrey versus otros campus?”
 
-**Lo no negociable:**  
-"De todo lo que mencionas, ¿qué es lo que sí o sí tiene que pasar? ¿Qué tres o cuatro cosas son innegociables para llegar a esa visión?"
+- “Cuando hablas de [X que mencionaste], ¿cómo se ve eso en la práctica para estudiantes, profesores y comunidad?”
 
-**Renuncias estratégicas:**  
-- "¿Qué es lo que más te preocupa o te quita el sueño respecto a estos cambios? 
-- ¿Qué cosas que hacemos hoy deberíamos dejar de hacer o hacer de manera diferente? 
-- ¿Dónde debemos soltar para asumir nuevas responsabilidades?"
+- “¿Qué tensiones o contradicciones ves en esa visión (excelencia vs. escala; innovación vs. rigor; campus vs. ciudad)?”
 
-**La apuesta tecnológica:**  
-"Con la Vicepresidencia de Aprendizaje para el Futuro, centrada en la IA y el aprendizaje para toda la vida, ¿cómo cambia el 'core' de lo que hacemos en el campus?"
-
-**Métricas de corrección:**  
-"¿Qué señales observarías en 12–24 meses para saber si vamos bien o si hay que corregir el rumbo? ¿Atracción de profesores, alianzas activas, startups creadas, movilidad social?"
-
-**Capacidades críticas:**  
-"¿Qué capacidades todavía no tenemos y que son esenciales para materializar esta visión?"
+- “¿Qué señales observarías en 2030 para saber que vamos en la dirección correcta?”
 
 ---
 
-## INTERVENCIÓN: PROYECTOS ESTRATÉGICOS (8–10 min)
+## PREGUNTA 2: CÓMO LLEGAMOS ALLÍ (15–18 min)
 
-*[Traer a la mesa las grandes apuestas que no hayan emergido naturalmente.]*
+**“Esa visión que describes, ¿cómo llegamos allí? ¿Qué tiene que pasar?”**  
+[Nuevamente, dejar espacio. No apurar.]
 
-> "David, hay iniciativas clave que actúan como motores de esta visión. Me gustaría conocer tu perspectiva sobre cómo se entrelazan…"
+**Posibles profundizaciones emergentes:**
 
-### Proyectos clave:
-- ¿Cuáles son para ti, los proyectos clave del Campus hacia 2030? 
-- "¿Qué papel juega esto en tu visión? ¿Es crítico, complementario, o algo que deberíamos repensar?"
-- "¿Cómo escala esto nuestro impacto más allá de las fronteras actuales?"
+- “De lo que mencionas, ¿qué es **no negociable**? ¿Qué sí o sí tiene que pasar?”
+
+- “¿Qué cosas estamos haciendo hoy que deberíamos **dejar de hacer**?”
+
+- “¿Cómo se conectan esas iniciativas entre sí? ¿Hay algo que las **articule** (talento, cultura, tecnología, internacionalización)?”
+
+- “¿Qué **métricas y señales** usarías para corregir rumbo en 12–24 meses?”
+
+- “¿Qué capacidades críticas necesitamos?”
+
+---
+
+## INTERVENCIÓN DE MARIO ADRIÁN (8–10 min)
+
+_(Mario Adrián trae la lista del Plan 2030. Sólo mencionar proyectos que **no** hayan salido naturalmente.)_
+
+**“David, hay algunos proyectos específicos del Plan 2030 que no hemos tocado. Me gustaría mencionarte [X, Y, Z] y conocer tu perspectiva sobre ellos…”**
+
+> Ejemplos posibles si no salieron: **[Expedition]**, **[Facultad de Excelencia]**, **[Distrito Tec]**, **[Investigación de alto impacto / 3 Is]**.
+
+Para cada uno:
+- “¿Qué papel juega esto en tu visión?”
+- “¿Lo ves como crítico, complementario o algo que deberíamos repensar?”
 
 ---
 
 ## CIERRE (3–4 min)
 
-**Síntesis:**  
-> "Si tuvieras que resumir el 'Tec del Futuro' en una frase para un nuevo profesor que entra hoy, ¿cuál sería?"
-
-**Para la IA (opcional):**  
-> "Si un modelo de IA en 2030 tuviera que aprender de esta conversación, ¿qué concepto esencial querrías transmitirle sobre el futuro del Tec y de la educación?"
+- “¿Hay algo que no hayamos tocado que consideres fundamental?”  
+    **O:**
+- “Si tuvieras que conectar todo lo que hemos hablado en una sola idea, ¿cuál sería?”  
+    **Opcional (IA):**
+- “Si un modelo de 2030 de IA tuviera que aprender de esta conversación, ¿cuál te gustaría que fuera?”
 
 ---
 
 ## NOTAS PARA EL ENTREVISTADOR
 
-- **Tono:** Conversacional pero estratégico. David valora la profundidad y la búsqueda genuina.
-- **Ritmo:** No llenar silencios. Permitir que piense.
-- **Anclas conocidas:** Usa su lenguaje—"Industria de la Esperanza", las 3 I's, "catalizadores no élites", su preocupación por "no estar perdiendo algo".
-- **Evitar:** Preguntas que suenen a entrevista de medios o a validación de discurso oficial.
-- **Buscar:** Las tensiones, las renuncias, los miedos, las apuestas contraintuitivas.
+- **Tono:** Conversacional pero estratégico.
+- **Anclas:** "Industria de la Esperanza", "3 Is", "Catalizadores", "Global".
+- **Foco:** Capturar su pensamiento vivo para orientar al sistema.
+
+
+---
+
+## NOTAS PARA EL ENTREVISTADOR
+
+- **Tono:** Estratégico, Global, Presidencial.
+- **Anclas:** "3 Is", "Industria de la Esperanza", "High-Tech High-Touch".
+- **Foco:** Buscar cómo el Campus Monterrey sirve a la visión del Grupo como nodo central.
+

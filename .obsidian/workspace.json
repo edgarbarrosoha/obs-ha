@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/mermaid-citizens-journey-v.03.md",
+                "file": "00-ha-root/06-projects/__to-do/dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mermaid-citizens-journey-v.03"
+              "title": "dashboard"
             }
           }
         ]
@@ -158,6 +158,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
       "bases:Create new base": false,
       "zk-prefixer:Create new unique note": false,
@@ -174,11 +175,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "56d69c25aa6c9e25",
   "lastOpenFiles": [
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/ascii-citizens-journey-v.03.md",
+    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/entrevista-ricardo-saldivar.md",
+    "David-Respaldo.md",
+    "00-ha-root/06-projects/ha-atelier/proposals/propuesta-lemon-tech-ha.md",
+    "00-ha-root/06-projects/ha-atelier/proposals/lemmon-tech.md",
     "00-ha-root/06-projects/__to-do/dashboard.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/mermaid-citizens-journey-v.03.md",
+    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/ascii-citizens-journey-v.03.md",
     "00-ha-root/06-projects/sic-q/02-community-sic-q/metodología-proceso-codiseño-sic-q-ha-v.02.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey-past-versions/metodología-proceso-codiseño-sic-q-v.01.md",
     "00-ha-root/06-projects/sic-q/05-context-sic-q/documentos-base-conocimientos-sic-q.md",
@@ -201,11 +206,7 @@
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/proceso-diseño-sic-q.md",
     "00-ha-root/06-projects/ha-core/01-legacy-ha-core/ha-theoretical-paper.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/entrevista-david-garza.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/diagrama-mermaid-v02.mmd",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/entrevista-juan-pablo-murra.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/agent-ncm-projects.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/entrevista-presentación-transcript-05.12.2025.md",
     "00-ha-root/06-projects/sic-q/05-context-sic-q/doc-knowledge/QRO2050 Plan.pdf",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/docs-base-de-conocimiento/Rumbo al 2030 Tec Educational Group.pdf",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/docs-base-de-conocimiento",
