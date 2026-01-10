@@ -8,13 +8,21 @@
 
 ## APERTURA (4–5 min)
 
+<<<<<<< HEAD
 **Contexto y propósito:**
+=======
+**Contexto y Propósito:**
+>>>>>>> origin/main
 "David, esta conversación tiene un propósito que va más allá de una entrevista habitual. Estamos grabando esto con una doble intención estratégica:
 
 1.  **Documento Histórico:** Queremos que este sea un archivo al que podamos volver en el futuro para entender las visiones fundamentales que cimentaron el Tec del 2030.
 2.  **Vector de Dirección para IA:** Tu voz y tus reflexiones se convertirán literalmente en un 'vector' dentro de nuestro sistema de Inteligencia Artificial. Esto significa que tu pensamiento guiará, de forma sistémica, el rumbo y la toma de decisiones del Campus Monterrey.
 
+<<<<<<< HEAD
 **Tu perspectiva única:**
+=======
+**Tu Perspectiva Única:**
+>>>>>>> origin/main
 Eres la persona ideal para trazar esta línea porque encarnas la evolución completa de la institución: fuiste **Director de este Campus**, después **Rector del Tec de Monterrey**, y ahora tienes la **visión sistémica de todo el Grupo Educativo**. Conoces la operación en tierra, la academia y ahora la estrategia global.
 
 El objetivo hoy es conectar esos mundos: usar tu visión global actual para definir el norte de tu 'casa origen', el Campus Monterrey."
@@ -28,7 +36,11 @@ El objetivo hoy es conectar esos mundos: usar tu visión global actual para defi
 
 **Posibles profundizaciones (sólo si la conversación lo pide):**
 
+<<<<<<< HEAD
 - “¿Qué hace único al Campus Monterrey versus otros campus?”
+=======
+- “¿Qué hace único al Campus Monterrey versus otros campus del sistema?”
+>>>>>>> origin/main
 
 - “Cuando hablas de [X que mencionaste], ¿cómo se ve eso en la práctica para estudiantes, profesores y comunidad?”
 
