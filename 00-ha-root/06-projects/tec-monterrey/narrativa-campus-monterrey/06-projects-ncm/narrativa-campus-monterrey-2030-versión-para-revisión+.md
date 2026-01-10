@@ -6,7 +6,7 @@
 
 En los últimos cinco años, el Campus Monterrey creció en métricas que importan. Las publicaciones científicas pasaron de 1,528 en 2019 a 2,306 en 2024. Las citas subieron de 18,370 a más de 102,000. Las y los investigadores en el SNI aumentaron de 570 a 705. La Faculty of Excellence atrajo a más de 40 docentes de 14 nacionalidades. Y Expedition lleva un año operando con talento investigador del top 2% del mundo. Este avance se debe al esfuerzo de nuestra comunidad.
 
-Pero 2030 está a cuatro años, y el contexto ha cambiado. El mundo enfrenta tensiones geopolíticas, disrupciones tecnológicas que transforman industrias enteras, y retos climáticos que exigen respuestas coordinadas. México navega desafíos propios: desigualdad persistente, la necesidad de diversificar su economía, y la urgencia de formar talento que pueda competir y liderar globalmente.
+Pero 2030 está a cuatro años y el contexto ha cambiado. El mundo enfrenta tensiones geopolíticas, disrupciones tecnológicas que transforman industrias enteras y retos climáticos que exigen respuestas coordinadas. México navega desafíos propios: la desigualdad persistente, la necesidad de diversificar su economía y la urgencia de formar talento capaz de competir y liderar a nivel global.
 
 El mundo está cambiando tan rápido que necesitamos enfocarnos en las poquísimas certidumbres que tenemos. Identificar aquello que haga del Campus Monterrey un campus insignia—algo a prueba de futuros, que, sin importar el contexto, nos prepare para enfrentar los próximos cinco años hacia 2035.
 
@@ -14,19 +14,19 @@ En esa búsqueda, a lo largo de nuestra consulta identificó una oportunidad cla
 
 En medio de tanta incertidumbre, hay algo que sí sabemos: un campus que colabora como sistema se potencia a sí mismo. Esa es la base que queremos construir para saltar hacia 2035.
 
-Nuestra siguiente estación como Tec no se trata de crecer más solamente, sino de operar más conectados para crear más valor juntos. Para las y los profesores investigadores, significa que su investigación se amplía al cruzarse con otras disciplinas. Para el estudiantado, significa formarse en un entorno donde la innovación interdisciplinaria sea cotidiana. Y para el Tec, significa maximizar quiénes somos como comunidad—no solo sumar partes fuertes, sino multiplicar su impacto.
+Nuestra siguiente estación como Tec no se trata solo de crecer, sino de operar más conectados para maximizar el valor que podemos crear juntos. Para las y los profesores investigadores, significa que su investigación se amplía al cruzarse con otras disciplinas. Para el estudiantado, significa formarse en un entorno donde la innovación interdisciplinaria sea cotidiana. Y para el Tec, significa maximizar quiénes somos como comunidad—no solo sumar partes fuertes, sino multiplicar su impacto.
 
 ---
 
 ## 2. A dónde vamos
 
-El Tec tiene una visión clara: ser la mejor universidad hispanohablante del mundo. Pero ¿qué significa eso en la práctica? *Prestigio internacional ganado por el impacto de investigación traducida en innovación*. No se trata de rankings ni de métricas aisladas—se trata de que el mundo reconozca lo que aquí se hace. Para lograrlo, el Plan Estratégico 2030 establece cinco prioridades:
+El Tec tiene una visión clara: ser la mejor universidad hispanohablante del mundo. Pero ¿qué significa eso en la práctica? ¿cómo hacemos que eso suceda? *Prestigio internacional ganado por el impacto de investigación traducida en innovación*. No se trata de rankings ni de métricas aisladas—se trata de que el mundo reconozca lo que aquí se hace. Para lograrlo, el Plan Estratégico 2030 establece cinco prioridades:
 
 1. **Robustecer el ecosistema de investigación, innovación y emprendimiento** que transforma la realidad.
 2. **Atraer a las personas con el mayor talento** para imaginar y construir un mundo mejor.
 3. **Evolucionar el modelo multicampus** para fortalecer la excelencia académica.
 4. **Consolidar el liderazgo educativo** para un mundo con inteligencia artificial y otras tecnologías emergentes.
-5. **Impulsar la excelencia en ciencias de la salud.**
+5. **Impulsar la excelencia en las ciencias de la salud.**
 
 Cinco prioridades. Un sistema de 26 campus. Y una pregunta: ¿cómo aterriza esto en el Campus Monterrey?
 
@@ -105,11 +105,11 @@ Lo que buscamos es un nuevo mindset. Profesores con hambre, ambición y pasión 
 
 - **La transformación:** que cada docente de alto nivel sea embajador activo—en el aula, en la industria, y en las redes globales donde se decide quién es relevante.
 - **Los mecanismos:**
-    - **En el aula:** Faculty of Excellence enseñando al menos un curso de licenciatura al año. El talento de clase mundial no puede ser invisible para el estudiantado.
-    - **En la industria:** residencias cruzadas. Profesores en empresas por sprints de 3 meses; ejecutivos en laboratorios por el mismo periodo. Investigación que resuelve problemas reales.
+    - * En el aula, la Faculty of Excellence imparte al menos un curso de licenciatura al año. El talento de clase mundial no puede pasar desapercibido para el estudiantado.
+    - **En la industria:** residencias cruzadas. Profesores en empresas, por sprints de 3 meses; ejecutivos en laboratorios, por el mismo periodo. Investigación que resuelve problemas reales.
     - **En el mundo:** cada FoE trae a un colega internacional al campus cada año. No conferencias—estancias de trabajo. La reputación se construye persona a persona, proyecto a proyecto.
 
-Mejor facultad atrae mejores estudiantes. Mejores estudiantes atraen mejor facultad. Es un círculo virtuoso. El objetivo para 2030: que el Tec sea la primera opción en Latinoamérica para quien quiere investigar con impacto.
+Mejor facultad atrae mejores estudiantes. Los mejores estudiantes atraen a la mejor facultad. Es un círculo virtuoso. El objetivo para 2030: que el Tec sea la primera opción en Latinoamérica para quienes quieren investigar con impacto.
 
 ### Los habilitadores sistémicos
 
@@ -117,15 +117,15 @@ Las cuatro apuestas no operan en el vacío. Tres elementos las cruzan y las pote
 
 *   **Inteligencia Artificial:** más que una herramienta, un sistema operativo. Un agente de IA del campus que conecte necesidades con recursos en tiempo real. Pero la ambición va más allá de lo operativo: ser pioneros en cómo la IA transforma la educación y la investigación. Que nuestros egresados sean los más preparados para esta era—y los que lideren los cambios hacia adelante.
 
-*   **Internacionalización:** que el campus se sienta global. No solo por movilidad estudiantil, sino por atracción de talento de todas partes del mundo. Que universidades de Estados Unidos o Europa hagan presencia física aquí, trabajando en proyectos de cinco años o más. El Tec ha sido llamado "el secreto mejor guardado". La meta para 2030 es que deje de ser secreto—que la gente de fuera sepa qué proyectos únicos se hacen aquí y diga: "tú vienes del Tec, donde están haciendo esto".
+*   **Internacionalización:** que el campus se sienta global. No solo por la movilidad estudiantil, sino también por la atracción de talento de todas partes del mundo. Que universidades de Estados Unidos o Europa hagan presencia física aquí, trabajando en proyectos de cinco años o más. El Tec ha sido llamado "el secreto mejor guardado". La meta para 2030 es que deje de ser secreto—que la gente de fuera sepa qué proyectos únicos se hacen aquí y diga: "tú vienes del Tec, donde están haciendo esto".
 
-*   **Sostenibilidad (Ruta Azul):** el filtro de decisión. Si hipoteca el 2040, no se hace en el 2030.
+*   **Sostenibilidad (Ruta Azul):** el filtro de la decisión. Si hipoteca el 2040, no se hace en 2030.
 
 ---
 
 ## 6. Cómo lo vamos a hacer
 
-Para que las cuatro apuestas funcionen, necesitamos cambiar cómo operamos. No basta con declarar intenciones; hay que mover recursos, espacios y atención hacia lo que conecta. No tenemos todo resuelto—pero sí tenemos un punto de partida claro.
+Para que las cuatro apuestas funcionen, necesitamos cambiar la forma en que operamos. No basta con declarar intenciones; hay que mover recursos, espacios y atención hacia lo que conecta. No tenemos todo resuelto—pero sí tenemos un punto de partida claro.
 
 ### Entender dónde estamos
 Antes de actuar, necesitamos ver. Usaremos IA para mapear quiénes trabajan con quiénes en el campus. Hoy muchas colaboraciones son invisibles—ocurren, pero no las conocemos ni las potenciamos. El mapa nos permitirá identificar dónde ya hay conexiones valiosas y dónde existen oportunidades que no estamos aprovechando.
@@ -133,29 +133,29 @@ Antes de actuar, necesitamos ver. Usaremos IA para mapear quiénes trabajan con 
 ### Activar los mecanismos
 Una vez que veamos el mapa, activamos:
 
-*   **En el Distrito:** los espacios más visibles se asignarán a proyectos que demuestren colaboración entre escuelas. La ubicación se gana con intersección—no con la antigüedad ni con la jerarquía.
-*   **En posgrados:** piloto de sabáticos invertidos en 2025 con 3 posiciones. Probamos, aprendemos, y si funciona, escalamos.
+*   **En el Distrito:** los espacios más visibles se asignarán a proyectos que demuestren colaboración entre escuelas. La ubicación se gana con la intersección—no con la antigüedad ni con la jerarquía.
+*   **En posgrados:** piloto de sabáticos invertidos en 2025 con 3 posiciones. Probamos, aprendemos y si funciona, escalamos.
 *   **En Selectividad:** identificación temprana del talento mediante IA para detectar a estudiantes en olimpiadas y concursos antes de que nos busquen. Vamos por el talento; no esperamos a que llegue.
 *   **En TecSalud:** 3 Living Labs piloto con Ingeniería para Q3 2025. No esperamos el plan perfecto—prototipamos y aprendemos operando.
 
 ### Priorizar con claridad
-Para hacer esto realidad, necesitamos enfocarnos. El criterio es simple: **priorizamos lo que conecta y crea valor para las personas.**
+Para hacer esto realidad, necesitamos enfocarnos. El criterio es simple: **priorizamos lo que conecta y maximiza el valor a las personas.**
 
-Iniciativas que generen colisiones interdisciplinarias, atraigan talento del top 2%, o contribuyan a las 4 apuestas recibirán prioridad en recursos, espacios y visibilidad. Lo que no conecte, pierde prioridad. Reasignaremos recursos de lo administrativo y lo inercial hacia fondos semilla y atracción de talento. No pedimos solo dinero nuevo; optimizamos el actual.
+Iniciativas que generen colisiones interdisciplinarias, atraigan talento del top 2%, o contribuyan a las 4 apuestas recibirán prioridad en recursos, espacios y visibilidad. Lo que no conecte, pierde prioridad. Reasignaremos recursos de lo administrativo y de lo inercial a fondos de semilla y de atracción de talento. No pedimos solo dinero nuevo; optimizamos el que ya existe.
 
 ### Medir lo que importa
 ¿Cómo sabemos si está funcionando? Seguiremos midiendo los indicadores tradicionales para tener trazabilidad, pero también empezaremos a medir lo que antes no medíamos:
 
-*   **% de publicaciones con coautoría multi-escuela:** proporción de papers firmados por personas de dos o más escuelas o institutos.
-*   **Densidad de red:** porcentaje de conexiones activas entre unidades académicas vs. conexiones posibles. Un campus conectado tiene alta densidad.
+*   **% de publicaciones con coautoría multiescuela:** proporción de papers firmados por personas de dos o más escuelas o institutos.
+*   **Densidad de red:** porcentaje de conexiones activas entre unidades académicas respecto de las conexiones posibles. Un campus conectado tiene alta densidad.
 *   **Tasa de conversión de pilotos:** porcentaje de proyectos piloto que escalan a implementación formal.
-*   **Índice de polinización estudiantil:** % de estudiantes de posgrado con comités o proyectos que involucran más de una escuela.
-*   **Velocidad de prototipado:** días promedio desde propuesta hasta primer entregable en Living Labs.
+*   **Índice de polinización estudiantil:** % de estudiantes de posgrado que participan en comités o proyectos que involucran a más de una escuela.
+*   **Velocidad de prototipado:** días promedio desde la propuesta hasta el primer entregable en Living Labs.
 *   **Tasa de aceptación de talento:** % de ofertas aceptadas por candidatos del top 2%—mide qué tan atractivo es el ecosistema.
 *   **Índice de serendipia:** % de colaboraciones que surgieron de encuentros no planeados—mide si el campus facilita lo inesperado.
 *   **Migración de ideas:** conceptos o metodologías que nacieron en una escuela y fueron adoptados por otra.
 *   **Pares inusuales:** número de colaboraciones entre escuelas que históricamente no trabajaban juntas.
-*   **Tasa de retorno:** exalumnos, excolaboradores o talento que regresa específicamente por el ecosistema.
+*   **Tasa de retorno:** exalumnos, excolaboradores o talento que regresa específicamente al ecosistema.
 *   **Pull externo:** organizaciones que buscan al campus explícitamente para resolver problemas interdisciplinarios.
 
 Estos son ejemplos. La definición final será parte de la conversación con la comunidad—porque un sistema que se adapta también aprende qué medir.
@@ -164,9 +164,9 @@ Estos son ejemplos. La definición final será parte de la conversación con la 
 
 ## 7. 2030 como base para 2035
 
-2030 está a la vuelta de la esquina. El éxito no es llegar con todo resuelto—eso sería irreal. El éxito es llegar con la infraestructura de colaboración operando y la capacidad de ajustar lo que no funcione.
+2030 está a la vuelta de la esquina. El éxito no es llegar con todo resuelto—eso sería irreal. El éxito es llegar con la infraestructura de colaboración operativa y la capacidad de ajustar lo que no funcione.
 
-Si el Distrito, los posgrados, la selectividad y la facultad funcionan como sistema, 2035 será el momento de escalar. No prometemos que todo saldrá perfecto. Prometemos que aprenderemos rápido y ajustaremos. Estamos construyendo los cimientos de una universidad que no solo enseña, sino que crea futuro.
+Si el Distrito, los posgrados, la selectividad y la facultad funcionan como un sistema, 2035 será el momento de escalar. No prometemos que todo saldrá perfecto. Prometemos que aprenderemos rápido y nos ajustaremos. Estamos construyendo los cimientos de una universidad que no solo enseña, sino que también crea futuro.
 
 Habrá quienes digan que somos demasiado ambiciosos. Que no somos MIT, que no tenemos los mismos recursos. Ya sabemos lo que no tenemos. Lo que importa es a dónde queremos llegar—y luego ver cómo le hacemos. Esa ha sido la historia del Tec desde su fundación. Fuimos a la casona de Monterrey, luego el primer campus universitario de México. Construimos el Setec, Expedition, TecSalud. Hace 40 años apostamos por la investigación cuando nadie lo esperaba—y ese jonrón nos posicionó internacionalmente. ¿Por qué no hacerlo de nuevo?
 
@@ -174,7 +174,7 @@ El Tec de Monterrey piensa en grande. Se reta ante contextos difíciles. Y hace 
 
 En un momento geopolítico como el actual, lo que haga el Tec en los próximos diez años importa—para México, para Latinoamérica, para el mundo hispanohablante. El Campus Monterrey tiene la oportunidad y la responsabilidad de ser la punta de lanza. Tenemos los nodos. Tenemos el talento. Con esta estrategia, tendremos las conexiones.
 
-Don Eugenio decía: *"Lo que uno es y puede poseer, es una oportunidad de servicio."* El campus tiene ese potencial de servicio. La pregunta no es si podemos transformar—es qué tan lejos estamos dispuestos a llegar. 
+Don Eugenio decía: *"Lo que uno es y puede poseer es una oportunidad de servicio."* El campus tiene ese potencial de servicio. La pregunta no es si podemos transformar, sino qué tan lejos estamos dispuestos a llegar. 
 
 ---
 

@@ -4,76 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "8cb60196b4229a54",
-        "type": "split",
+        "id": "33b24a2cabece18e",
+        "type": "tabs",
         "children": [
           {
-            "id": "4509724f8bf84da7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e7a7b303c61786dc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-campus-monterrey-2030-versión-para-revisión+.md",
-                    "mode": "source",
-                    "source": false
+            "id": "b90e9f7640b16dc5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/edgarbarroso/Documents/obs-ha/00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/zsh",
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
                   },
-                  "icon": "lucide-file",
-                  "title": "narrativa-campus-monterrey-2030-versión-para-revisión+"
+                  "serial": null
                 }
-              }
-            ]
-          },
-          {
-            "id": "5c85d67d6b5cfffe",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b90e9f7640b16dc5",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/edgarbarroso/Documents/obs-ha/00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "/bin/zsh",
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: ✳ Narrative Attribution Strategy"
-                }
-              }
-            ]
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: ✳ Grammar and content changes"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
+      },
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-campus-monterrey-2030-versión-para-revisión+.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "narrativa-campus-monterrey-2030-versión-para-revisión+"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,6 +223,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-campus-monterrey-2030-versión-para-revisión.md",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-campus-monterrey-2030-versión-para-revisión+.md",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-integrando-ideas-de-david-textuales.md",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/reunión-mario-adrián-16.12.2025.md",
@@ -256,7 +250,6 @@
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey-past-versions/citizens-journey-prompt.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey-past-versions",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/ASCII.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey 1.md",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/5C962185-CA38-428B-8EC3-83A87C9589AC (1).png",
     "5C962185-CA38-428B-8EC3-83A87C9589AC (1).png",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/diagrama-mermaid-v02.mmd",
