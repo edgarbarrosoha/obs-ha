@@ -39,7 +39,7 @@ parent: "[[ha-root-ncm|HA Root NCM]]"
 ### Documentos
 | Documento | Tipo | Descripción |
 |-----------|------|-------------|
-| [[narrativa-campus-monterrey-2030-versión-para-revisión\|narrativa-2030]] | Entregable | Documento narrativo principal v1 |
+| [[narrativa-campus-monterrey-2030-versión-para-revisión+\|narrativa-2030]] | Entregable | Documento narrativo principal v1 |
 | [[entrevista-presentación-transcript-05.12.2025\|transcript-05.12]] | Transcripción | Presentación Dic 5 |
 | [[reunión-mario-adrián-16.12.2025\|reunión-16.12]] | Minuta | Reunión Dic 16 |
 

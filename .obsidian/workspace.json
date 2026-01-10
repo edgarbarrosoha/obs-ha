@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-campus-monterrey-2030-versión-para-revisión.md",
+                    "file": "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-campus-monterrey-2030-versión-para-revisión+.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "narrativa-campus-monterrey-2030-versión-para-revisión"
+                  "title": "narrativa-campus-monterrey-2030-versión-para-revisión+"
                 }
               }
             ]
@@ -67,7 +67,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: ✳ Citar a David"
+                  "title": "Terminal: ✳ Narrative Attribution Strategy"
                 }
               }
             ]
@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 569.5
+    "width": 569.5,
+    "collapsed": true
   },
   "right": {
     "id": "378b8b2e75a82003",
@@ -229,8 +230,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-campus-monterrey-2030-versión-para-revisión+.md",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-integrando-ideas-de-david-textuales.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-campus-monterrey-2030-versión-para-revisión.md",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/reunión-mario-adrián-16.12.2025.md",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/entrevista-presentación-transcript-05.12.2025.md",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-campus-monterrey-2030-versión-para-revisión 1.md",

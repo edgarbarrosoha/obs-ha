@@ -10,17 +10,17 @@ Pero 2030 está a cuatro años, y el contexto ha cambiado. El mundo enfrenta ten
 
 El mundo está cambiando tan rápido que necesitamos enfocarnos en las poquísimas certidumbres que tenemos. Identificar aquello que haga del Campus Monterrey un campus insignia—algo a prueba de futuros, que, sin importar el contexto, nos prepare para enfrentar los próximos cinco años hacia 2035.
 
-En esa búsqueda, Juan Pablo identificó una oportunidad clara: fortalecer la colaboración sistémica. Hoy, cada unidad avanza con fuerza y ya existen colaboraciones valiosas entre disciplinas, pero muchas de ellas ocurren por iniciativa individual. La oportunidad está en convertir esa colaboración en parte del ADN del campus.
+En esa búsqueda, a lo largo de nuestra consulta identificó una oportunidad clave: fortalecer la colaboración sistémica. Hoy, cada unidad avanza con fuerza y ya existen colaboraciones valiosas entre disciplinas, pero muchas de ellas se dan por iniciativa individual. La oportunidad está en convertir esa colaboración en parte del ADN del campus.
 
 En medio de tanta incertidumbre, hay algo que sí sabemos: un campus que colabora como sistema se potencia a sí mismo. Esa es la base que queremos construir para saltar hacia 2035.
 
-Nuestra siguiente estación como Tec, no consiste en crecer más, sino en operar más conectados para crear más valor juntos. Para las y los profesores investigadores, significa que su investigación se amplía al cruzarse con otras disciplinas. Para el estudiantado, significa formarse en un entorno donde la innovación interdisciplinaria sea cotidiana. Y para el Tec, significa maximizar quiénes somos como comunidad—no solo sumar partes fuertes, sino multiplicar su impacto.
+Nuestra siguiente estación como Tec no se trata de crecer más solamente, sino de operar más conectados para crear más valor juntos. Para las y los profesores investigadores, significa que su investigación se amplía al cruzarse con otras disciplinas. Para el estudiantado, significa formarse en un entorno donde la innovación interdisciplinaria sea cotidiana. Y para el Tec, significa maximizar quiénes somos como comunidad—no solo sumar partes fuertes, sino multiplicar su impacto.
 
 ---
 
 ## 2. A dónde vamos
 
-El Tec tiene una visión clara: ser la mejor universidad hispanohablante del mundo. Pero ¿qué significa eso en la práctica? David Garza lo sintetiza en una frase: *"prestigio internacional ganado por el impacto de investigación traducida en innovación"*. No se trata de rankings ni de métricas aisladas—se trata de que el mundo reconozca lo que aquí se hace. Para lograrlo, el Plan Estratégico 2030 establece cinco prioridades:
+El Tec tiene una visión clara: ser la mejor universidad hispanohablante del mundo. Pero ¿qué significa eso en la práctica? *Prestigio internacional ganado por el impacto de investigación traducida en innovación*. No se trata de rankings ni de métricas aisladas—se trata de que el mundo reconozca lo que aquí se hace. Para lograrlo, el Plan Estratégico 2030 establece cinco prioridades:
 
 1. **Robustecer el ecosistema de investigación, innovación y emprendimiento** que transforma la realidad.
 2. **Atraer a las personas con el mayor talento** para imaginar y construir un mundo mejor.
@@ -52,7 +52,9 @@ Eso es lo que queremos: escalar el impacto mediante la colaboración potenciada 
 
 ## 4. Lo que escuchamos
 
-Así que lo primero que hicimos fue escuchar. Hablamos con decanaturas, estudiantes, con Juan Pablo, con David Garza, con el equipo de liderazgo. Hubo consenso en tres temas:
+Así que lo primero que hicimos fue escuchar. Realizamos una consulta amplia que incluyó a algunas de las voces más relevantes del ecosistema Tec: Juan Pablo Murra, David Garza, Ricardo Saldívar, José Antonio Fernández, Carlos Saldívar, entre otros. También hablamos con decanaturas, estudiantes y el equipo de liderazgo del campus. De esas conversaciones emergieron consensos—y también tensiones que debemos nombrar.
+
+Hubo consenso en tres temas:
 
 **Investigación visible y conectada.** La investigación debe salir de los laboratorios cerrados. Alguien en Expedition lo puso así: "Aquí puedo bajar al café y encontrarme con alguien de diseño industrial." Pero la proximidad física no basta; necesitamos mecanismos que conviertan el encuentro en colaboración formal.
 
@@ -60,7 +62,7 @@ Así que lo primero que hicimos fue escuchar. Hablamos con decanaturas, estudian
 
 **Tensiones reales.** También escuchamos preocupaciones. Excelencia vs. escala. Innovación vs. rigor. ¿Podemos hacer varias apuestas sin diluirnos? ¿Qué dejamos de hacer para liberar recursos?
 
-David Garza nombró dos tensiones más profundas. La primera: hemos perdido colegialidad académica. En universidades de clase mundial, los departamentos discuten semanalmente sobre las temáticas educativas y de investigación relevantes, los retos pedagógicos, hacia dónde evoluciona el campo. Aquí, muchos departamentos están en "activitis"—apagando fuegos, asignando clases, resolviendo urgencias. Esas conversaciones académicas no ocurren. Recuperarlas es parte de lo que nos hará mejores.
+La consulta reveló dos tensiones más profundas. La primera: hemos perdido colegialidad académica. En universidades de clase mundial, los departamentos discuten semanalmente sobre las temáticas educativas y de investigación relevantes, los retos pedagógicos, hacia dónde evoluciona el campo. Aquí, muchos departamentos están en "activitis"—apagando fuegos, asignando clases, resolviendo urgencias. Esas conversaciones académicas no ocurren. Recuperarlas es parte de lo que nos hará mejores.
 
 La segunda tensión es más incómoda: distribución equitativa vs. estratégica. Históricamente hemos repartido recursos de forma proporcional entre escuelas. Todos avanzan, pero avanzan poco. La pregunta es: ¿queremos que todas suban gradualmente, o que alguna dé un salto transformacional que jale a las demás? No se trata de descuidar a nadie—se trata de decidir dónde hacer la gran apuesta. Cuando hablamos de transformación, hablamos de cambios de al menos 30%, no de mejoras marginales.
 
@@ -74,11 +76,11 @@ Estas tensiones no tienen respuestas fáciles. Pero sí tenemos un criterio para
 
 El distrito es el espacio físico donde la investigación se hace visible y la colaboración ocurre por diseño, no por accidente. Expedition ya demostró que funciona: conexiones de valor, talento del top 2% mundial, proyectos que cruzan disciplinas. Ahora la pregunta es cómo escalamos esa magia.
 
-Pero escalar no basta. El distrito necesita algo más: un proyecto bandera que ponga al campus en el mapa mundial. David Garza lo llama un *big boat*—una iniciativa de tal magnitud que atraiga atención global. En salud, Proyecto Origen cumplió ese rol: abrió puertas, posicionó al Tec internacionalmente, y demostró que aquí se hace algo único. ¿Cuál es el equivalente en ingeniería? Aún no lo sabemos. Pero sí sabemos que debe responder una pregunta: ¿por qué esto solo puede hacerse en el Tec, en México? Un proyecto así no solo genera conocimiento—atrae talento, recursos y reputación.
+Pero escalar no basta. El distrito necesita algo más: un proyecto bandera—un *big boat*—que ponga al campus en el mapa mundial. Una iniciativa de tal magnitud que atraiga atención global. En salud, Proyecto Origen cumplió ese rol: abrió puertas, posicionó al Tec internacionalmente, y demostró que aquí se hace algo único. ¿Cuál es el equivalente en ingeniería? Aún no lo sabemos. Pero sí sabemos que debe responder una pregunta: ¿por qué esto solo puede hacerse en el Tec, en México? Un proyecto así no solo genera conocimiento—atrae talento, recursos y reputación.
 
 Seguiremos midiendo por escuela, pero también mediremos las **intersecciones**.
 *   **La transformación:** La investigación deja de estar aislada y pasa a formar parte de la cultura de la vida del distrito, no sólo en el campus.
-*   **El mecanismo:** junto con EBCT, se buscarán fondos semilla y espacios asignados específicamente a proyectos que conecten al menos dos escuelas o institutos. Si no hay colisión, no hay espacio prioritario.
+*   **El mecanismo:** junto con EBCT, se buscarán fondos semilla y espacios específicamente asignados a proyectos que conecten al menos dos escuelas o institutos. Si no hay colisión, no hay espacio prioritario.
 
 ### 2. Posgrados Presenciales: El motor de convergencia
 
@@ -99,7 +101,7 @@ La selectividad es lo que hace que las otras dos apuestas funcionen. Sin las per
 
 El Campus Monterrey ya tiene una facultad sólida: 705 SNI, contrataciones más rigurosas, una cultura de publicación que hace diez años no existía. Faculty of Excellence sumó 40+ docentes de 14 nacionalidades. Expedition demostró que el top 2% mundial quiere estar aquí. Pero tener talento no es lo mismo que activarlo.
 
-David Garza lo pone así: lo que buscamos es un nuevo mindset. Profesores con hambre, ambición y pasión por transformar su campo. Docentes que no solo investigan, sino que venden su visión—que emocionan a quienes los escuchan, que atraen recursos externos porque creen profundamente en lo que hacen. La pregunta ya no es cuántos doctores tenemos, sino cuántos proyectan a la institución hacia afuera, cuántos contagian esa ambición a estudiantes y colegas.
+Lo que buscamos es un nuevo mindset. Profesores con hambre, ambición y pasión por transformar su campo. Docentes que no solo investigan, sino que venden su visión—que emocionan a quienes los escuchan, que atraen recursos externos porque creen profundamente en lo que hacen. La pregunta ya no es cuántos doctores tenemos, sino cuántos proyectan a la institución hacia afuera, cuántos contagian esa ambición a estudiantes y colegas.
 
 - **La transformación:** que cada docente de alto nivel sea embajador activo—en el aula, en la industria, y en las redes globales donde se decide quién es relevante.
 - **Los mecanismos:**
@@ -115,7 +117,7 @@ Las cuatro apuestas no operan en el vacío. Tres elementos las cruzan y las pote
 
 *   **Inteligencia Artificial:** más que una herramienta, un sistema operativo. Un agente de IA del campus que conecte necesidades con recursos en tiempo real. Pero la ambición va más allá de lo operativo: ser pioneros en cómo la IA transforma la educación y la investigación. Que nuestros egresados sean los más preparados para esta era—y los que lideren los cambios hacia adelante.
 
-*   **Internacionalización:** que el campus se sienta global. No solo por movilidad estudiantil, sino por atracción de talento de todas partes del mundo. Que universidades de Estados Unidos o Europa hagan presencia física aquí, trabajando en proyectos de cinco años o más. David Garza lo dice claro: el Tec ha sido "el secreto mejor guardado". La meta para 2030 es que deje de ser secreto—que la gente de fuera sepa qué proyectos únicos se hacen aquí y diga: "tú vienes del Tec, donde están haciendo esto".
+*   **Internacionalización:** que el campus se sienta global. No solo por movilidad estudiantil, sino por atracción de talento de todas partes del mundo. Que universidades de Estados Unidos o Europa hagan presencia física aquí, trabajando en proyectos de cinco años o más. El Tec ha sido llamado "el secreto mejor guardado". La meta para 2030 es que deje de ser secreto—que la gente de fuera sepa qué proyectos únicos se hacen aquí y diga: "tú vienes del Tec, donde están haciendo esto".
 
 *   **Sostenibilidad (Ruta Azul):** el filtro de decisión. Si hipoteca el 2040, no se hace en el 2030.
 
@@ -162,13 +164,13 @@ Estos son ejemplos. La definición final será parte de la conversación con la 
 
 ## 7. 2030 como base para 2035
 
-Juan Pablo tiene razón: 2030 está a la vuelta de la esquina. El éxito no es llegar con todo resuelto—eso sería irreal. El éxito es llegar con la infraestructura de colaboración operando y la capacidad de ajustar lo que no funcione.
+2030 está a la vuelta de la esquina. El éxito no es llegar con todo resuelto—eso sería irreal. El éxito es llegar con la infraestructura de colaboración operando y la capacidad de ajustar lo que no funcione.
 
 Si el Distrito, los posgrados, la selectividad y la facultad funcionan como sistema, 2035 será el momento de escalar. No prometemos que todo saldrá perfecto. Prometemos que aprenderemos rápido y ajustaremos. Estamos construyendo los cimientos de una universidad que no solo enseña, sino que crea futuro.
 
-Habrá quienes digan que somos demasiado ambiciosos. Que no somos MIT, que no tenemos los mismos recursos. Ya sabemos lo que no tenemos. Lo que importa es a dónde queremos llegar—y luego ver cómo le hacemos. Esa ha sido la historia del Tec desde su fundación. Fuimos la casona de Monterrey, luego el primer campus universitario de México. Construimos el Setec, Expedition, TecSalud. Hace 40 años apostamos por la investigación cuando nadie lo esperaba—y ese jonrón nos posicionó internacionalmente. ¿Por qué no hacerlo de nuevo?
+Habrá quienes digan que somos demasiado ambiciosos. Que no somos MIT, que no tenemos los mismos recursos. Ya sabemos lo que no tenemos. Lo que importa es a dónde queremos llegar—y luego ver cómo le hacemos. Esa ha sido la historia del Tec desde su fundación. Fuimos a la casona de Monterrey, luego el primer campus universitario de México. Construimos el Setec, Expedition, TecSalud. Hace 40 años apostamos por la investigación cuando nadie lo esperaba—y ese jonrón nos posicionó internacionalmente. ¿Por qué no hacerlo de nuevo?
 
-David Garza lo resume así: *"El Tec de Monterrey piensa en grande. Se reta ante contextos difíciles. Y hace realidad proyectos e iniciativas complejas. Debemos ser siempre muy audaces."*
+El Tec de Monterrey piensa en grande. Se reta ante contextos difíciles. Y hace realidad proyectos e iniciativas complejas. Debemos ser siempre muy audaces.
 
 En un momento geopolítico como el actual, lo que haga el Tec en los próximos diez años importa—para México, para Latinoamérica, para el mundo hispanohablante. El Campus Monterrey tiene la oportunidad y la responsabilidad de ser la punta de lanza. Tenemos los nodos. Tenemos el talento. Con esta estrategia, tendremos las conexiones.
 
@@ -187,7 +189,8 @@ Don Eugenio decía: *"Lo que uno es y puede poseer, es una oportunidad de servic
 | Faculty of Excellence | 0 | 40+ |
 
 ### Fuentes
-- Entrevistas con Juan Pablo Murra y David Garza.
+- Consulta amplia con voces del ecosistema Tec: Juan Pablo Murra, David Garza, Ricardo Saldívar, José Antonio Fernández, Carlos Saldívar, entre otros.
+- Entrevistas con decanaturas, estudiantes y equipo de liderazgo del campus.
 - Talleres con Decanos Nacionales (25+ ideas).
 - Reportes de operación Expedition (Año 1).
 - Plan Estratégico 2030.
