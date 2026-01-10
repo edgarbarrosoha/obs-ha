@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "dashboard"
             }
-          },
-          {
-            "id": "79b5048fab4fe1f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,8 +175,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79b5048fab4fe1f0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/entrevista-hecha-david-garza.md",
+    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/01-legacy-ncm.md",
+    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/agent-ncm-legacy.md",
+    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/entrevista-juan-pablo-murra.md",
+    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/entrevista-david-garza.md",
     "00-ha-root/06-projects/__to-do/dashboard.md",
     "conflict-files-obsidian-git.md",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/entrevista-ricardo-saldivar.md",
@@ -215,12 +205,7 @@
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/prompts-sic-q/prompt-agente-sicq-ciudadano.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/prompts-sic-q/prompt-agente-sic-q-raiz-gobierno.md",
     "00-ha-root/06-projects/y-HA-Atelier/propuesta-tec-lemmontech-v01.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/03-learning-ncm/value-proposition-of-presence-senge.md",
     "5C962185-CA38-428B-8EC3-83A87C9589AC (1).png",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/03-learning-ncm/social-cognitive-theory-bandura.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/proceso-diseño-sic-q-ha.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/proceso-diseño-sic-q.md",
-    "00-ha-root/06-projects/ha-core/01-legacy-ha-core/ha-theoretical-paper.md",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/diagrama-mermaid-v02.mmd",
     "00-ha-root/06-projects/sic-q/05-context-sic-q/doc-knowledge/QRO2050 Plan.pdf",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/docs-base-de-conocimiento/Rumbo al 2030 Tec Educational Group.pdf",
