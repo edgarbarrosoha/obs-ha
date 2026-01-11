@@ -4,76 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1a802f7f27841333",
-        "type": "split",
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
         "children": [
           {
-            "id": "4509724f8bf84da7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e7a7b303c61786dc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/ncm-2030-narrative+.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ncm-2030-narrative+"
-                }
-              }
-            ]
-          },
-          {
-            "id": "10c97a882f09efc6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0257941a0dbd2996",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/edgarbarroso/Documents/obs-ha/00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "/bin/zsh",
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: zsh"
-                }
-              }
-            ]
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-ha-root/06-projects/__to-do/dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,46 +175,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56d69c25aa6c9e25",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/ncm-2030-narrative+.md",
-    "00-ha-root/06-projects/__to-do/dashboard.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-campus-monterrey-2030-versión-para-revisión.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-integrando-ideas-de-david-textuales.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/reunión-mario-adrián-16.12.2025.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/entrevista-presentación-transcript-05.12.2025.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm/narrativa-campus-monterrey-2030-versión-para-revisión 1.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/principales-hallazgos-david-garza.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/entrevista-hecha-david-garza.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/01-legacy-ncm.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/agent-ncm-legacy.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/entrevista-juan-pablo-murra.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/entrevista-david-garza.md",
-    "conflict-files-obsidian-git.md",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/entrevista-ricardo-saldivar.md",
-    "David-Respaldo.md",
-    "00-ha-root/06-projects/ha-atelier/proposals/propuesta-lemon-tech-ha.md",
-    "00-ha-root/06-projects/ha-atelier/proposals/lemmon-tech.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/mermaid-citizens-journey-v.03.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/ascii-citizens-journey-v.03.md",
-    "00-ha-root/06-projects/sic-q/02-community-sic-q/metodología-proceso-codiseño-sic-q-ha-v.02.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey-past-versions/metodología-proceso-codiseño-sic-q-v.01.md",
-    "00-ha-root/06-projects/sic-q/05-context-sic-q/documentos-base-conocimientos-sic-q.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey-past-versions/citizens-journey-v.02.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey-past-versions/citizens-journey-prompt.md",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/citizens-journey-past-versions",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/ASCII.md",
+    "00-ha-root/06-projects/lemontech/propuesta-lemon-tech-google-drive+.md",
+    "00-ha-root/06-projects/lemontech/lemontech-transcripción-llamada-7-de-enero-2026.md",
+    "00-ha-root/06-projects/lemontech/propuesta-lemon-tech-ha.md",
+    "00-ha-root/06-projects/lemontech/hallazgos-reunión-lemontech-7-de-enero-2026.md",
+    "00-ha-root/06-projects/lemontech",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/03-learning/para-el-legacy",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/02-community/stakeholders",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/06-projects/entregables",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/03-learning/lecciones",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/01-legacy/narrativas",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/01-legacy/estrategia",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/04-technology/stack",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/02-community/equipo",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/05-context/entorno",
+    "00-ha-root/04-technology/herramientas/c.r.e.a.t.i.v.o..md",
+    "00-ha-root/04-technology/agentes/prompts/haize-prompt.md",
+    "00-ha-root/04-technology/agentes/prompts/haizing-prompt.md",
+    "00-ha-root/04-technology/agentes/prompts/ha-structure-obsidian.md",
+    "00-ha-root/04-technology/integraciones/integraciones.md",
+    "00-ha-root/04-technology/agentes/agentes-ha.md",
+    "00-ha-root/04-technology/stack/stack-ha.md",
+    "00-ha-root/03-learning/para-el-legacy/prioridades.md",
+    "00-ha-root/03-learning/para-el-legacy/gaps.md",
+    "00-ha-root/03-learning/referencias/vibecoding/transcript-webinar-speedcoding.md",
+    "00-ha-root/03-learning/lecciones/ha-estructura-integrada.md",
+    "00-ha-root/03-learning/lecciones/evaluacion-estructura-oscar.md",
+    "00-ha-root/03-learning/lecciones/lecciones-aprendidas.md",
+    "00-ha-root/03-learning/skills/skills-capacidades.md",
+    "00-ha-root/03-learning/referencias/vibecoding/ben-guo.md",
+    "00-ha-root/02-community/equipo/equipo-ha.md",
+    "00-ha-root/02-community/red/partners.md",
+    "00-ha-root/02-community/onboarding/proceso.md",
+    "00-ha-root/02-community/onboarding/onboarding-valentina.md",
+    "00-ha-root/01-legacy/_archivo/advisory-conversation-ha-as-discipline.md.md",
+    "00-ha-root/01-legacy/_archivo/Raw Strategic conversation.md",
+    "00-ha-root/01-legacy/_archivo/vault-summary.md",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/5C962185-CA38-428B-8EC3-83A87C9589AC (1).png",
     "5C962185-CA38-428B-8EC3-83A87C9589AC (1).png",
-    "00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/citizens-journey/diagrama-mermaid-v02.mmd",
-    "00-ha-root/06-projects/sic-q/05-context-sic-q/doc-knowledge/QRO2050 Plan.pdf",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/docs-base-de-conocimiento/Rumbo al 2030 Tec Educational Group.pdf",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/docs-base-de-conocimiento",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/06-projects-ncm",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/04-technology-ncm",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/03-learning-ncm",
-    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/02-community-ncm",
     "00-ha-root/06-projects/sic-q/04-technology-sic-q/Untitled diagram-2025-11-11-162644.png",
     "06-projects/sic-q/04-technology/Untitled diagram-2025-11-11-162644.png",
     "06-projects/sic-q/technology/Untitled diagram-2025-11-11-162644.png",

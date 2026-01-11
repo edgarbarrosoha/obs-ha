@@ -19,19 +19,20 @@ Define qué servicios y tools usar, cómo integrarlos, con qué protocolos y cos
 
 ## Contenido de esta Dimensión
 
-### Stack Tecnológico
-- [[stack-ha]] — Herramientas actuales
+### 📂 `stack/` — Qué usamos
+- [[stack-ha]] — El stack tecnológico de HA
 
-### Prompts y Metodologías
-- [[c.r.e.a.t.i.v.o.]] — Prompt para narrativas persuasivas
-- prompts/ — Biblioteca de prompts
+### 📂 `agentes/` — Los agentes HA
+- [[agentes-ha]] — Definición de agentes por dimensión
+- `prompts/` — Biblioteca de prompts
+  - [[haize-prompt]] — Prompt para "HAizar"
+  - [[ha-structure-obsidian]] — Estructura en Obsidian
 
-### Agentes
-- [[agentes-ha]] — Configuración de agentes por dimensión
-- agentes/ — Playbooks específicos
-
-### Integraciones
+### 📂 `integraciones/` — Cómo se conecta
 - [[integraciones]] — APIs y servicios conectados
+
+### 📂 `herramientas/` — Tools específicos
+- [[c.r.e.a.t.i.v.o.]] — Prompt para narrativas persuasivas
 
 ## Conexiones con otras Dimensiones
 

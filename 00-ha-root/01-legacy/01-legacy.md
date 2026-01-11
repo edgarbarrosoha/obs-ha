@@ -20,16 +20,22 @@ El Legado es la **función objetivo** del sistema. Gobierna decisiones humanas y
 
 ## Contenido de esta Dimensión
 
-### Visión y Estrategia
-- [[What HA wants to become]]
-- [[vision-estrategia]]
+### 📂 `legacies/` — Lo que trasciende
+- [[legacy-ha]] — Legacy de HA + índice a proyectos
+- [[legacy-projects]] — Legacies por proyecto (EN)
+- [[proyectos-legado]] — Legacies por proyecto (ES)
+- [[preguntas-legacy]] — Preguntas generativas
 
-### Legados por Proyecto
-- [[legacy]] — Resumen de legados
-- [[proyectos-legado]] — Detalle con principios HA
+### 📂 `estrategia/` — La dirección
+- [[vision]] — Visión y misión
+- [[metas-2026-ha]] — Metas 2026
+- [[plan-accion-2026]] — Plan de acción
+- [[objetivos-tradeoffs]] — Trade-offs estratégicos
 
-### Función Objetivo
-- [[objetivos-tradeoffs]]
+### 📂 `narrativas/` — Cómo lo contamos
+- [[what-ha-wants-to-become]] — Lo que HA aspira a ser
+- [[carta-a-mis-socios-2026]] — Carta a socios
+- `pitches/` — Presentaciones por cliente
 
 ## Conexiones con otras Dimensiones
 

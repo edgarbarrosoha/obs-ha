@@ -19,21 +19,23 @@ No es solo un organigrama; es un **grafo operativo** para coordinar quién decid
 
 ## Contenido de esta Dimensión
 
-### Equipo HA
+### Grafo de Comunidad (Fuente única de verdad)
+- `comunidad.yaml` — Base de datos de nodos y relaciones
+- `grafo-comunidad.ipynb` — Colab para visualizar el grafo
+
+### 📂 `equipo/` — Quiénes somos
 - [[equipo-ha]] — Team y roles por dimensión
 
-### Stakeholders por Proyecto
-- [[stakeholders-tec]] — tec-monterrey
-- [[stakeholders-docet]] — DOCET (Alfonso Romo)
-- [[stakeholders-tecmilenio]] — tec-milenio
-- [[stakeholders-xignux]] — xignux
+### 📂 `red/` — Con quién colaboramos
+- [[partners]] — Partners estratégicos
 
-### Red y Aliados
-- [[partners-red]] — Partners estratégicos
+### 📂 `stakeholders/` — Actores por proyecto
+- [[stakeholders-tec]] — Tec de Monterrey
+- [[stakeholders-docet]] — DOCET
 
-### Onboarding
-- [[Onboarding Valentina]]
-- [[proceso-onboarding]] — Proceso estándar
+### 📂 `onboarding/` — Cómo se une la gente
+- [[proceso]] — Proceso estándar
+- [[onboarding-valentina]] — Ejemplo
 
 ## Conexiones con otras Dimensiones
 
