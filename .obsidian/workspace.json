@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-ha-root/06-projects/__to-do/dashboard.md",
+                "file": "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/David-Respaldo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dashboard"
-            }
-          },
-          {
-            "id": "cdc0b143ebc629a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "David-Respaldo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,8 +175,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cdc0b143ebc629a4",
+  "active": "56d69c25aa6c9e25",
   "lastOpenFiles": [
+    "00-ha-root/03-learning/lecciones/evaluacion-estructura-oscar.md",
+    "00-ha-root/03-learning/lecciones/ha-estructura-integrada.md",
+    "00-ha-root/03-learning/lecciones/lecciones-aprendidas.md",
     "00-ha-root/06-projects/__to-do/dashboard.md",
     "conflict-files-obsidian-git.md",
     "00-ha-root/03-learning/ha-estructura-integrada.md",
@@ -220,9 +208,6 @@
     "00-ha-root/03-learning/para-el-legacy/prioridades.md",
     "00-ha-root/03-learning/para-el-legacy/gaps.md",
     "00-ha-root/03-learning/referencias/vibecoding/transcript-webinar-speedcoding.md",
-    "00-ha-root/03-learning/lecciones/ha-estructura-integrada.md",
-    "00-ha-root/03-learning/lecciones/evaluacion-estructura-oscar.md",
-    "00-ha-root/03-learning/lecciones/lecciones-aprendidas.md",
     "00-ha-root/03-learning/skills/skills-capacidades.md",
     "00-ha-root/03-learning/referencias/vibecoding/ben-guo.md",
     "00-ha-root/02-community/equipo/equipo-ha.md",
