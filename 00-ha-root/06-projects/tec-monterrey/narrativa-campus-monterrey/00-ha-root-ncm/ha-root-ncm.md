@@ -75,7 +75,7 @@ Articular una narrativa persuasiva que posicione al Campus Monterrey como punta 
 |-----------|------|-------------|
 | [[06-projects-ncm\|06-projects-ncm]] | Index | Reuniones y entregables |
 | [[agent-ncm-projects\|agent-ncm-projects]] | Agent | Ejecutor del proyecto |
-| [[narrativa-campus-monterrey-2030-versión-para-revisión\|narrativa-2030]] | Entregable | Documento narrativo principal v1 |
+| [[ncm-2030-narrative+\|narrativa-2030]] | Entregable | Documento narrativo principal v1 |
 | [[entrevista-presentación-transcript-05.12.2025\|transcript-05.12]] | Transcripción | Presentación Dec 5 |
 | [[reunión-mario-adrián-16.12.2025\|reunión-16.12]] | Minuta | Reunión Dec 16 |
 

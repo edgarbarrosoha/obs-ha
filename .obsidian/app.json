@@ -9,7 +9,7 @@
     "downscalePercent": 91
   },
   "showLineNumber": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "showUnsupportedFiles": true,
   "userIgnoreFilters": null
 }

@@ -19,17 +19,62 @@ Es **escaneo dinámico**: personas definen variables a monitorear y agentes sugi
 
 ## Contenido de esta Dimensión
 
-### Análisis de Mercado
-- [[mercado-tendencias]] — Tendencias relevantes
+### 📂 `entorno/` — El mundo externo
 
-### Marco Regulatorio
-- [[regulacion-normativas]] — Leyes y normas aplicables
+**Regulación y Gobernanza**
+- [[regulacion-ia-global]] — Regulación de IA por región (EU, US, LATAM, APAC)
+- [[etica-ia-gobernanza]] — Debate global de ética y gobernanza de IA
 
-### Landscape Competitivo
-- [[competidores]] — Análisis de competencia
+**Ecosistemas**
+- [[ecosistema-agentes-ia]] — Players, frameworks, tendencias en agentes IA
+- [[ecosistema-academico]] — Investigación y programas en hybrid intelligence
+- [[talento-hibrido]] — Mercado de talento para HA
 
-### Oportunidades
-- [[grants-oportunidades]] — Convocatorias y funding
+**Mercados y Sectores**
+- [[mercado-complejidad]] — Mercado de navegación de complejidad
+- [[sector-educacion-global]] — Educación superior global (vertical principal)
+- [[sector-industria-transformacion]] — Industria y transformación (vertical secundario)
+
+**Macro**
+- [[macro-tendencias-globales]] — Fuerzas globales que crean demanda para HA
+- [[tendencias]] — Tendencias de mercado
+- [[benchmarks]] — Benchmarks y referencias
+
+### 📂 `oportunidades/` — Lo que podemos aprovechar
+- [[funding-global]] — Opciones de funding (VC, grants, strategic)
+- [[alianzas-estrategicas]] — Partners potenciales
+- [[grants-oportunidades]] — Convocatorias específicas
+- `grants/` — Grants detalladas
+
+### 📂 `ha-fundamentos/` — Conocimiento base HA (solo ha-root)
+
+> Documentos que explican qué es Horizons Architecture. Ideal para onboarding y dar contexto a colaboradores o agentes de IA.
+
+**teoria/**
+- [[paper-academico]] — Paper académico fundacional
+- [[sintesis]] — Síntesis accesible del framework
+- [[axiomas]] — Los 3 axiomas de HA
+- [[6-dimensiones]] — Las 6 dimensiones explicadas
+
+**vision/**
+- [[vision-estrategia]] — Visión, misión y estrategia
+- [[aspiraciones]] — Lo que HA aspira a ser
+- [[legados]] — Framework de legados
+- [[startup-overview]] — Vista general del startup
+
+**metodologia/**
+- [[aprendizaje]] — Cómo HA aprende y evoluciona
+- [[potencial-academico]] — HA como campo académico y startup
+
+**fundador/**
+- [[edgar-barroso]] — Perfil de Edgar Barroso (CEO/Fundador)
+- [[reflexiones]] — Reflexiones del fundador sobre HA
+- [[carta-socios-2026]] — Carta a socios 2026
+
+**diferenciacion/**
+- [[vs-big-tech]] — HA vs Google/OpenAI
+- [[propiedad-intelectual]] — IP y secret sauce de HA
+- [[gobernanza]] — Gobernanza corporativa
 
 ## Conexiones con otras Dimensiones
 
