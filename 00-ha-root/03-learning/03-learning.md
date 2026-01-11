@@ -19,20 +19,25 @@ Incluye activos explícitos (manuales, wikis, datasets) y tácitos (skills del e
 
 ## Contenido de esta Dimensión
 
-### Metodologías HA
+### 📂 `para-el-legacy/` — Qué aprender para lograr el legacy
+- [[gaps]] — Brechas de conocimiento/capacidad
+- [[prioridades]] — Qué aprender primero y por qué
+
+### 📂 `metodologias/` — Cómo trabajamos
 - [[6-dimensiones]] — Las 6 dimensiones de HA
 - [[8-pasos-ha]] — El proceso de 8 pasos
 - [[arquitectura-fractal]] — Estructura fractal del sistema
 
-### Skills y Capacidades
+### 📂 `lecciones/` — Qué hemos aprendido
+- [[lecciones-aprendidas]] — Lecciones por proyecto
+- [[ha-estructura-integrada]] — Propuesta de estructura (Oscar)
+- [[evaluacion-estructura-oscar]] — Evaluación de la propuesta
+
+### 📂 `skills/` — Qué sabemos hacer
 - [[skills-capacidades]] — Competencias del equipo
 
-### Lecciones Aprendidas
-- [[lecciones-aprendidas]] — Por proyecto
-
-### Recursos
-- [[recursos/bibliografia]] — Lecturas recomendadas
-- Vibecoding/ — Experimentos de código
+### 📂 `referencias/` — Conocimiento externo
+- `vibecoding/` — Experimentos de AI coding
 
 ## Conexiones con otras Dimensiones
 

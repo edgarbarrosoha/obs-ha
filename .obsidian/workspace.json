@@ -4,91 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f191480325c80938",
-        "type": "split",
+        "id": "6a1e63ccead94cee",
+        "type": "tabs",
         "children": [
           {
-            "id": "4509724f8bf84da7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e7a7b303c61786dc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00-ha-root/02-community/agent-ha-community.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "agent-ha-community"
-                }
+            "id": "f0e9fcc463015537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-ha-root/06-projects/lemontech/propuesta-lemon-tech-google-drive+.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "bfd5fd9efa0bf489",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "conflict-files-obsidian-git.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "conflict-files-obsidian-git"
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "098915a37f2aa930",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f085cc986a5443a6",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/eb_mac/Documents/obs-ha",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "/bin/zsh",
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: ✳ Create YAML Files"
-                }
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "propuesta-lemon-tech-google-drive+"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 472.50271224975586
   },
   "right": {
     "id": "91d3bc9e8ba0f1cd",
@@ -258,44 +191,44 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "bfd5fd9efa0bf489",
+  "active": "f0e9fcc463015537",
   "lastOpenFiles": [
-    "00-ha-root/02-community/agent-ha-community.md",
-    "conflict-files-obsidian-git.md",
-    "00-ha-root/02-community/grafo-comunidad.ipynb",
-    "00-ha-root/02-community/02-community.md",
-    "00-ha-root/02-community/stakeholders/stakeholders-tec.md",
-    "00-ha-root/02-community/stakeholders/stakeholders-docet.md",
-    "00-ha-root/01-legacy/agent-ha-root.md",
-    "00-ha-root/02-community/comunidad.yaml",
-    "00-ha-root/01-legacy/ha-root.md",
-    "00-ha-root/01-legacy/agent-ha-legacy.md",
-    "00-ha-root/01-legacy/01-legacy.md",
-    "00-ha-root/01-legacy/_archivo/6-proyectos.md",
-    "00-ha-root/01-legacy/_archivo/5-contexto.md",
-    "00-ha-root/01-legacy/_archivo/4-tecnología.md",
-    "00-ha-root/01-legacy/_archivo/3-aprendizaje.md",
-    "00-ha-root/01-legacy/_archivo/2-comunidad.md",
-    "00-ha-root/01-legacy/_archivo/1-legado.md",
-    "00-ha-root/01-legacy/_archivo/vault-summary.md",
-    "00-ha-root/01-legacy/_archivo/terminal-conversation.md",
-    "00-ha-root/01-legacy/_archivo/reflexiones-eb-claude4.5-sobre-HA.md",
-    "00-ha-root/01-legacy/_archivo/proyecto-ejemplo.md",
-    "00-ha-root/01-legacy/_archivo/ha-raíz.md",
-    "00-ha-root/01-legacy/_archivo/ha-moc.md",
-    "00-ha-root/01-legacy/_archivo/ha-central.md",
-    "00-ha-root/01-legacy/_archivo/advisory-conversation-ha-as-discipline.md.md",
-    "00-ha-root/01-legacy/_archivo/Raw Strategic conversation.md",
-    "00-ha-root/01-legacy/_archivo",
-    "00-ha-root/01-legacy/narrativas/what-ha-wants-to-become.md",
-    "00-ha-root/01-legacy/narrativas/carta-a-mis-socios-2026.md",
-    "00-ha-root/01-legacy/narrativas/pitches",
-    "00-ha-root/01-legacy/narrativas",
-    "00-ha-root/01-legacy/estrategia",
-    "00-ha-root/01-legacy/legacies",
-    "00-ha-root/05-context/oportunidades/grants",
-    "00-ha-root/05-context/oportunidades",
-    "00-ha-root/05-context/entorno",
+    "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/01-legacy-ncm/David-Respaldo.md",
+    "00-ha-root/03-learning/ha-estructura-integrada.md",
+    "00-ha-root/03-learning/evaluacion-estructura-oscar.md",
+    "00-ha-root/03-learning/vibecoding",
+    "00-ha-root/06-projects/lemontech/propuesta-lemon-tech-ha.md",
+    "00-ha-root/06-projects/lemontech/propuesta-lemon-tech-google-drive+.md",
+    "00-ha-root/06-projects/lemontech/lemontech-transcripción-llamada-7-de-enero-2026.md",
+    "00-ha-root/06-projects/lemontech/hallazgos-reunión-lemontech-7-de-enero-2026.md",
+    "00-ha-root/06-projects/lemontech",
+    "00-ha-root/05-context/agent-ha-context.md",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/06-projects/entregables",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/06-projects",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/05-context/entorno",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/05-context",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/04-technology/stack",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/04-technology",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/03-learning/para-el-legacy",
+    "00-ha-root/06-projects/ha-core/_template-proyecto-ha/03-learning/lecciones",
+    "00-ha-root/03-learning/para-el-legacy/prioridades.md",
+    "00-ha-root/04-technology/herramientas/c.r.e.a.t.i.v.o..md",
+    "00-ha-root/04-technology/integraciones/integraciones.md",
+    "00-ha-root/04-technology/agentes/prompts/haizing-prompt.md",
+    "00-ha-root/04-technology/agentes/prompts/haize-prompt.md",
+    "00-ha-root/04-technology/agentes/prompts/ha-structure-obsidian.md",
+    "00-ha-root/04-technology/agentes/agentes-ha.md",
+    "00-ha-root/04-technology/stack/stack-ha.md",
+    "00-ha-root/03-learning/03-learning.md",
+    "00-ha-root/03-learning/skills/skills-capacidades.md",
+    "00-ha-root/03-learning/para-el-legacy/gaps.md",
+    "00-ha-root/03-learning/metodologias/arquitectura-fractal.md",
+    "00-ha-root/03-learning/metodologias/8-pasos-ha.md",
+    "00-ha-root/03-learning/lecciones/evaluacion-estructura-oscar.md",
+    "00-ha-root/02-community/equipo/equipo-ha.md",
+    "00-ha-root/03-learning/referencias/vibecoding/transcript-webinar-speedcoding.md",
+    "00-ha-root/03-learning/referencias/vibecoding/ben-guo.md",
+    "00-ha-root/03-learning/lecciones/lecciones-aprendidas.md",
     "00-ha-root/06-projects/tec-monterrey/narrativa-campus-monterrey/05-context-ncm/5C962185-CA38-428B-8EC3-83A87C9589AC (1).png",
     "00-ha-root/06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.19.png",
     "00-ha-root/06-projects/ha-atelier-archive/resources/images/Screenshot 2025-07-13 at 11.44.11.png",
