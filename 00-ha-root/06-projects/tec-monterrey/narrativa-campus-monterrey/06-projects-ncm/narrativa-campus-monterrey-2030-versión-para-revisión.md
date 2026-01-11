@@ -42,7 +42,7 @@ Imaginen varias líneas paralelas. Cada una es una disciplina: cada escuela, cad
 
 Pero las líneas paralelas, por definición, nunca se tocan. Lo que necesitamos son líneas curvas que pasen por encima y se intersecten. Esas curvas son los mecanismos del campus: los espacios compartidos, los proyectos conjuntos, los incentivos para colaborar. Donde una curva cruza dos o más líneas paralelas, se produce una colisión. Un proyecto que ninguna disciplina por sí sola habría concebido.
 
-Lo que ya tenemos son los nodos fuertes. Lo que falta es sistematizar las colisiones.
+Lo que ya tenemos son los nodos fuertes. Y ya ocurren colisiones valiosas. La oportunidad está en sistematizarlas—hacer que sean más frecuentes, más visibles y más fáciles de escalar.
 
 En Expedition ya vimos qué pasa cuando esto funciona. Una persona de biotecnología compartiendo pasillo con un equipo de diseño industrial: en seis meses desarrollaron un prototipo de dispositivo médico que nadie habría concebido en aislamiento.
 
@@ -56,17 +56,17 @@ Así que lo primero que hicimos fue escuchar. Realizamos una consulta amplia que
 
 Hubo consenso en tres temas:
 
-**Investigación visible y conectada.** La investigación debe salir de los laboratorios cerrados. Alguien en Expedition lo puso así: "Aquí puedo bajar al café y encontrarme con alguien de diseño industrial." Pero la proximidad física no basta; necesitamos mecanismos que conviertan el encuentro en una colaboración formal.
+**Investigación visible y conectada.** La investigación gana cuando se hace más visible y accesible. Alguien en Expedition lo puso así: "Aquí puedo bajar al café y encontrarme con alguien de diseño industrial." La proximidad física ayuda, pero podemos ir más allá: crear mecanismos que conviertan el encuentro en una colaboración formal.
 
 **Talento atrae talento.** El perfil 2030 requiere ir más allá de los puntajes. Buscamos liderazgo, agencia y capacidad de innovación —en estudiantes y en docentes.
 
-**Tensiones reales.** También escuchamos preocupaciones. Excelencia vs. escala. Innovación vs. rigor. ¿Podemos hacer varias apuestas sin diluirnos? ¿Qué dejamos de hacer para liberar recursos?
+**Tensiones reales.** También escuchamos preocupaciones legítimas. Excelencia vs. escala. Innovación vs. rigor. ¿Podemos hacer varias apuestas sin diluirnos? ¿Qué dejamos de hacer para liberar recursos? Estas preguntas reflejan la madurez de una institución que se conoce bien.
 
-La consulta reveló dos tensiones más profundas. La primera: hemos perdido un poco la colegialidad académica. En universidades de clase mundial, los departamentos discuten semanalmente sobre temas educativos y de investigación relevantes, los retos pedagógicos y hacia dónde evoluciona el campo. Aquí, muchos departamentos están en "activitis"—apagando "fuegos", asignando clases, resolviendo urgencias. Esas conversaciones académicas no ocurren. Recuperarlas es parte de lo que nos hará mejores.
+La consulta también identificó dos áreas donde podemos seguir creciendo. La primera: fortalecer la colegialidad académica. En universidades de clase mundial, los departamentos dedican tiempo cada semana a discutir temas educativos y de investigación, retos pedagógicos y hacia dónde evoluciona el campo. En el Tec ya existen departamentos que cultivan estos espacios; la oportunidad está en que se vuelvan más comunes, liberando tiempo de la carga operativa del día a día para dedicarlo a estas conversaciones.
 
-La segunda tensión: la distribución equitativa vs. estratégica. Históricamente, hemos repartido recursos de forma proporcional entre las escuelas. Todos avanzan, pero avanzan poco. La pregunta es: ¿queremos que todas suban gradualmente o que alguna dé un salto transformador que jale a las demás? No se trata de descuidar a nadie; se trata de decidir dónde hacer la gran apuesta. Cuando hablamos de transformación, hablamos de cambios de al menos un 30 %, no de mejoras marginales.
+La segunda: encontrar el balance entre distribución equitativa y estratégica. Históricamente, hemos repartido recursos de forma proporcional entre las escuelas, lo cual ha permitido que todas avancen. Hacia adelante, vale la pena preguntarnos: ¿hay momentos en que convenga concentrar esfuerzos para que alguna área dé un salto que impulse a las demás? No se trata de descuidar a nadie; se trata de explorar cuándo y dónde hacer apuestas más focalizadas.
 
-Estas tensiones no tienen respuestas fáciles. Pero sí tenemos un criterio para navegarlas: priorizar lo que conecta. En Monterrey, las tensiones no son contradicciones—son oportunidades de diseño. Y cuando todo lo demás cambia constantemente, los principios de Don Eugenio nos sirven de brújula: "La educación lo puede todo" no es nostalgia, es nuestro criterio de decisión.
+Estas tensiones son naturales en una institución con la historia y complejidad del Tec. No tienen respuestas fáciles, pero sí tenemos un criterio para navegarlas: priorizar lo que conecta. En Monterrey, las tensiones no son contradicciones—son oportunidades de diseño. Y cuando todo lo demás cambia constantemente, los principios de Don Eugenio nos sirven de brújula: "La educación lo puede todo" no es nostalgia, es nuestro criterio de decisión.
 
 ---
 
@@ -79,8 +79,8 @@ El distrito es el espacio físico donde la investigación se hace visible y la c
 Pero escalar no basta. El distrito necesita algo más: un proyecto bandera —un *big boat*— que ponga al campus en el mapa mundial. Una iniciativa de tal magnitud que atraiga la atención global. En salud, Proyecto Origen cumplió ese rol: abrió puertas, posicionó al Tec internacionalmente y demostró que aquí se hace algo único. ¿Cuál es el equivalente en ingeniería? Aún no lo sabemos. Pero sí sabemos que debe responder una pregunta: ¿por qué esto solo puede hacerse en el Tec, en México? Un proyecto así no solo genera conocimiento; atrae talento, recursos y reputación.
 
 Seguiremos midiendo por escuela, pero también mediremos las **intersecciones**.
-*   **La transformación:** La investigación deja de estar aislada y pasa a formar parte de la cultura de la vida del distrito, no sólo en el campus.
-*   **El mecanismo:** Junto con EBCT, se buscarán fondos semilla y espacios específicamente asignados a proyectos que conecten al menos dos escuelas o institutos. Si no hay colisión, no hay espacio prioritario.
+*   **La transformación:** La investigación se integra cada vez más a la vida del distrito y del campus, haciéndose visible y accesible para todos.
+*   **El mecanismo:** Junto con EBCT, se buscarán fondos semilla y espacios asignados a proyectos que conecten al menos dos escuelas o institutos. Los proyectos interdisciplinarios tendrán ventaja en la asignación de espacios estratégicos.
 
 ### 2. Posgrados presenciales: El motor de convergencia
 
@@ -99,9 +99,9 @@ La selectividad es lo que hace que las otras dos apuestas funcionen. Sin las per
 
 ### 4. Facultad
 
-El Campus Monterrey ya tiene una facultad sólida: 705 SNI, contrataciones más rigurosas, una cultura de publicación que hace diez años no existía. La Faculty of Excellence sumó a 40+ docentes de 14 nacionalidades. Expedition demostró que podemos atraer a investigadores top mundiales que quieren estar aquí. Pero tener talento no es lo mismo que activarlo.
+El Campus Monterrey ya tiene una facultad sólida: 705 SNI, contrataciones más rigurosas, una cultura de publicación que hace diez años no existía. La Faculty of Excellence sumó a 40+ docentes de 14 nacionalidades. Expedition demostró que podemos atraer a investigadores top mundiales que quieren estar aquí. Ya tenemos talento extraordinario; la oportunidad está en potenciarlo aún más.
 
-Lo que buscamos es un nuevo mindset. Profesores con hambre, ambición y pasión por transformar su campo. Docentes que no solo investigan, sino que venden su visión, que emocionan a quienes los escuchan, que atraen recursos externos porque creen profundamente en lo que hacen. La pregunta ya no es cuántos doctores tenemos, sino cuántos proyectan a la institución hacia afuera, cuántos contagian esa ambición a estudiantes y colegas.
+Lo que buscamos es amplificar un mindset que ya existe en muchos de nuestros profesores: hambre, ambición y pasión por transformar su campo. Docentes que no solo investigan, sino que comparten su visión con entusiasmo, que emocionan a quienes los escuchan, que atraen recursos externos porque creen profundamente en lo que hacen. La pregunta para 2030 es cómo multiplicamos ese perfil: cuántos más proyectan a la institución hacia afuera, cuántos más contagian esa ambición a estudiantes y colegas.
 
 - **La transformación:** que cada docente de alto nivel sea embajador activo —en el aula, en la industria y en las redes globales donde se decide quién es relevante.
 - **Los mecanismos:**
@@ -133,7 +133,7 @@ Antes de actuar, necesitamos ver. Usaremos IA para mapear quiénes trabajan con 
 ### Activar los mecanismos
 Una vez que veamos el mapa, activamos:
 
-*   **En el Distrito:** los espacios más visibles se asignarán a proyectos que demuestren colaboración entre escuelas. La ubicación se gana con la intersección —no con la antigüedad ni con la jerarquía.
+*   **En el Distrito:** los espacios más visibles darán preferencia a proyectos que demuestren colaboración entre escuelas. La capacidad de generar intersecciones será un criterio importante en la asignación.
 *   **En posgrados:** piloto de sabáticos invertidos en 2025 con 3 posiciones. Probamos, aprendemos y si funciona, escalamos.
 *   **En Selectividad:** identificación temprana del talento mediante IA para detectar a estudiantes en olimpiadas y concursos antes de que nos busquen. Vamos por el talento; no esperamos a que llegue.
 *   **En TecSalud:** 3 Living Labs piloto con Ingeniería para Q3 2025. No esperamos el plan perfecto; prototipamos y aprendemos operando.
@@ -141,7 +141,7 @@ Una vez que veamos el mapa, activamos:
 ### Priorizar con claridad
 Para hacer esto realidad, necesitamos enfocarnos. El criterio es simple: **priorizamos lo que conecta y maximiza el valor para las personas.**
 
-Iniciativas que generen colisiones interdisciplinarias, atraigan talento de nivel internacional o contribuyan a las 4 apuestas recibirán prioridad en recursos, espacios y visibilidad. Lo que no conecte pierde prioridad. Reasignaremos recursos de lo administrativo y de lo inercial a fondos de semilla y de atracción de talento. No pedimos solo dinero nuevo; optimizamos el que ya existe.
+Iniciativas que generen colisiones interdisciplinarias, atraigan talento de nivel internacional o contribuyan a las 4 apuestas recibirán atención prioritaria en recursos, espacios y visibilidad. Esto no significa abandonar lo demás, sino ser claros sobre dónde está el énfasis estratégico. Buscaremos también reasignar recursos de lo administrativo hacia fondos semilla y atracción de talento. No pedimos solo dinero nuevo; optimizamos el que ya existe.
 
 ### Medir lo que importa
 ¿Cómo sabemos si está funcionando? Seguiremos midiendo los indicadores tradicionales para tener trazabilidad, pero también empezaremos a medir lo que antes no medíamos:
