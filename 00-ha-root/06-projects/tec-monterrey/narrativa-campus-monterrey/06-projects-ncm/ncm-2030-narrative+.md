@@ -1,13 +1,10 @@
-**
-
 # El Campus Monterrey hacia 2030
 
 ---
 
 ## 1. Dónde estamos
 
-<<<<<<< HEAD
-En los últimos cinco años, el Campus Monterrey creció en métricas que importan. Las publicaciones científicas pasaron de 1,528 en 2019 a 2,306 en 2024. Las citas subieron de 18,370 a más de 102,000. Las y los investigadores en el SNI aumentaron de 570 a 705. La Faculty of Excellence atrajo a más de 40 docentes de 14 nacionalidades. Y Expedition lleva un año operando con talento investigador de alto potencial mundial. Este avance se debe al esfuerzo de nuestra comunidad.
+En los últimos cinco años, el Campus Monterrey creció en métricas que importan. Las publicaciones científicas pasaron de 1,528 en 2019 a 2,306 en 2024. Las citas subieron de 18,370 a más de 102,000. Las y los investigadores en el SNI aumentaron de 570 a 705. La Faculty of Excellence atrajo a más de 40 docentes de 14 nacionalidades. Y Expedition lleva un año operando con talento investigador de alto potencial a nivel mundial. Este avance se debe al esfuerzo de nuestra comunidad.
 
 Sin embargo, estos logros no garantizan el futuro. 2030 está a cuatro años y el contexto ha cambiado. El mundo enfrenta tensiones geopolíticas, disrupciones tecnológicas que transforman industrias enteras y retos climáticos que exigen respuestas coordinadas. México navega desafíos propios: la desigualdad persistente, la necesidad de diversificar su economía y la urgencia de formar talento capaz de competir y liderar a nivel global.
 
@@ -18,45 +15,27 @@ Ante esta realidad, el mundo está cambiando tan rápido que necesitamos enfocar
 Y es que en medio de tanta incertidumbre, hay algo que sí sabemos: un campus que colabora como sistema se potencia a sí mismo. Esa es la base que queremos construir para saltar hacia 2035.
 
 ¿Qué significa esto en concreto? Nuestra siguiente estación como Tec no se trata solo de crecer, sino de operar más conectados para maximizar el valor que podemos crear juntos. Para las y los profesores investigadores, significa que su investigación se amplía al cruzarse con otras disciplinas. Para el estudiantado, significa formarse en un entorno donde la innovación interdisciplinaria sea cotidiana. Y para el Tec, significa maximizar quiénes somos como comunidad —no solo sumar partes fuertes, sino multiplicar su impacto.
-=======
-En los últimos cinco años, el Campus Monterrey creció en métricas que importan. Las publicaciones científicas pasaron de 1,528 en 2019 a 2,306 en 2024. Las citas subieron de 18,370 a más de 102,000. Las y los investigadores en el SNI aumentaron de 570 a 705. La Faculty of Excellence atrajo a más de 40 docentes de 14 nacionalidades. Y Expedition lleva un año operando con talento investigador de potencial mundial. Este avance se debe al esfuerzo de nuestra comunidad.
-
-Pero 2030 está a cuatro años y el contexto ha cambiado. El mundo enfrenta tensiones geopolíticas, disrupciones tecnológicas que transforman industrias enteras y retos climáticos que exigen respuestas coordinadas. México navega desafíos propios: la desigualdad persistente, la necesidad de diversificar su economía y la urgencia de formar talento capaz de competir y liderar a nivel global.
-
-El mundo está cambiando tan rápido que necesitamos enfocarnos en las poquísimas certidumbres que tenemos. Identificar aquello que haga del Campus Monterrey un campus insignia—algo a prueba de futuros, que, sin importar el contexto, nos prepare para enfrentar los próximos cinco años hacia 2035.
-
-En esa búsqueda, durante nuestra consulta, identificó una oportunidad clave: fortalecer la colaboración sistémica. Hoy, cada unidad avanza con fuerza y ya existen colaboraciones valiosas entre disciplinas, pero muchas de ellas se dan por iniciativa propia. La oportunidad está en convertir esa colaboración en parte del ADN del campus.
-
-En medio de tanta incertidumbre, hay algo que sí sabemos: un campus que colabora como sistema se potencia a sí mismo. Esa es la base que queremos construir para saltar hacia 2035.
-
-Nuestra siguiente estación como Tec no se trata solo de crecer, sino de operar más conectados para maximizar el valor que podemos crear juntos. Para las y los profesores investigadores, significa que su investigación se amplía al cruzarse con otras disciplinas. Para el estudiantado, significa formarse en un entorno donde la innovación interdisciplinaria sea cotidiana. Y para el Tec, significa maximizar quiénes somos como comunidad —no solo sumar partes fuertes, sino multiplicar su impacto.
->>>>>>> origin/main
 
 ---
 
 ## 2. A dónde vamos
 
-<<<<<<< HEAD
 Esa visión de colaboración sistémica no surge en el vacío—se alinea con una ambición mayor. El Tec tiene una visión clara: ser la mejor universidad hispanohablante del mundo. Pero ¿qué significa eso en la práctica? ¿cómo hacemos que eso suceda? Prestigio internacional ganado por el impacto de la investigación traducida en innovación. No se trata de rankings ni de métricas aisladas; se trata de que el mundo reconozca lo que aquí se hace. Para lograrlo, el Plan Estratégico 2030 establece cinco prioridades:
-=======
-El Tec tiene una visión clara: ser la mejor universidad hispanohablante del mundo. Pero ¿qué significa eso en la práctica? ¿cómo hacemos que eso suceda? Prestigio internacional ganado por el impacto de la investigación traducida en innovación. No se trata de rankings ni de métricas aisladas; se trata de que el mundo reconozca lo que aquí se hace. Para lograrlo, el Plan Estratégico 2030 establece cinco prioridades:
->>>>>>> origin/main
 
 1. Robustecer el ecosistema de investigación, innovación y emprendimiento que transforma la realidad.
+    
 2. Atraer a las personas con el mayor talento para imaginar y construir un mundo mejor.
+    
 3. Evolucionar el modelo multicampus para fortalecer la excelencia académica.
+    
 4. Consolidar el liderazgo educativo para un mundo con inteligencia artificial y otras tecnologías emergentes.
+    
 5. Impulsar la excelencia en las ciencias de la salud.
+    
 
-<<<<<<< HEAD
 Cinco prioridades. Un sistema de 26 campus. Y una pregunta inevitable: ¿cómo aterriza esto en el Campus Monterrey?
 
 La respuesta está en nuestro rol. Como Campus Insignia, nuestra responsabilidad es definir y establecer el estándar. Ser la punta de lanza. Aquí se prueban los modelos. Aquí se escalan. Y desde aquí se transforman los demás.
-=======
-Cinco prioridades. Un sistema de 26 campus. Y una pregunta: ¿cómo aterriza esto en el Campus Monterrey?
-
-Como Campus Insignia, nuestra responsabilidad es definir y establecer el estándar. Ser la punta de lanza. Aquí se prueban los modelos. Aquí se escalan. Y desde aquí se transforman los demás.
->>>>>>> origin/main
 
 ---
 
@@ -70,26 +49,19 @@ Pero las líneas paralelas, por definición, nunca se tocan. Lo que necesitamos 
 
 Lo que ya tenemos son los nodos fuertes. Y ya ocurren colisiones valiosas. La oportunidad está en sistematizarlas—hacer que sean más frecuentes, más visibles y más fáciles de escalar.
 
-<<<<<<< HEAD
-Eso es lo que queremos: escalar el impacto mediante la colaboración potenciada por la IA. Fortalecer lo disciplinar y construir un sistema de conexiones robusto que nos permita innovar para enfrentar ese futuro lleno de incertidumbre. Pero para diseñar esas conexiones, primero necesitábamos escuchar.
-=======
-En Expedition ya vimos qué pasa cuando esto funciona. Una persona de biotecnología compartiendo pasillo con un equipo de diseño industrial: en seis meses desarrollaron un prototipo de dispositivo médico que nadie habría concebido en aislamiento.
-
-Eso es lo que queremos: escalar el impacto mediante la colaboración potenciada por la IA. Fortalecer lo disciplinar y construir un sistema de conexiones robusto que nos permita innovar para enfrentar ese futuro lleno de incertidumbre. Y lo único que teníamos claro era que necesitábamos escuchar diferentes perspectivas para lograrlo.
->>>>>>> origin/main
+Eso es lo que queremos: escalar el impacto mediante la colaboración sistemática. Fortalecer lo disciplinar y construir un sistema de conexiones que nos permita innovar para enfrentar ese futuro lleno de incertidumbre. Pero para diseñar esas conexiones, primero necesitamos escuchar.
 
 ---
 
 ## 4. Lo que escuchamos
 
-<<<<<<< HEAD
-Y eso fue precisamente lo que hicimos. Realizamos una consulta amplia que incluyó a voces clave del ecosistema Tec: Juan Pablo Murra, David Garza, Ricardo Saldívar, José Antonio Fernández, Carlos Saldívar, entre otros. También hablamos con las decanaturas, los estudiantes y el equipo de liderazgo del campus. De esas conversaciones emergieron tres consensos claros —y también tensiones que debemos nombrar.
+Y eso fue precisamente lo que hicimos. Realizamos una consulta amplia que incluyó a voces clave del ecosistema Tec: Juan Pablo Murra, David Garza, Ricardo Saldívar, José Antonio Fernández, entre otros. También hablamos con las decanaturas, los estudiantes y el equipo de liderazgo del campus. De esas conversaciones emergieron tres consensos claros —y también tensiones que debemos nombrar.
 
-**El primer consenso: la colaboración no puede seguir siendo accidental.** Hoy existen colaboraciones valiosas entre escuelas, pero dependen de iniciativas individuales. En Expedition, por ejemplo, un equipo de biotecnología y otro de diseño industrial desarrollaron juntos un prototipo de dispositivo médico en seis meses —algo que ninguno habría concebido por separado. Ese tipo de "colisiones" ocurren, pero no las provocamos ni las escalamos. La oportunidad está en sistematizarlas: crear mecanismos que conviertan el encuentro fortuito en colaboración formal, y la colaboración formal en impacto medible.
+El primer consenso: la colaboración no puede seguir siendo accidental. Hoy existen colaboraciones valiosas entre escuelas, pero dependen de iniciativas individuales. En Expedition, por ejemplo, un equipo de biotecnología y otro de diseño industrial desarrollaron juntos un prototipo de dispositivo médico en seis meses —algo que ninguno habría concebido por separado. Ese tipo de "colisiones" ocurren, pero no las provocamos ni las escalamos. La oportunidad está en sistematizarlas: crear mecanismos que conviertan el encuentro fortuito en colaboración formal, y la colaboración formal en impacto medible.
 
-**El segundo consenso: el talento es el multiplicador.** El perfil 2030 requiere ir más allá de los puntajes. Buscamos docentes con hambre de transformar su campo —que no solo investigan, sino que emocionan a quienes los escuchan, que atraen recursos externos porque creen profundamente en lo que hacen. Y buscamos estudiantes con liderazgo, agencia y capacidad de innovación. Merco Talento 2024 nos posicionó como la universidad número uno en México para atraer y retener talento. Pero queremos más: que el Tec sea la primera opción en Latinoamérica para quienes quieren investigar con impacto.
+El segundo consenso: el talento es el multiplicador. El perfil 2030 requiere ir más allá de los puntajes. Buscamos docentes con hambre de transformar su campo —que no solo investigan, sino que emocionan a quienes los escuchan, que atraen recursos externos porque creen profundamente en lo que hacen. Y buscamos estudiantes con liderazgo, agencia y capacidad de innovación. Merco Talento 2024 nos posicionó como la universidad número uno en México para atraer y retener talento. Pero queremos más: que el Tec sea la primera opción en Latinoamérica para quienes quieren investigar con impacto.
 
-**El tercer consenso: necesitamos un proyecto bandera que nos ponga en el mapa mundial.** En salud, Proyecto Origen cumplió ese rol: abrió puertas internacionales, atrajo talento y demostró que aquí se hace algo único. ¿Cuál es el equivalente en ingeniería, en negocios, en humanidades? Aún no lo sabemos. Pero sí sabemos que debe responder una pregunta: ¿por qué esto solo puede hacerse en el Tec, en México?
+El tercer consenso: necesitamos un proyecto bandera que nos ponga en el mapa mundial. En salud, Proyecto Origen cumplió ese rol: abrió puertas internacionales, atrajo talento y demostró que aquí se hace algo único. ¿Cuál es el equivalente en ingeniería, en negocios, en humanidades? Aún no lo sabemos. Pero sí sabemos que debe responder una pregunta: ¿por qué esto solo puede hacerse en el Tec, en México?
 
 Junto a estos consensos, también escuchamos tensiones. Excelencia vs. escala. Innovación vs. rigor. ¿Podemos hacer varias apuestas sin diluirnos? ¿Qué dejamos de hacer para liberar recursos? Estas preguntas reflejan la madurez de una institución que se conoce bien.
 
@@ -101,83 +73,40 @@ Estas tensiones son naturales en una institución con la historia y complejidad 
 
 Con ese criterio en mente, definimos cuatro apuestas.
 
-=======
-Así que lo primero que hicimos fue escuchar. Realizamos una consulta amplia que incluyó a algunas de las voces relevantes del ecosistema Tec: Juan Pablo Murra, David Garza, Ricardo Saldívar, José Antonio Fernández, Carlos Saldívar, entre otros. También hablamos con las decanaturas, los estudiantes y el equipo de liderazgo del campus. De esas conversaciones emergieron consensos —y también tensiones que debemos nombrar.
-
-Hubo consenso en tres temas:
-
-Investigación visible y conectada. La investigación gana cuando se vuelve más visible y accesible. Alguien en Expedition lo puso así: "Aquí puedo bajar al café y encontrarme con alguien de diseño industrial." La proximidad física ayuda, pero podemos ir más allá: crear mecanismos que conviertan el encuentro en una colaboración formal.
-
-Talento atrae talento. El perfil 2030 requiere ir más allá de los puntajes. Buscamos liderazgo, agencia y capacidad de innovación —en estudiantes y en docentes.
-
-Tensiones. También escuchamos preocupaciones. Excelencia vs. escala. Innovación vs. rigor. ¿Podemos hacer varias apuestas sin diluirnos? ¿Qué dejamos de hacer para liberar recursos? Estas preguntas reflejan la madurez de una institución que se conoce bien.
-
-La consulta también identificó dos áreas en las que podemos seguir creciendo. La primera: fortalecer la colegialidad académica. En universidades de clase mundial, los departamentos dedican tiempo cada semana a discutir temas educativos y de investigación, retos pedagógicos y el rumbo que toma el campo. En el Tec ya existen departamentos que cultivan estos espacios; la oportunidad está en que se vuelvan más comunes, liberando tiempo de la carga operativa del día a día para dedicarlo a estas conversaciones.
-
-La segunda: encontrar el equilibrio entre la distribución equitativa y la estratégica. Históricamente, hemos repartido recursos de forma proporcional entre las escuelas, lo cual ha permitido que todas avancen. Hacia delante, vale la pena preguntarnos: ¿hay momentos en que convenga concentrar esfuerzos para que alguna área dé un salto que impulse a las demás? No se trata de descuidar a nadie; se trata de explorar cuándo y dónde hacer apuestas más focalizadas.
-
-Estas tensiones son naturales en una institución con la historia y complejidad del Tec. No tienen respuestas fáciles, pero sí tenemos un criterio para navegarlas: priorizar lo que conecta. En Monterrey, las tensiones no son contradicciones—son oportunidades de diseño. Y cuando todo lo demás cambia constantemente, los principios de don Eugenio nos sirven de brújula: "La educación lo puede todo" no es nostalgia, es nuestro criterio de decisión.
-
->>>>>>> origin/main
 ---
 
 ## 5. Las cuatro apuestas transformadoras del Campus Monterrey
 
 ### 1. Distrito de Innovación
 
-<<<<<<< HEAD
 La primera apuesta es el espacio. El distrito es el espacio físico donde la investigación se hace visible y la colaboración ocurre por diseño, no por accidente. Expedition ya demostró que funciona: en un año de operación, concentró investigadores del top 2% mundial, generó proyectos de alto impacto y probó que la proximidad física —cuando se diseña bien— produce resultados que el trabajo aislado no logra. La pregunta ahora es cómo escalamos esa dinámica al resto del campus.
 
 Pero escalar no basta. El distrito necesita anclarse en ese proyecto bandera que mencionamos —el "big boat" que atraiga atención global y responda: ¿por qué esto solo puede hacerse aquí? Un proyecto así no solo genera conocimiento; atrae talento, recursos y reputación. Mientras lo definimos, el distrito operará con un criterio claro: priorizar las intersecciones. Seguiremos midiendo por escuela —eso no cambia—, pero también empezaremos a medir las conexiones entre ellas.
-=======
-El distrito es el espacio físico donde la investigación se hace visible y la colaboración ocurre por diseño, no por accidente. Expedition ya demostró que funciona: conexiones, talento de nivel mundial y proyectos que cruzan disciplinas. Ahora la pregunta es cómo escalamos esa magia.
-
-Pero escalar no basta. El distrito necesita algo más: un proyecto bandera —un big boat— que ponga al campus en el mapa mundial. Una iniciativa de tal magnitud que atraiga la atención global. En salud, Proyecto Origen cumplió ese rol: abrió puertas, posicionó al Tec internacionalmente y demostró que aquí se hace algo único. ¿Cuál es el equivalente en ingeniería? Aún no lo sabemos. Pero sí sabemos que debe responder una pregunta: ¿por qué esto solo puede hacerse en el Tec, en México? Un proyecto así no solo genera conocimiento; atrae talento, recursos y reputación.
-
-Seguiremos midiendo por escuela, pero también mediremos las intersecciones.
->>>>>>> origin/main
 
 - La transformación: La investigación se integra cada vez más a la vida del distrito y del campus, haciéndose visible y accesible para todos.
     
 - El mecanismo: Junto con EBCT, se buscarán fondos semilla y espacios asignados a proyectos que conecten al menos dos escuelas o institutos. Los proyectos interdisciplinarios tendrán ventaja en la asignación de espacios estratégicos.
-<<<<<<< HEAD
-
+    
 
 ### 2. Posgrados presenciales
 
 El espacio físico necesita vida académica que lo active. La segunda apuesta son los posgrados presenciales: el lugar donde la comunidad se intersecta de forma natural. Profesorado investigador, estudiantes de alto nivel e industria, en la misma mesa, trabajando en los mismos problemas.
-=======
-    
-
-### 2. Posgrados presenciales
-
-Los posgrados presenciales son el lugar donde la comunidad se intersecta de forma natural. Profesorado investigador, estudiantes de alto nivel e industria, en la misma mesa, trabajando en los mismos problemas.
->>>>>>> origin/main
 
 - La transformación: posgrados que no solo ocurren en aulas, sino también en laboratorios y centros de innovación.
     
 - El mecanismo: la creatividad financiera y la reasignación de recursos. Un ejemplo: el "Sabático Invertido"—atraer talento académico de lugares como Cambridge o MIT ofreciéndoles asistentes de investigación, acceso a la industria y velocidad de ejecución. Su universidad paga el sabático; nosotros ponemos en marcha la plataforma y enriquecemos la presencia de talento a un costo marginal.
-<<<<<<< HEAD
-
+    
 
 ### 3. Selectividad
 
 Pero ni el mejor espacio ni los mejores programas funcionan sin las personas correctas. La tercera apuesta es la selectividad—lo que hace que las otras dos apuestas funcionen. Sin las personas correctas —estudiantes, docentes, programas—el distrito y los posgrados no alcanzan su potencial. Funciona en tres dimensiones:
-=======
-    
-
-### 3. Selectividad
-
-La selectividad es lo que hace que las otras dos apuestas funcionen. Sin las personas correctas —estudiantes, docentes, programas—el distrito y los posgrados no alcanzan su potencial. Funciona en tres dimensiones:
->>>>>>> origin/main
 
 - Estudiantes: entender el perfil de ingreso. Buscamos a las y los mejores de todas partes, usando IA para identificar talento a tiempo en olimpiadas y concursos, antes de que soliciten admisión.
     
-- Docentes: Faculty of Excellence es el inicio. La meta es integrar a estas personas como mentoras activas, no como estrellas aisladas. Ya hay ejemplos muy loables de eso como X, Y y Z.
+- Docentes: Faculty of Excellence es el inicio. La meta es integrar a estas personas como mentoras activas, no como estrellas aisladas.
     
 - Programas: cupos limitados en programas clave. La exclusividad basada en mérito eleva el estándar para toda la comunidad.
-<<<<<<< HEAD
-
+    
 
 ### 4. Facultad
 
@@ -186,24 +115,11 @@ La cuarta y última apuesta cierra el círculo: la facultad. El Campus Monterrey
 Lo que buscamos es amplificar un mindset que ya existe en muchos de nuestros profesores: la ambición y la pasión por transformar su campo de estudio. Docentes que no solo investigan, sino que comparten su visión con entusiasmo, que emocionan a quienes los escuchan, que atraen recursos externos porque creen profundamente en lo que hacen. La pregunta para 2030 es cómo multiplicamos ese perfil: cuántos más proyectamos la institución hacia afuera, cuántos más contagiamos esa ambición a estudiantes y colegas.
 
 - La transformación: que cada docente de alto nivel sea embajador activo —en el aula, en la industria y en las redes globales donde se decide quién es relevante.
-=======
-    
-
-### 4. Facultad
-
-El Campus Monterrey ya tiene una facultad sólida: 705 SNI, contrataciones más rigurosas, una cultura de publicación que hace diez años no existía. La Faculty of Excellence sumó a 40+ docentes de 14 nacionalidades. Expedition demostró que podemos atraer a investigadores top mundiales que quieren estar aquí. Ya tenemos talento; la oportunidad está en potenciarlo aún más.
-
-Lo que buscamos es amplificar un mindset que ya existe en muchos de nuestros profesores: ambición y pasión por transformar su campo. Docentes que no solo investigan, sino que comparten su visión con entusiasmo, que emocionan a quienes los escuchan, que atraen recursos externos porque creen profundamente en lo que hacen. La pregunta para 2030 es cómo multiplicamos ese perfil: cuántos más proyectan a la institución hacia afuera, cuántos más contagian esa ambición a estudiantes y colegas.
-
-- La transformación: que cada docente de alto nivel sea embajador activo —en el aula, en la industria, y en las redes globales donde se decide quién es relevante.
->>>>>>> origin/main
     
 - Los mecanismos:
     
-
 - En el aula, la Faculty of Excellence imparte al menos un curso de licenciatura al año. El talento de clase mundial no puede pasar desapercibido para el estudiantado.
     
-
 - En la industria: residencias cruzadas. Profesores en empresas, por sprints de 3 meses; ejecutivos en laboratorios, por el mismo periodo. Investigación que resuelve problemas reales.
     
 - En el mundo: cada FoE trae a un colega internacional al campus cada año. No conferencias—estancias de trabajo. La reputación se construye persona a persona, proyecto a proyecto.
@@ -213,124 +129,304 @@ Mejor facultad atrae mejores estudiantes. Los mejores estudiantes atraen a la me
 
 ### Los habilitadores sistémicos
 
-<<<<<<< HEAD
 Estas cuatro apuestas no operan en el vacío—necesitan habilitadores que las atraviesen y las potencien. Identificamos tres:
-=======
-Las cuatro apuestas no operan en el vacío. Tres elementos las cruzan y las potencian:
->>>>>>> origin/main
 
 - Inteligencia artificial: más que una herramienta, un sistema operativo. Un agente de IA del campus que conecte necesidades con recursos en tiempo real. Pero la ambición va más allá de lo operativo: ser pioneros en cómo la IA transforma la educación y la investigación. Que nuestros egresados sean los más preparados para esta era —y los que lideren los cambios hacia delante.
     
 - Internacionalización: que el campus se sienta global. No solo por la movilidad estudiantil, sino también por la atracción de talento de todo el mundo. Que universidades de Estados Unidos o Europa hagan presencia física aquí, trabajando en proyectos de cinco años o más. El Tec ha sido llamado "el secreto mejor guardado". La meta para 2030 es que deje de ser secreto —que la gente de fuera sepa qué proyectos únicos se hacen aquí y diga: "tú vienes del Tec, donde están haciendo esto".
     
-- Sostenibilidad (Ruta Azul): el filtro de la decisión. Si hipoteca el 2040, no se hace en 2030.
-<<<<<<< HEAD
-
-=======
+- Emprendimiento: el vehículo del impacto para transformar la realidad. El emprendimiento está en el ADN del Tec desde su fundación: es la mentalidad de pensar en grande y conseguir los recursos para hacerlo realidad. Opera en tres niveles: (1) la formación de estudiantes de profesional y posgrado, para que todo egresado entienda cómo convertir ideas en impacto; (2) los científicos que se atreven a emprender, con EBCT como vehículo para amplificar el impacto de sus descubrimientos; y (3) todo lo que no es emprendimiento científico, desde negocios tradicionales hasta proyectos sociales. El Campus Monterrey debe ser referente en cómo esa mentalidad emprendedora potencia la investigación, la formación y el impacto en la sociedad.
     
->>>>>>> origin/main
 
 ---
 
 ## 6. Cómo lo vamos a hacer
 
-<<<<<<< HEAD
-Las apuestas y los habilitadores dibujan el qué. Ahora viene el cómo. Para que las cuatro apuestas funcionen, necesitamos cambiar la forma en que operamos. No basta con declarar intenciones; hay que mover recursos, espacios y atención hacia lo que conecta. No tenemos todo resuelto, pero sí tenemos un punto de partida claro.
-=======
-Para que las cuatro apuestas funcionen, necesitamos cambiar la forma en que operamos. No basta con declarar intenciones; hay que mover recursos, espacios y atención hacia lo que conecta. No tenemos todo resuelto, pero sí tenemos un punto de partida claro.
->>>>>>> origin/main
+Las cuatro apuestas y los habilitadores dibujan el qué. Ahora viene el cómo: traducir esas apuestas en proyectos concretos con entregables, milestones y responsables.
 
-### Entender dónde estamos
+Para aterrizar las apuestas, las convertimos en cinco proyectos estratégicos que operan como sistema:
 
-Antes de actuar, necesitamos ver. Usaremos IA para mapear quiénes trabajan con quiénes en el campus. Hoy muchas colaboraciones son invisibles: ocurren, pero no las conocemos ni las potenciamos. El mapa nos permitirá identificar dónde ya hay conexiones y dónde existen oportunidades que no estamos aprovechando.
+| Apuesta / Componente       | Se materializa en...                                                                                 |
+| -------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Distrito de Innovación** | **Intersections**: X Labs, fondos semilla, proyectos interdisciplinarios, proyecto bandera           |
+| **Facultad**               | **Density**: atracción de talento, sabáticos invertidos, residencias cruzadas, retención estratégica |
+| **Posgrados presenciales** | **The Pool**: posgrados rediseñados, estudiantes vinculados a proyectos, radar de talento            |
+| **Selectividad**           | **Density** + **The Pool**: identificación proactiva de talento (facultad y estudiantes)             |
+| **Habilitador: IA**        | **Pulse**: mapa de colaboraciones, agente IA (Cynthia), IA en formación                              |
+| **+ Capa de medición**     | **Evolution**: dashboard, benchmark internacional, indicadores de salud del ecosistema               |
 
-### Activar los mecanismos
+Los habilitadores de internacionalización y emprendimiento atraviesan todos los proyectos: la internacionalización se refleja en los perfiles atraídos, los sabáticos invertidos y la diversidad estudiantil; el emprendimiento aparece en los spin-offs de Intersections, la mentalidad de The Pool y los indicadores de Evolution.
 
-<<<<<<< HEAD
-Con ese diagnóstico en mano, activamos los mecanismos concretos:
-=======
-Una vez que veamos el mapa, activamos:
->>>>>>> origin/main
+### Los 5 Proyectos Estratégicos
 
-- En el Distrito: los espacios más visibles darán preferencia a proyectos que demuestren colaboración entre escuelas. La capacidad de generar intersecciones será un criterio importante en la asignación.
-    
-- En posgrados: piloto de sabáticos invertidos en 2025 con 3 posiciones. Probamos, aprendemos y si funciona, escalamos.
-    
-- En selectividad: identificación temprana del talento mediante IA para detectar a estudiantes en olimpiadas y concursos antes de que nos busquen. Vamos por el talento; no esperamos a que llegue.
-    
-- En TecSalud: 3 Living Labs piloto con Ingeniería para Q3 2025. No esperamos el plan perfecto—prototipamos y aprendemos operando.
-<<<<<<< HEAD
+**Density → Intersections → The Pool → Pulse → Evolution**
 
+Los nombres están en inglés porque pensar en grande pasa por ser el campus más internacional. Si queremos atraer talento del mundo, colaborar con universidades líderes y posicionarnos globalmente, el lenguaje importa.
 
-### Priorizar con claridad
+*Primero aumentamos la densidad de talento. Después lo conectamos en intersecciones entre disciplinas, industria y sociedad. The Pool atrae y transforma a las y los mejores estudiantes. Pulse hace visible la red y la mantiene activa. Y Evolution nos dice qué tan preparados estamos para 2035.*
 
-Pero no todo puede tener la misma prioridad. Para hacer esto realidad, necesitamos enfocarnos. El criterio es simple: priorizamos lo que conecta y maximiza el valor a las personas.
-=======
-    
+---
 
-### Priorizar con claridad
+#### 1. Density
+**Acercar y concentrar el talento que después vamos a conectar**
 
-Para hacer esto realidad, necesitamos enfocarnos. El criterio es simple: priorizamos lo que conecta y maximiza el valor a las personas.
->>>>>>> origin/main
+Todo empieza aquí. Antes de crear intersecciones, necesitamos tener a las personas correctas en el mismo lugar. Density significa acercar—al campus, a los proyectos, a las conversaciones—a quienes tienen el conocimiento, la experiencia y la capacidad de generar impacto. No solo profesorado: también personas de la industria, del gobierno, del sector social, que quieran resolver problemas junto con la academia.
 
-Iniciativas que generen colisiones interdisciplinarias, atraigan talento de nivel internacional o contribuyan a las 4 apuestas recibirán atención prioritaria en recursos, espacios y visibilidad. Esto no significa abandonar lo demás, sino ser claros sobre dónde está el énfasis estratégico. También buscaremos reasignar recursos de lo administrativo a fondos de semilla y de atracción de talento. No pedimos solo dinero nuevo; optimizamos el que ya existe y vemos cómo podemos atraer los mismos.
+Hoy el Tec tiene 705 SNI, 40+ Faculty of Excellence, y Expedition operando. Pero ¿sabemos exactamente qué tenemos? ¿Quiénes son las 50 personas que no podemos perder? ¿A quiénes deberíamos estar buscando en el mundo? ¿Qué conexiones con industria, gobierno y organizaciones nos faltan para que cada escuela tenga la densidad necesaria?
 
-### Medir lo que importa
+**Lo que haremos:**
 
-<<<<<<< HEAD
-Y con prioridades claras, viene la pregunta inevitable: ¿cómo sabemos si está funcionando? Seguiremos midiendo los indicadores tradicionales para tener trazabilidad, pero también empezaremos a medir lo que antes no medíamos:
-=======
-¿Cómo sabemos si está funcionando? Seguiremos midiendo los indicadores tradicionales para tener trazabilidad, pero también empezaremos a medir lo que antes no medíamos:
->>>>>>> origin/main
+| Iniciativa | Descripción |
+|------------|-------------|
+| Mapa de talento | Radiografía de la facultad por escuela: fortalezas, gaps, y lista de 100 perfiles globales a atraer en 3 años. Incluye mapeo de alianzas estratégicas con industria y gobierno. |
+| Atracción diferenciada | Paquetes distintos según perfil. Una persona consolidada busca libertad y recursos; un talento emergente busca mentoría y velocidad; una empresa busca acceso a conocimiento y talento. |
+| Sabáticos invertidos | Personal académico de universidades líderes viene al Tec: su institución paga, nosotros ponemos la plataforma: asistentes de investigación, acceso a industria, velocidad de ejecución. |
+| Alianzas de investigación aplicada | Proyectos conjuntos con empresas y gobierno donde la investigación resuelve problemas reales y puede derivar en emprendimientos o políticas públicas. |
+| Residencias cruzadas | Profesorado en empresas por periodos cortos; personas de industria y gobierno en laboratorios. Investigación con impacto fuera del campus. |
+| Retención estratégica | Identificar a quienes no podemos perder y asegurar que tengan razones para quedarse y crecer. |
 
-- % de publicaciones con coautoría multiescuela: proporción de papers firmados por personas de dos o más escuelas o institutos.
-    
-- Densidad de red: porcentaje de conexiones activas entre unidades académicas respecto de las conexiones posibles. Un campus conectado tiene alta densidad.
-    
-- Tasa de conversión de pilotos: porcentaje de proyectos piloto que escalan a implementación formal.
-    
-- Índice de polinización estudiantil: % de estudiantes de posgrado que participan en comités o proyectos que involucran a más de una escuela.
-    
-- Velocidad de prototipado: días promedio desde la propuesta hasta el primer entregable en Living Labs.
-    
-- Tasa de aceptación de talento: % de ofertas aceptadas por candidatos top del mundo; mide qué tan atractivo es el ecosistema.
-    
-- Índice de serendipia: % de colaboraciones que surgieron de encuentros no planeados; mide si el campus facilita lo inesperado.
-    
-- Migración de ideas: conceptos o metodologías que nacieron en una escuela y fueron adoptados por otra.
-    
-- Pares inusuales: número de colaboraciones entre escuelas que históricamente no trabajaban juntas.
-    
-- Tasa de retorno: exalumnos, excolaboradores o talento que regresa específicamente al ecosistema.
-    
-- Pull externo: organizaciones que buscan al campus explícitamente para resolver problemas interdisciplinarios.
-    
+**Indicadores:**
 
-Estos son ejemplos. La definición final será parte de la conversación con la comunidad—porque un sistema que se adapta también aprende qué medir.
+| Indicador | Qué mide |
+|-----------|----------|
+| Perfiles atraídos vs. meta | Avance en la lista de 100 perfiles objetivo |
+| Alianzas activas con industria/gobierno | Número de proyectos conjuntos en operación |
+| Tasa de aceptación de ofertas | % de candidaturas que aceptan unirse al Tec |
+| Retención de talento clave | % de personas estratégicas que permanecen |
+
+**Milestones:**
+
+| Iniciativa | 2026 | 2027 | 2028 | 2029 | 2030 |
+|------------|------|------|------|------|------|
+| Mapa de talento | Radiografía completa con gaps y lista de 100 perfiles objetivo | Sistema de tracking de candidaturas con pipeline activo | Mapa integrado con Pulse; matching automático funcionando | Modelo predictivo identificando talento antes que la competencia | Sistema consolidado adoptado por otras escuelas del Tec |
+| Perfiles atraídos | 20 perfiles contratados; primeras estrellas visibles | 40 acumulados; masa crítica en 3 escuelas | 60 acumulados; cobertura en todas las escuelas | 80 acumulados; Tec en top 3 destinos Latam para investigar | 100 perfiles; el Tec atrae sin buscar |
+| Sabáticos invertidos | 5 académicos de universidades top-50 mundial | 10 académicos; primeras publicaciones conjuntas de alto impacto | 15 académicos; 3 propuestas conjuntas a financiamiento externo | 20 académicos; programa documentado y promovido internacionalmente | 25+ académicos; pipeline activo de candidatos de universidades top |
+| Residencias cruzadas | 10 residencias activas (5 prof→empresa, 5 ejecutivos→labs) | 20 residencias; 3 patentes en proceso de solicitud | 30 residencias; 2 proyectos con potencial de spin-off identificados | 40 residencias; cartera activa de proyectos con industria | 50+ residencias; modelo documentado y replicado en otros campus |
+| Alianzas industria/gobierno | 10 alianzas formalizadas con proyectos y presupuesto | 20 alianzas; 5 con gobierno federal/estatal | 30 alianzas; 2 centros de investigación conjuntos | 40 alianzas; presencia en 5 políticas públicas | 50+ alianzas; Tec como socio preferido de la industria |
+| Programa retención | 50 talentos clave identificados con paquetes personalizados | Programa operando; tasa de retención >90% | Retención >95%; cero pérdidas de talento crítico | Programa benchmark; otras instituciones lo estudian | Modelo documentado y transferido a sistema Tec |
+
+*Sin Density, los otros cuatro proyectos no tienen con qué trabajar.*
+
+---
+
+#### 2. Intersections
+**Conectar el talento para producir lo que ninguna disciplina lograría sola**
+
+Con la densidad construida, el siguiente paso es conectarla. La innovación ocurre en los bordes—donde una disciplina se encuentra con otra, donde la academia se cruza con la industria, donde un problema social encuentra solución técnica. Una persona de ingeniería biomédica y una de cirugía en el mismo proyecto. Alguien de ciencia de datos y alguien de historia analizando el mismo fenómeno. Una diseñadora industrial y un equipo de oncología desarrollando un dispositivo.
+
+El Tec ya tiene nodos fuertes y colaboraciones valiosas. Pero muchas dependen de encuentros fortuitos. La oportunidad es convertir esa casualidad en sistema—y extenderla más allá de la academia, hacia la industria, el gobierno y la sociedad.
+
+**Lo que haremos:**
+
+| Iniciativa | Descripción |
+|------------|-------------|
+| X Labs | Espacios físicos donde equipos de diferentes disciplinas trabajan juntos en problemas reales. La X representa la intersección: dos o más campos que se cruzan para crear algo que ninguno lograría solo. Los primeros 3 X Labs (Ingeniería + TecSalud) ya operan dentro del hospital, co-diseñando soluciones clínicas. La siguiente fase: otras combinaciones—Negocios + Ingeniería, Humanidades + Tecnología, Gobierno + Academia. |
+| Fondos semilla interdisciplinarios | Recursos exclusivos para proyectos que involucren al menos dos escuelas o una escuela con un socio externo (empresa, gobierno, ONG). La colaboración se vuelve ventaja competitiva para obtener financiamiento. |
+| Proyectos de impacto → emprendimiento | Estructurar proyectos interdisciplinarios con potencial de convertirse en emprendimientos o spin-offs. No todo termina en papers; algunos proyectos deben terminar en empresas, patentes o soluciones implementadas. |
+| Territorio en el Distrito | Los espacios más visibles del Distrito de Innovación se asignan a proyectos que demuestren colaboración activa. La ubicación física como reconocimiento. |
+| El proyecto bandera | Definir el proyecto de escala mundial que posicione al Campus Monterrey globalmente. Como Proyecto Origen fue para TecSalud. Algo que responda: "¿Por qué esto solo puede hacerse aquí?" Un proyecto que requiera que múltiples escuelas, empresas y quizás gobiernos trabajen en conjunto. |
+
+**Indicadores:**
+
+| Indicador | Qué mide |
+|-----------|----------|
+| Proyectos multi-escuela activos | Número de proyectos que involucran 2+ escuelas |
+| Proyectos con socios externos | Número de proyectos con industria, gobierno u organizaciones |
+| Publicaciones con coautoría multi-escuela | % del total de publicaciones |
+| Emprendimientos derivados | Startups o spin-offs nacidos de proyectos interdisciplinarios |
+| X Labs operando | Número y combinaciones activas |
+
+**Milestones:**
+
+| Iniciativa | 2026 | 2027 | 2028 | 2029 | 2030 |
+|------------|------|------|------|------|------|
+| X Labs | 5 operando (Salud+Ing, Neg+Ing, Hum+Tech) | 10 X Labs; 3 prototipos validados con usuarios | 15 X Labs; 2 dispositivos en proceso regulatorio | 20 X Labs; 3 productos en proceso de lanzamiento | 25+ X Labs; modelo replicado en 3 campus |
+| Fondos semilla | $X MDP asignados; 15 proyectos financiados | 30 proyectos; 5 patentes solicitadas | 45 proyectos; 3 licenciamientos en negociación | 60 proyectos; fondo operando con procesos maduros | 75+ proyectos; modelo de fondo documentado y replicable |
+| Proyectos multi-escuela | 10 proyectos formalizados con governance y presupuesto | 20 proyectos; metodología documentada y casos publicados | 30 proyectos; 50% con propuestas a financiamiento externo | 40 proyectos; colaboración como norma, no excepción | 50+ proyectos; cultura de colaboración instalada en el ADN |
+| Proyecto bandera | Proyecto definido; equipo de 20 personas formado; propuesta presentada a 5 fuentes de financiamiento | Primeros resultados publicados; cobertura en medios internacionales | Resultados de alto impacto; 5 publicaciones en journals top | Posicionado como referente mundial en el tema | Proyecto consolidado; pipeline activo de talento y financiamiento |
+| Emprendimientos derivados | 5 proyectos con potencial comercial identificados; 2 en incubación | 5 startups formadas; presentadas a 10+ fondos de inversión | 8 startups; conectadas activamente con ecosistema inversor | 12 startups; 2 con modelo de negocio validado | 15+ startups; procesos maduros de creación y acompañamiento |
+| Proyectos con socios externos | 15 proyectos con industria/gobierno; 5 propuestas a fondos externos | 25 proyectos; presencia en 3 agendas de política pública | 35 proyectos; 60% con propuesta de co-financiamiento activa | 45 proyectos; contribución documentada a 5 políticas públicas | 60+ proyectos; relaciones institucionalizadas con socios clave |
+
+*Intersections es donde Density empieza a producir resultados.*
+
+---
+
+#### 3. The Pool
+**Atraer y transformar a las y los mejores estudiantes**
+
+Las y los mejores estudiantes del país y la región tienen opciones. Pueden ir a cualquier universidad. Si esperamos a que nos encuentren, llegamos tarde. La estrategia es identificarlos antes—cuando ganan una olimpiada, cuando destacan en un concurso de robótica, cuando lideran un proyecto de impacto social—y hacer que el Tec sea parte de su decisión desde temprano.
+
+Y una vez que llegan, el reto es transformarlos: en personas que investigan, que innovan, que lideran. El posgrado es particularmente importante—es donde convergen la mejor facultad, estudiantes con ambición, y los problemas reales de la industria y la sociedad.
+
+**Lo que haremos:**
+
+| Iniciativa | Descripción |
+|------------|-------------|
+| Radar de talento | Sistema de IA que monitorea olimpiadas, concursos de ciencias, competencias de programación, certámenes de emprendimiento. Detecta a quienes destacan y activa contacto antes de que elijan universidad. |
+| Atracción proactiva | Invitaciones a visitar el campus, conexión con profesorado, acceso a laboratorios, mentoría temprana. Que conozcan el Tec por dentro antes de llenar una solicitud. |
+| Programas selectivos | En áreas estratégicas, crear tracks con cupos limitados y alta exigencia. El mérito como criterio atrae a quienes buscan el mayor reto. |
+| Posgrados en el terreno | Rediseñar programas para que al menos 50% del tiempo ocurra en espacios de investigación activa—laboratorios, X Labs, empresas, hospitales. El posgrado como espacio de transformación, no solo de credenciales. |
+| Cada estudiante de posgrado, un proyecto | Que no exista estudiante de posgrado sin vínculo a un proyecto de investigación o innovación activo. |
+
+**Indicadores:**
+
+| Indicador | Qué mide |
+|-----------|----------|
+| Contactos proactivos realizados | Número de estudiantes detectados y contactados por Radar |
+| Tasa de conversión de Radar | % que aplican y son aceptados |
+| Estudiantes de posgrado en proyectos | % con vínculo formal a investigación/innovación |
+| Diversidad de procedencia | % de estudiantes de fuera de Monterrey/México |
+
+**Milestones:**
+
+| Iniciativa                  | 2026                                                                                        | 2027                                                               | 2028                                                                     | 2029                                                            | 2030                                                              |
+| --------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------ | --------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Radar de talento            | Sistema operando; monitoreando olimpiadas o eventos relevantes nacionales e internacionales | Cobertura Latam completa; IA prediciendo talento con 70% precisión | Integrado con Pulse; matching automático estudiante-programa funcionando | 85% precisión; contacto 18 meses antes de que apliquen          | Referente mundial; otras universidades estudian el modelo         |
+| Contactos proactivos        | 500 estudiantes contactados antes de que apliquen                                           | 1,000 contactos; 25% aplican al Tec                                | 1,500 contactos; 35% aplican; 50% de aceptados ingresan                  | 2,000 contactos; 40% aplican; pipeline predecible               | 3,000+ contactos; el mejor talento de Latam nos conoce primero    |
+| Tracks selectivos           | 5 carreras con tracks de excelencia operando                                                | 10 carreras; primeras cohortes con resultados sobresalientes       | 15 carreras; demanda 3:1; marca de excelencia visible                    | 20 carreras; empleadores buscan específicamente estos egresados | Todos los programas estratégicos con track; diferenciador del Tec |
+| Posgrados rediseñados       | 5 maestrías con 50%+ tiempo en labs/empresas/hospitales                                     | 10 programas operando; empleabilidad >95%                          | 15 programas; 30% estudiantes internacionales                            | 20 programas; Tec en top 5 destinos Latam para posgrado         | Todos los estratégicos transformados; el "modelo Tec" de posgrado |
+| % posgrado en proyectos     | 40% vinculados a proyectos de investigación activos                                         | 60% vinculados; sistema de matching funcionando                    | 80% vinculados; patentes y publicaciones con estudiantes                 | 95% vinculados; contribución estudiantil visible                | 100% vinculación; cada estudiante aporta a la investigación       |
+| Estudiantes internacionales | +15% vs 2025; alianzas activas con 10 universidades top                                     | +30%; programa de becas internacional con 50 beneficiarios         | +50%; presencia en ferias de 10 países                                   | +70%; 15 nacionalidades representadas en posgrado               | +100%; el posgrado del Tec es verdaderamente global               |
+
+*The Pool alimenta la Density del futuro.*
+
+---
+
+#### 4. Pulse AI (Cynthia)
+**El sistema que hace visible la red y facilita las conexiones**
+
+Un campus puede tener talento, colaboración y estudiantes—y aún así no funcionar como sistema. Las partes existen pero no se ven entre sí, no se encuentran, no saben unas de otras. Pulse es la infraestructura de inteligencia artificial que hace visible lo invisible, conecta lo desconectado, y permite que el ecosistema opere como un todo.
+
+**Lo que haremos:**
+
+| Iniciativa                      | Descripción                                                                                                                                                                                                          |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mapa vivo de colaboraciones     | Visualización en tiempo real de quién trabaja con quién en el campus. Hace visibles las conexiones existentes y revela oportunidades no aprovechadas.                                                                |
+| Agente IA del campus            | Sistema que conecta necesidades con recursos. "Busco expertise en procesamiento de lenguaje natural para un proyecto de salud mental" → el agente identifica personas que podrían ayudar y facilita la introducción. |
+| IA en formación e investigación | Que estudiantes y profesorado sean referentes en el uso y desarrollo de IA. No solo usarla, sino entender sus implicaciones y contribuir a su evolución responsable.                                                 |
+
+**Indicadores:**
+
+| Indicador | Qué mide |
+|-----------|----------|
+| Conexiones facilitadas por el agente | Número de introducciones realizadas por el sistema |
+| Uso del mapa de colaboraciones | Frecuencia de consulta por parte de la comunidad |
+| Adopción de IA en investigación | % de proyectos que incorporan herramientas de IA |
+
+**Milestones:**
+
+| Iniciativa | 2026 | 2027 | 2028 | 2029 | 2030 |
+|------------|------|------|------|------|------|
+| Mapa de colaboraciones | v1 operando: coautorías, proyectos, redes visibles por escuela | Interactivo con búsqueda; 500 usuarios mensuales consultando | Integrado con Cynthia; sugerencias automáticas de colaboración | Análisis predictivo; identificando oportunidades antes que los usuarios | Infraestructura crítica; decisiones de asignación basadas en el mapa |
+| Agente IA (Cynthia) | Prototipo con 200 usuarios; 50 conexiones facilitadas | 500 usuarios activos; 300 conexiones; primeras colaboraciones resultantes | Campus-wide; 2,000 conexiones; 30% resultan en proyectos formales | 4,000 conexiones; integrado con email y calendario; uso habitual | 6,000+ conexiones; sistema nervioso del campus; indispensable |
+| Integración sistemas | APIs básicas con sistemas de investigación | Integración con BANNER; datos académicos conectados | Sistemas de RRHH integrados; perfiles completos | Finanzas y proyectos conectados; visión 360° | Full integration; datos en tiempo real; un solo ecosistema digital |
+| Usuarios activos mensuales | 200 usuarios recurrentes; todas las escuelas representadas | 800 usuarios; uso semanal en 3 escuelas | 2,000 usuarios; parte del flujo de trabajo habitual | 4,000 usuarios; herramienta de primera opción | 6,000+ usuarios; adopción universal entre profesorado |
+| IA en formación | 10 cursos con IA integrada; 500 estudiantes impactados | 25% de programas con componente de IA; certificaciones disponibles | 50% programas; investigación en IA creciendo | 75% programas; Tec produciendo investigación de IA relevante | 100% programas; Tec como referente latinoamericano en educación con IA |
+
+*Pulse es lo que hace que Density, Intersections y The Pool funcionen como un solo sistema.*
+
+---
+
+#### 5. Evolution
+**El sistema de medición que indica si vamos en camino**
+
+Lo que no se mide no se mejora. Históricamente hemos medido: publicaciones, citas, matrículas. Evolution mide lo que antes no medíamos—la salud del campus como ecosistema conectado—y nos da la señal de si vamos bien o si necesitamos ajustar.
+
+**Indicadores del ecosistema:**
+
+| Categoría | Indicador | Qué mide |
+|-----------|-----------|----------|
+| **Conexión** | Densidad de red | Conexiones activas vs. conexiones posibles entre unidades |
+| | Pares inusuales | Colaboraciones entre escuelas que históricamente no trabajaban juntas |
+| | Migración de ideas | Conceptos o metodologías que nacen en una escuela y se adoptan en otra |
+| **Velocidad** | Tasa de conversión de pilotos | % de proyectos piloto que escalan a implementación formal |
+| | Velocidad de prototipado | Días desde propuesta hasta primer entregable en X Labs |
+| **Atracción** | Tasa de aceptación de talento | % de ofertas aceptadas por candidaturas objetivo |
+| | Pull externo | Organizaciones que buscan al campus para resolver problemas |
+| | Tasa de retorno | Personas que regresan al ecosistema (egresadas/os, ex-colaboradores) |
+| **Impacto** | Emprendimientos generados | Startups y spin-offs nacidos de la investigación |
+| | Políticas influenciadas | Proyectos que derivan en políticas públicas o cambios regulatorios |
+
+Estos indicadores deben ser visibles para el liderazgo de forma continua—no reportes anuales que llegan tarde, sino un termómetro constante del ecosistema.
+
+**Milestones:**
+
+| Iniciativa | 2026 | 2027 | 2028 | 2029 | 2030 |
+|------------|------|------|------|------|------|
+| Definición indicadores | 15 indicadores validados con liderazgo y fuentes de datos confirmadas | Set refinado post primer reporte; 3 indicadores nuevos añadidos | Set estable de 18 indicadores; metodología documentada públicamente | Indicadores comparables con 10 universidades peer a nivel mundial | Sistema de indicadores adoptado por 3 campus del sistema Tec |
+| Dashboard | v1 operando con actualización mensual; 50 usuarios activos | v2 interactivo con drill-down por escuela/proyecto; 150 usuarios | Dashboard integrado con Pulse; datos en tiempo real; 300 usuarios | Alertas automáticas a líderes cuando KPIs bajan de umbral | Dashboard consolidado con vistas por rol; uso universal en liderazgo |
+| Reportes ecosistema | Baseline publicado: primer snapshot del ecosistema con 10 métricas | Primer reporte anual público; presentación a Consejo Directivo | Segundo reporte con tendencias YoY visibles; comparables internacionales | Tercer reporte con benchmarking completo vs 5 universidades top | Reporte maduro publicado; metodología solicitada por otras instituciones |
+| Benchmark internacional | 10 universidades peer identificadas; primeras métricas recolectadas | Comparación sistemática en 5 indicadores clave con datos públicos | Gap analysis completo; plan de mejora priorizado en 3 áreas | Cierre de 2 gaps prioritarios; mejora demostrable en rankings | Posición clara vs peers; liderazgo en 2+ indicadores específicos |
+| Sistema alertas | Arquitectura diseñada; umbrales definidos para 5 indicadores críticos | Piloto operando con alertas automáticas en 3 indicadores | Sistema operando campus-wide; alertas a todos líderes de proyecto | Modelo predictivo funcionando; anticipa problemas 30 días | Sistema maduro; cero sorpresas en indicadores clave |
+| Replicabilidad | Documentación inicial del modelo Evolution | Metodología completa documentada y revisada externamente | Piloto de implementación iniciado en Campus Guadalajara | Guadalajara operando; ajustes al modelo documentados | Modelo transferido a 5 campus; manual de implementación publicado |
+
+*Evolution nos indica si los otros cuatro proyectos están funcionando como sistema.*
+
+---
+
+#### El sistema completo
+
+Estos no son cinco proyectos aislados. Es un sistema donde cada componente habilita al siguiente:
+
+1. **Density** acerca y concentra el talento—de la academia, la industria y el gobierno.
+2. **Intersections** conecta ese talento para producir lo que sólo el Tec, con su comunidad puede crear (ventaja comparativa).
+3. **The Pool** atrae y transforma a las y los mejores estudiantes, alimentando la Density futura.
+4. **Pulse** hace visible la red y facilita que todo fluya.
+5. **Evolution** mide la salud del sistema y señala dónde ajustar.
+
+Si falta uno, el sistema se debilita. Cuando operan juntos, el campus funciona como algo mayor que la suma de sus partes.
+
+---
+
+#### Roadmap Consolidado 2026-2030
+
+| Proyecto                    | 2026                                            | 2027                                         | 2028                                           | 2029                                               | 2030                                                   |
+| --------------------------- | ----------------------------------------------- | -------------------------------------------- | ---------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------ |
+| **DENSITY**                 |                                                 |                                              |                                                |                                                    |                                                        |
+| Talento atraído             | 20 perfiles; mapa completo con 100 objetivos    | 40 acumulados; masa crítica en 3 escuelas    | 60 acumulados; cobertura en todas las escuelas | 80 acumulados; Tec en top 3 destinos Latam         | 100 perfiles; el Tec atrae sin buscar                  |
+| Sabáticos invertidos        | 5 académicos de universidades top-50            | 10 académicos; publicaciones conjuntas       | 15 académicos; propuestas conjuntas a fondos   | 20 académicos; programa documentado                | 25+ académicos; pipeline activo de candidatos          |
+| Alianzas industria/gobierno | 10 alianzas formalizadas con presupuesto        | 20 alianzas; 5 con gobierno                  | 30 alianzas; 2 centros conjuntos               | 40 alianzas; 5 políticas públicas                  | 50+ alianzas; socio académico preferido                |
+| **INTERSECTIONS**           |                                                 |                                              |                                                |                                                    |                                                        |
+| X Labs                      | 5 operando (Salud+Ing, Neg+Ing, Hum+Tech)       | 10 X Labs; 3 prototipos validados            | 15 X Labs; 2 dispositivos en regulación        | 20 X Labs; 3 productos en desarrollo               | 25+ X Labs; modelo replicado en 3 campus               |
+| Proyecto bandera            | Proyecto definido; equipo de 20 formado         | Primeros resultados; cobertura internacional | Resultados de alto impacto; journals top       | Posicionado como referente en el tema              | Proyecto consolidado; pipeline activo de talento       |
+| Emprendimientos derivados   | 5 proyectos identificados; 2 en incubación      | 5 startups formadas; presentadas a fondos    | 8 startups; conectadas con ecosistema inversor | 12 startups; 2 con modelo validado                 | 15+ startups; procesos maduros de acompañamiento       |
+| **THE POOL**                |                                                 |                                              |                                                |                                                    |                                                        |
+| Radar de talento            | Sistema operando; olimpiadas nacionales e int'l | Cobertura Latam; IA con 70% precisión        | Integrado con Pulse; matching automático       | 85% precisión; contacto 18 meses antes             | Referente mundial; otras universidades lo estudian     |
+| Contactos proactivos        | 500 estudiantes contactados antes de aplicar    | 1,000 contactos; 25% aplican                 | 1,500 contactos; 35% aplican; 50% ingresan     | 2,000 contactos; pipeline predecible               | 3,000+ contactos; primer contacto con el mejor talento |
+| Posgrados rediseñados       | 5 maestrías con 50%+ tiempo en labs/empresas    | 10 programas; empleabilidad >95%             | 15 programas; 30% estudiantes internacionales  | 20 programas; top 5 destinos Latam                 | Todos los estratégicos transformados                   |
+| % posgrado en proyectos     | 40% vinculados a proyectos activos              | 60% vinculados; sistema de matching          | 80% vinculados; patentes con estudiantes       | 95% vinculados; contribución visible               | 100% vinculación; cada estudiante aporta               |
+| **PULSE**                   |                                                 |                                              |                                                |                                                    |                                                        |
+| Mapa colaboraciones         | v1 operando: coautorías, proyectos, redes       | Interactivo; 500 usuarios mensuales          | Integrado con Cynthia; sugerencias automáticas | Análisis predictivo; anticipa oportunidades        | Infraestructura crítica del campus                     |
+| Agente IA (Cynthia)         | Prototipo con 200 usuarios; 50 conexiones       | 500 usuarios; 300 conexiones                 | Campus-wide; 2,000 conexiones; 30% → proyectos | 4,000 conexiones; uso habitual                     | 6,000+ conexiones; sistema nervioso del campus         |
+| IA en formación             | 10 cursos con IA integrada; 500 estudiantes     | 25% programas con componente IA              | 50% programas; investigación en IA creciendo   | 75% programas; Tec produce investigación relevante | 100% programas; referente latinoamericano              |
+| **EVOLUTION**               |                                                 |                                              |                                                |                                                    |                                                        |
+| Dashboard                   | v1 operando; 50 usuarios activos mensuales      | v2 interactivo; drill-down por escuela       | Integrado con Pulse; datos en tiempo real      | Alertas automáticas a líderes                      | Consolidado; uso universal en liderazgo                |
+| Benchmark internacional     | 10 peers identificados; métricas recolectadas   | Comparación en 5 indicadores clave           | Gap analysis completo; plan de mejora          | 2 gaps cerrados; mejora en rankings                | Posición clara; liderazgo en 2+ indicadores            |
+| Replicabilidad              | Documentación inicial del modelo                | Metodología completa documentada             | Piloto iniciado en Campus Guadalajara          | Guadalajara operando; ajustes documentados         | Modelo transferido a 5 campus                          |
+
+**Hitos críticos por año:**
+
+| Año | Hitos clave del sistema |
+|-----|------------------------|
+| **2026** | Cimientos operando: 20 perfiles atraídos, 5 X Labs activos, Radar y Dashboard v1, 5 sabáticos invertidos, mapa de talento con 100 objetivos, Cynthia en prototipo con 200 usuarios |
+| **2027** | Escalamiento visible: 40 perfiles acumulados, 10 X Labs, proyecto bandera con resultados iniciales, 5 startups operando, Cynthia con 500 usuarios, primer reporte de ecosistema público |
+| **2028** | Maduración del sistema: 60 perfiles, 15 X Labs, 80% posgrado vinculado a proyectos, Pulse campus-wide con 2,000 conexiones, 8 startups, benchmark internacional completo |
+| **2029** | Consolidación: 80 perfiles, 20 X Labs, 12 startups con 2 en tracción significativa, 75% programas con IA, sistema de alertas predictivo, 4,000 conexiones facilitadas |
+| **2030** | Sistema operando a escala: 100 perfiles, 25+ X Labs, 15+ startups con procesos maduros, 100% vinculación posgrado-proyectos, 6,000+ conexiones, modelo replicado en 5 campus, Tec como referente latinoamericano |
 
 ---
 
 ## 7. 2030 como base para 2035
 
-<<<<<<< HEAD
 Todo lo anterior nos lleva a una reflexión final. 2030 está a la vuelta de la esquina. El éxito no es llegar con todo resuelto—eso sería irreal. El éxito es llegar con la infraestructura de colaboración operativa y la capacidad de ajustar lo que no funcione.
-=======
-2030 está a la vuelta de la esquina. El éxito no es llegar con todo resuelto—eso sería irreal. El éxito es llegar con la infraestructura de colaboración operativa y la capacidad de ajustar lo que no funcione.
->>>>>>> origin/main
 
-Si el Distrito, los posgrados, la selectividad y la facultad funcionan como un sistema, 2035 será el momento de escalar. No prometemos que todo saldrá perfecto. Prometemos que aprenderemos rápido y nos ajustaremos. Estamos construyendo los cimientos de una universidad que no solo enseña, sino que también crea futuro.
+Si los cinco proyectos funcionan como sistema—Density atrayendo talento, Intersections conectándolo, The Pool alimentando el futuro, Pulse haciéndolo visible y Evolution midiendo la salud del ecosistema—2035 será el momento de escalar. No prometemos que todo saldrá perfecto. Prometemos que aprenderemos rápido y nos ajustaremos. Estamos construyendo los cimientos de una universidad que no solo enseña, sino que también crea futuro.
 
 Habrá quienes digan que somos demasiado ambiciosos. Que no somos MIT, que no tenemos los mismos recursos. Ya sabemos lo que no tenemos. Lo que importa es a dónde queremos llegar —y luego ver cómo le hacemos. Esa ha sido la historia del Tec desde su fundación. Fuimos a la casona de Monterrey, luego al primer campus universitario de México. Construimos el Setec, Expedition, TecSalud. Hace 40 años apostamos por la investigación cuando nadie lo esperaba —y ese jonrón nos posicionó internacionalmente. ¿Por qué no hacerlo de nuevo?
 
-<<<<<<< HEAD
 Es lo que somos. El Tec de Monterrey piensa en grande. Se reta ante contextos difíciles. Y hace realidad proyectos e iniciativas complejas. Debemos ser siempre muy audaces.
 
 Y esa audacia importa más que nunca. En un momento geopolítico como el actual, lo que haga el Tec en los próximos diez años importa —para México, para Latinoamérica, para el mundo hispanohablante. El Campus Monterrey tiene la oportunidad y la responsabilidad de ser la punta de lanza. Tenemos los nodos. Tenemos el talento. Con esta estrategia, tendremos las conexiones.
-=======
-El Tec de Monterrey piensa en grande. Se reta ante contextos difíciles. Y hace realidad proyectos e iniciativas complejas. Debemos ser siempre muy audaces.
-
-En un momento geopolítico como el actual, lo que haga el Tec en los próximos diez años importa —para México, para Latinoamérica, para el mundo hispanohablante. El Campus Monterrey tiene la oportunidad y la responsabilidad de ser la punta de lanza. Tenemos los nodos. Tenemos el talento. Con esta estrategia, tendremos las conexiones.
->>>>>>> origin/main
 
 Don Eugenio decía: "Lo que uno es y puede poseer es una oportunidad de servicio." El campus tiene ese potencial de servicio. La pregunta no es si podemos transformar, sino qué tan lejos estamos dispuestos a llegar.
 
@@ -342,6 +438,7 @@ Don Eugenio decía: "Lo que uno es y puede poseer es una oportunidad de servicio
 
 |   |   |   |
 |---|---|---|
+||||
 |Métrica|2019|2024|
 |Publicaciones|1,528|2,306|
 |Citas|18k|102k+|
@@ -365,15 +462,13 @@ Don Eugenio decía: "Lo que uno es y puede poseer es una oportunidad de servicio
 
 "¿Cómo van a priorizar?"
 
-Aplicaremos el criterio de la "Cuádruple Apuesta": programas que generen conexiones interdisciplinarias, atraigan talento de nivel internacional, o contribuyan a las 4 apuestas recibirán prioridad en recursos y visibilidad. Esto nos permite comunicar con claridad hacia dónde va la energía del campus.
+Priorizamos lo que conecta y genera impacto en los cinco proyectos estratégicos. Iniciativas que contribuyan a Density (atraer talento), Intersections (proyectos interdisciplinarios), The Pool (transformar estudiantes), Pulse (visibilidad de la red) o Evolution (medición del sistema) recibirán atención prioritaria en recursos, espacios y visibilidad.
 
 "¿Cómo integramos TecSalud?"
 
-No con burocracia, sino con proyectos. Los 3 Living Labs piloto de Salud-Ingeniería (lanzamiento Q3 2025) serán el prototipo activo que definirá el modelo de operación conjunta.
+No con burocracia, sino con proyectos. Los X Labs de Salud-Ingeniería son el prototipo activo dentro de Intersections. El modelo: equipos de diferentes escuelas co-diseñando soluciones en el terreno, con milestones claros y resultados medibles.
 
-"¿Por qué estas cuatro apuestas?"
+"¿Cuál es la relación entre las 4 apuestas y los 5 proyectos?"
 
-Porque responden a la pregunta de transformación. Son las que rompen los silos (Distrito), elevan la densidad de talento (Posgrados/Selectividad), activan a nuestra facultad (Facultad) y cambian la dinámica diaria del campus.
+Las cuatro apuestas (Distrito, Posgrados, Selectividad, Facultad) son el marco estratégico—el "qué" queremos transformar. Los cinco proyectos (Density, Intersections, The Pool, Pulse, Evolution) son la ejecución—el "cómo" lo vamos a hacer, con entregables, milestones y responsables. Cada apuesta se materializa en uno o más proyectos, y los proyectos operan como sistema.
 
-  
-**
