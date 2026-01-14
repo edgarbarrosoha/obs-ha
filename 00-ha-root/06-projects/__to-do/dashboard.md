@@ -15,24 +15,10 @@ type: clock
 - [ ] **Vie** →
 ---
 # Priorities
-- [ ] Mejorar el prompt del [narrative-builder](obsidian://open?vault=obs-ha&file=00-ha-root%2F06-projects%2Fha-atelier%2Fprompts%2Fnarrative-builder)
-- [ ] Suavizar el eran 5 y nos enfocamos en 3 de la narrativa
-- [ ] Vibecode a reference checker with what we have (lista bibliográfica)
-- [ ] Mandar las preguntas a Gabe
-- [ ] Vibecode a class maker (Ethics)
-- [ ] Crear las clases de mi curso de IA
+- [ ] 
 ---
 # To dos
-- [ ] Ver este [video](https://maven.com/p/e6c660/velocity-coding-building-at-the-speed-of-thought?utm_source=substack&utm_medium=email) de Vibecoding y tomar notas
-- [ ] SIC-Q
-	- [ ] Incluir la última llamada en los entregables de sicq
-	- [ ] revisar el diseño con Oscar
-	- [ ] Buscar los mejores libros y papers de inteligencia colectiva
-- [ ] Docet Agentic
-- [ ] DMDU
-	- [ ] Escribir a Steven, Alejandro, etc.
-- [ ] Contactar a Arturo Torres Jr. para ver cuándo nos reunimos
-- [ ] Fondo de retiro de México "Sura México", ver los beneficiarios de mi fondo de retiro
+- [ ] 
 ---
 # Waiting For 
 - [ ] Xignux → respuesta
@@ -77,4 +63,3 @@ type: clock
 # Completed ✓
 - [x]
 
-asdfasdfsa
