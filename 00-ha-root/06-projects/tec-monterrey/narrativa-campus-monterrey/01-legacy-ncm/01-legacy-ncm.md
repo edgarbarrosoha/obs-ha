@@ -35,10 +35,23 @@ Este principio guía las decisiones cuando todo lo demás cambia. No es nostalgi
 ### Agente
 - [[agent-ncm-legacy|Agent NCM Legacy]]
 
-### Documentos
-| Documento | Tipo | Descripción |
-|-----------|------|-------------|
-| [[entrevista-juan-pablo-murra\|entrevista-juan-pablo-murra]] | Entrevista | Visión del Rector del Campus |
+### Guías de Entrevista
+| Documento | Entrevistado | Rol |
+|-----------|--------------|-----|
+| [[entrevista-david-garza\|David Garza]] | David Garza Salazar | Presidente Grupo Educativo |
+| [[entrevista-juan-pablo-murra\|Juan Pablo Murra]] | Juan Pablo Murra | Rector del Tec |
+| [[entrevista-ricardo-saldivar\|Ricardo Saldívar]] | Ricardo Saldívar | Presidente del Consejo |
+| [[entrevista-guillermo-torre\|Guillermo Torre]] | Guillermo Torre | Líder TecSalud |
+
+### Transcripciones
+| Documento | Entrevistado | Status |
+|-----------|--------------|--------|
+| [[transcripciones/entrevista-hecha-david-garza\|David Garza]] | David Garza Salazar | Completada |
+
+### Hallazgos
+| Documento | Entrevistado | Descripción |
+|-----------|--------------|-------------|
+| [[hallazgos/principales-hallazgos-david-garza\|Hallazgos David Garza]] | David Garza Salazar | Principales insights |
 
 ---
 

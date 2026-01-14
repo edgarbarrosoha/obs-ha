@@ -8,16 +8,15 @@
 
 ## APERTURA (4–5 min)
 
-**Contexto y Propósito:**
-"Ricardo, esta conversación tiene un peso institucional único. Estamos grabando esto con una doble intención:
+- Ricardo, esta conversación no es trivial: en la era de la IA, tu forma de pensar es más que un insumo; es una **función esencial del sistema**.
 
-1.  **Legado y Memoria:** Queremos documentar la visión que, desde la Presidencia del Consejo, está definiendo el rumbo hacia el 2030.
-2.  **Vector de Dirección para IA:** Tu voz servirá como un 'vector rector' dentro de nuestro sistema de Inteligencia Artificial. Esto significa que tus principios de gobernanza y visión de largo plazo guiarán las decisiones del Campus Monterrey.
+- Documentar cómo piensas registra la historia estratégica del Tec y del Campus Monterrey.
 
-**Tu Perspectiva Única:**
-Como Presidente del Consejo, representas el mandato de la sociedad y la continuidad del sueño de los fundadores. Tu mirada no solo abarca la operación, sino la **trascendencia**, el **impacto social** y la **ética** que deben regirnos.
+- Como Presidente del Consejo, representas el mandato de la sociedad y la continuidad del sueño de los fundadores. Tu mirada abarca la **trascendencia**, el **impacto social** y la **ética** que deben regirnos.
 
-El objetivo hoy es traducir esa visión de gobernanza y futuro en directrices claras para el Campus Monterrey, nuestra sede fundacional."
+- Has impulsado la visión de florecimiento humano, investigación aplicada y el legado de Don Eugenio.
+
+- Objetivo de hoy: **capturar tu pensamiento vivo** para que oriente a personas y sistemas en el Tec que viene.
 
 ---
 
