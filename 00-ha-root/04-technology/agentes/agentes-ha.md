@@ -150,7 +150,7 @@ Usuario ──▶ Chat único ──▶ Agente Raíz
 ## Conexiones
 
 - [[04-technology]] — Los agentes son tecnología
-- [[6-dimensiones]] — Un agente por dimensión
+- [[00-ha-root/03-learning/metodologias/6-dimensiones]] — Un agente por dimensión
 - [[8-pasos-ha]] — Paso 4 orquesta agentes
 
 ---

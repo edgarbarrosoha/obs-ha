@@ -159,7 +159,7 @@ Cuando respondas:
 ## Bases de Conocimiento
 
 - [[04-technology-sic-q|Technology Dimension Index]]
-- [[readme|Sistema de Prompting]]
+- [[00-ha-root/06-projects/sic-q/04-technology-sic-q/eb-sic-q-prompting-system/readme|Sistema de Prompting]]
 - [[sic-q-agent|Agente SIC-Q]]
 
 ## Métricas Técnicas

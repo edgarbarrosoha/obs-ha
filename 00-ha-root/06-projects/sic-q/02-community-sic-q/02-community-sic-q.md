@@ -46,7 +46,7 @@ parent: "[[ha-root-sic-q]]"
 
 ## Perfiles individuales
 - [[antonio-rangel|Antonio Rangel]]
-- [[edgar-barroso|Edgar Barroso]]
+- [[00-ha-root/06-projects/sic-q/02-community-sic-q/people/edgar-barroso|Edgar Barroso]]
 - [[joaquin-suarez|Joaquín Suárez]]
 - [[patricia|Patricia]]
 - [[oscar-diaz|Oscar Díaz]]

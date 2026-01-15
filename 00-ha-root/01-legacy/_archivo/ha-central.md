@@ -48,7 +48,7 @@
 - [[proyectos-legado\|Legados por Proyecto]]
 
 ### Metodología
-- [[6-dimensiones\|Las 6 Dimensiones]]
+- [[00-ha-root/03-learning/metodologias/6-dimensiones\|Las 6 Dimensiones]]
 - [[8-pasos-ha\|Los 8 Pasos]]
 - [[arquitectura-fractal\|Arquitectura Fractal]]
 

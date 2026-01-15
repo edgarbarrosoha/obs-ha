@@ -2,7 +2,7 @@
 
 ## Concepto
 
-La arquitectura de HA es **fractal**: la misma estructura de [[6-dimensiones]] se replica a diferentes escalas.
+La arquitectura de HA es **fractal**: la misma estructura de [[00-ha-root/03-learning/metodologias/6-dimensiones]] se replica a diferentes escalas.
 
 ```
                     ┌─────────────────┐
@@ -120,7 +120,7 @@ Para escalar, se crean paquetes reutilizables:
 
 ## Conexiones
 
-- [[6-dimensiones]] — La estructura que se replica
+- [[00-ha-root/03-learning/metodologias/6-dimensiones]] — La estructura que se replica
 - [[8-pasos-ha]] — El proceso para implementar cada nivel
 - [[06-projects]] — Donde se ejecuta el escalamiento
 
