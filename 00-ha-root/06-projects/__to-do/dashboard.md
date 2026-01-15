@@ -10,7 +10,7 @@ type: clock
 # This Week (Meetings)
 - [ ] **Lun** → [] check-in-semanal → [] 
 - [ ] **Mar** → [] 
-- [ ] **Mié** →
+- [ ] **Mié** →                                       
 - [ ] **Jue** →
 - [ ] **Vie** →
 ---
@@ -61,5 +61,4 @@ type: clock
 
 ---
 # Completed ✓
-- [x]
 

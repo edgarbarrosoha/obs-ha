@@ -14,7 +14,7 @@ Integrar a nuevas personas al sistema HA de manera que:
 
 **Actividades:**
 - [ ] Bienvenida con líder de [[02-community]]
-- [ ] Introducción a las [[6-dimensiones|6 Dimensiones]]
+- [ ] Introducción a las [[00-ha-root/03-learning/metodologias/6-dimensiones|6 Dimensiones]]
 - [ ] Tour por el vault de Obsidian
 - [ ] Acceso a herramientas ([[04-technology]])
 

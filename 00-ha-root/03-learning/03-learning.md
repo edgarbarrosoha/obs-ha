@@ -24,7 +24,7 @@ Incluye activos explícitos (manuales, wikis, datasets) y tácitos (skills del e
 - [[prioridades]] — Qué aprender primero y por qué
 
 ### 📂 `metodologias/` — Cómo trabajamos
-- [[6-dimensiones]] — Las 6 dimensiones de HA
+- [[00-ha-root/03-learning/metodologias/6-dimensiones]] — Las 6 dimensiones de HA
 - [[8-pasos-ha]] — El proceso de 8 pasos
 - [[arquitectura-fractal]] — Estructura fractal del sistema
 

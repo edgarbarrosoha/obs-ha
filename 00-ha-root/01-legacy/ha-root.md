@@ -75,7 +75,7 @@ Convertirnos en la primera unicornio latinoamericana de inteligencia híbrida (h
 | [[agent-ha-learning\|agent-ha-learning]] | Agent | Evolucionador del conocimiento |
 | [[lecciones-aprendidas\|lecciones-aprendidas]] | Lecciones | Lecciones por proyecto |
 | [[skills-capacidades\|skills-capacidades]] | Skills | Competencias del equipo |
-| [[6-dimensiones\|6-dimensiones]] | Metodología | Las 6 dimensiones de HA |
+| [[00-ha-root/03-learning/metodologias/6-dimensiones\|6-dimensiones]] | Metodología | Las 6 dimensiones de HA |
 | [[8-pasos-ha\|8-pasos-ha]] | Metodología | Los 8 pasos de HA |
 | [[arquitectura-fractal\|arquitectura-fractal]] | Metodología | Arquitectura fractal |
 | [[ben-guo\|vibecoding/ben-guo]] | Recurso | Referencia vibecoding |

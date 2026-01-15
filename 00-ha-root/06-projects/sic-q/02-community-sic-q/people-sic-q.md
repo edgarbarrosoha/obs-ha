@@ -4,7 +4,7 @@
 
 ## Personas clave (con nota)
 - [[antonio-rangel]]
-- [[edgar-barroso]]
+- [[00-ha-root/06-projects/sic-q/02-community-sic-q/people/edgar-barroso]]
 - [[joaquin-suarez]]
 - [[patricia]]
 - [[oscar-diaz]]

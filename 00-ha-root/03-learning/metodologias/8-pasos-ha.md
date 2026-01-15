@@ -2,7 +2,7 @@
 
 ## Visión General
 
-El proceso HA tiene 8 pasos que conectan las [[6-dimensiones]] con la ejecución práctica.
+El proceso HA tiene 8 pasos que conectan las [[00-ha-root/03-learning/metodologias/6-dimensiones]] con la ejecución práctica.
 
 ```
 ┌─────┐   ┌─────┐   ┌─────┐   ┌─────┐
@@ -183,7 +183,7 @@ El proceso HA tiene 8 pasos que conectan las [[6-dimensiones]] con la ejecución
 
 ## Conexiones
 
-- [[6-dimensiones]] — Base conceptual
+- [[00-ha-root/03-learning/metodologias/6-dimensiones]] — Base conceptual
 - [[arquitectura-fractal]] — Cómo escala
 - [[06-projects]] — Donde se ejecutan los pasos
 

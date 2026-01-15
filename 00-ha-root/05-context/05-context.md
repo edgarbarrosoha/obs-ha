@@ -54,7 +54,7 @@ Es **escaneo dinámico**: personas definen variables a monitorear y agentes sugi
 - [[paper-academico]] — Paper académico fundacional
 - [[sintesis]] — Síntesis accesible del framework
 - [[axiomas]] — Los 3 axiomas de HA
-- [[6-dimensiones]] — Las 6 dimensiones explicadas
+- [[00-ha-root/05-context/ha-fundamentos/teoria/6-dimensiones]] — Las 6 dimensiones explicadas
 
 **vision/**
 - [[vision-estrategia]] — Visión, misión y estrategia
@@ -67,7 +67,7 @@ Es **escaneo dinámico**: personas definen variables a monitorear y agentes sugi
 - [[potencial-academico]] — HA como campo académico y startup
 
 **fundador/**
-- [[edgar-barroso]] — Perfil de Edgar Barroso (CEO/Fundador)
+- [[00-ha-root/05-context/ha-fundamentos/fundador/edgar-barroso]] — Perfil de Edgar Barroso (CEO/Fundador)
 - [[reflexiones]] — Reflexiones del fundador sobre HA
 - [[carta-socios-2026]] — Carta a socios 2026
 

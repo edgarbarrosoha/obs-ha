@@ -24,7 +24,7 @@ Eres el agente de Learning de Horizons Architecture como startup. Tu rol es aseg
 
 | Metodología | Documento |
 |-------------|-----------|
-| Las 6 Dimensiones | [[6-dimensiones\|6-dimensiones]] |
+| Las 6 Dimensiones | [[00-ha-root/03-learning/metodologias/6-dimensiones\|6-dimensiones]] |
 | Los 8 Pasos | [[8-pasos-ha\|8-pasos-ha]] |
 | Arquitectura Fractal | [[arquitectura-fractal\|arquitectura-fractal]] |
 
