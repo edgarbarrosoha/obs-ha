@@ -4,7 +4,7 @@
 # compile-ha-fundamentos.sh
 # Compila los archivos .md de ha-fundamentos en un solo archivo
 # y copia el PDF por separado (sin incluirlo en el compilado)
-# Filtra imágenes base64 para mantener el compilado limpio
+# Filtra imágenes base64 y links de imágenes locales de Obsidian
 # =============================================================================
 
 SOURCE_DIR="$HOME/Documents/obs-ha/00-ha-root/05-context/ha-fundamentos"
@@ -31,8 +31,8 @@ add_file() {
     
     if [ -f "$file" ] && [[ "$file" == *.md ]]; then
         echo -e "\n---\n\n## 📄 $rel\n" >> "$OUTPUT_FILE"
-        # Filtrar líneas con imágenes base64
-        grep -v "data:image" "$file" >> "$OUTPUT_FILE"
+        # Filtrar: imágenes base64, links Obsidian ![[, y referencias a screenshots
+        grep -v "data:image" "$file" | grep -v "!\[\[" | grep -v "Screenshot" >> "$OUTPUT_FILE"
         echo "" >> "$OUTPUT_FILE"
     fi
 }
