@@ -61,5 +61,4 @@ type: clock
 
 ---
 # Completed ✓
-- [x]
 
