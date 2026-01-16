@@ -30,7 +30,7 @@
 - **Rol Fundacional:** "¿Qué representa el Campus Monterrey para el Consejo y para el legado de Don Eugenio en 2030?"
 - **Florecimiento Humano:** "Has hablado mucho de poner a la persona al centro. ¿Cómo se vive eso aquí?"
 - **Vinculación:** "¿Cómo ves la relación entre el Campus y el sector productivo/sociedad en el futuro?"
-- **Señales:** "¿Qué te haría sentir orgulloso de este campus al terminar tu mandato o en 2030?"
+- **Señales:** "¿Qué te haría sentir orgulloso de este campus en 2030?"
 
 ---
 
