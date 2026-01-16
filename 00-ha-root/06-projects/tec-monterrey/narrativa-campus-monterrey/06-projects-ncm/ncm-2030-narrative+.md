@@ -370,7 +370,7 @@ Estos no son cinco proyectos aislados. Es un sistema donde cada componente habil
 
 1. **Density** acerca y concentra el talento—de la academia, la industria y el gobierno.
 2. **Intersections** conecta ese talento para producir lo que sólo el Tec, con su comunidad puede crear (ventaja comparativa).
-3. **The Pool** atrae y transforma a las y los mejores estudiantes, alimentando la Density futura.
+3. **The Pool** atrae y transforma a las y los mejores estudiantes, y profesores alimentando la Density futura.
 4. **Pulse** hace visible la red y facilita que todo fluya.
 5. **Evolution** mide la salud del sistema y señala dónde ajustar.
 
