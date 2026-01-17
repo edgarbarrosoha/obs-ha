@@ -9,3 +9,6 @@
 .obsidian/graph.json
 .DS_Store
 ha-fundamentos-public/
+
+# Git conflict quarantine
+_git-quarantine/
