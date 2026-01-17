@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(git checkout:*)",
+      "Bash(find:*)",
+      "Bash(# Rename subfolders with spaces \\(deepest first to avoid path issues\\) find \"\"/Users/edgarbarroso/Documents/obs-ha/06-Projects\"\" -depth -type d -name \"\"* *\"\")",
+      "Bash(# Find remaining problematic folder names find \"\"/Users/edgarbarroso/Documents/obs-ha/06-Projects\"\" -type d \\\\\\( -name \"\"*[A-Z]*\"\" -o -name \"\"* *\"\" -o -name \"\"*_*\"\" -o -name \"\"*&*\"\" \\\\\\))",
+      "Bash(# Rename remaining problematic folders \\(deepest first\\) find \"\"/Users/edgarbarroso/Documents/obs-ha/06-Projects\"\" -depth -type d \\\\\\( -name \"\"*[A-Z]*\"\" -o -name \"\"*_*\"\" -o -name \"\"*&*\"\" \\\\\\))",
+      "Bash(echo:*)",
+      "Bash(# Find all files with version patterns and normalize them find \"\"/Users/edgarbarroso/Documents/obs-ha/06-Projects\"\" -type f -name \"\"*.md\"\")",
+      "Bash(# Full normalization script - fixed version find \"\"/Users/edgarbarroso/Documents/obs-ha/06-Projects\"\" -type f -name \"\"*.md\"\")",
+      "Bash(# Enhanced normalization with better special character handling find \"\"/Users/edgarbarroso/Documents/obs-ha/06-Projects\"\" -type f -name \"\"*.md\"\")",
+      "Bash(# Continue renaming remaining files find \"\"/Users/edgarbarroso/Documents/obs-ha/06-Projects\"\" -type f -name \"\"*.md\"\")",
+      "Bash(# Check remaining files with uppercase or spaces in Projects find \"\"/Users/edgarbarroso/Documents/obs-ha/06-Projects\"\" -type f -name \"\"*.md\"\" \\\\\\( -name \"\"*[A-Z]*\"\" -o -name \"\"* *\"\" \\\\\\))",
+      "Bash(# Rename folders and files in other main directories for maindir in \"\"01-Legacy\"\" \"\"02-Community\"\" \"\"03-Learning\"\" \"\"04-Technology\"\" \"\"05-Context\"\"; do # First rename folders \\(deepest first\\) find \"\"/Users/edgarbarroso/Documents/obs-ha/$maindir\"\" -depth -type d)",
+      "Bash(# Rename files in other main directories for maindir in \"\"01-legacy\"\" \"\"02-community\"\" \"\"03-learning\"\" \"\"04-technology\"\" \"\"05-context\"\"; do find \"\"/Users/edgarbarroso/Documents/obs-ha/$maindir\"\" -type f -name \"\"*.md\"\")",
+      "Bash(# Rename root level files find \"\"/Users/edgarbarroso/Documents/obs-ha\"\" -maxdepth 1 -type f -name \"\"*.md\"\")",
+      "Bash(# Count remaining files with problematic names find \"\"/Users/edgarbarroso/Documents/obs-ha\"\" -type f -name \"\"*.md\"\" \\\\\\( -name \"\"*[A-Z]*\"\" -o -name \"\"* *\"\" \\\\\\))",
+      "Bash(# List remaining problematic files \\(if any\\) find \"\"/Users/edgarbarroso/Documents/obs-ha\"\" -type f -name \"\"*.md\"\" \\\\\\( -name \"\"*[A-Z]*\"\" -o -name \"\"* *\"\" \\\\\\))",
+      "Bash(# Find files with wikilinks that may need updating grep -l \"\"\\\\[\\\\[.*[A-Z].*\\\\]\\\\]\"\" /Users/edgarbarroso/Documents/obs-ha/*.md /Users/edgarbarroso/Documents/obs-ha/**/*.md)",
+      "Bash(grep:*)",
+      "Bash(while read f)",
+      "Bash(do echo \"=== $f ===\")",
+      "Bash(done)",
+      "Bash(ls:*)"
+    ]
+  }
+}
