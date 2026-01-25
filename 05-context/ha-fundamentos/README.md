@@ -13,9 +13,10 @@ Este directorio contiene los documentos fundamentales que definen **Horizons Arc
 ## Estructura del Directorio
 
 ```
-ha-fundamentos-14.01.2026/
+ha-fundamentos/
 ├── diferenciacion/     # Posicionamiento competitivo y propuesta de valor
 ├── fundador/           # Documentos del fundador y visión personal
+├── ha-source-of-truth.md
 ├── metodologia/        # Metodología de aprendizaje y potencial académico
 ├── teoria/             # Base teórica del framework HA
 └── vision/             # Misión, visión y estrategia del startup
@@ -133,10 +134,9 @@ Posicionamiento competitivo y propiedad intelectual.
 Este directorio es parte del ecosistema de documentación de HA:
 
 ```
-obs-ha/
-└── 00-ha-root/
-    └── 05-context/
-        └── ha-fundamentos-14.01.2026/  ← Estás aquí
+/Users/edgarbarroso/Documents/ha-ha/
+└── 05-context/
+    └── ha-fundamentos/  ← Estás aquí
 ```
 
 ---
