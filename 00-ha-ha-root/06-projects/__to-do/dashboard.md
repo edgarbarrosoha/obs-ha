@@ -11,7 +11,7 @@ type: clock
 - [ ] **Lun** → [] check-in-semanal → [] 
 - [ ] **Mar** → [] 
 - [ ] **Mié** →                                      
-- [ ] **Jue** →
+- [ ] **Jue** → zsdfsa
 - [ ] **Vie** →
 ---
 # Priorities
