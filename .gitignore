@@ -1,9 +1,15 @@
-# Obsidian (local UI state)
+# macOS
+.DS_Store
+.localized
+
+# Obsidian cache / UI state
 .obsidian/workspace*
-.obsidian/cache/
+.obsidian/cache
 .obsidian/graph.json
 .obsidian/backlink.json
+
+# Plugin runtime data (no portable)
 .obsidian/plugins/**/data.json
 
-# OS noise
-.DS_Store
+# OS / temp
+Thumbs.db
