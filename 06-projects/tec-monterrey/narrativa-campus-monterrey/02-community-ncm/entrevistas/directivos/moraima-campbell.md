@@ -85,3 +85,7 @@ Gracias, Cynthia. Bye.
 Gracias a ti, Moraima. Seguimos en contacto para seguir tejiendo este futuro juntos. Gracias a ti, Moraima. Hasta pronto.
 
 ---
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

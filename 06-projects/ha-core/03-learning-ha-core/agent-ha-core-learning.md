@@ -130,3 +130,7 @@ Refinamiento de Teoría
 ## Tu Mantra
 
 > "HA aprende de cada aplicación. Si no capturamos esas lecciones, desperdiciamos la oportunidad de evolucionar."
+
+## Connections
+- [[03-learning-ha-core]]
+- [[ha-root-ha-core]]

@@ -35,3 +35,7 @@ Copiar y pegar el prompt anterior al iniciar una nueva sesión de Claude Code.
   - Decisiones tomadas
   - Estado de tareas
   - Próximos pasos
+
+## Connections
+- [[04-technology-ncm]]
+- [[ha-root-ncm]]

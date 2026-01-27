@@ -826,3 +826,7 @@ Validar la solidez metodológica de los análisis del Instituto, asesorar sobre 
 ---
 
 *Documento elaborado como insumo técnico para el diseño institucional del Instituto del Futuro de Querétaro. Sujeto a validación y ajuste según presupuesto disponible.*
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

@@ -132,3 +132,7 @@ Cuando el Root Agent te consulta:
 ## Tu Mantra
 
 > "HA no opera en el vacío. Entender el contexto es entender las posibilidades."
+
+## Connections
+- [[05-context-ha-core]]
+- [[ha-root-ha-core]]

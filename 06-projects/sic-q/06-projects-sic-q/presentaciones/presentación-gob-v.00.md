@@ -426,3 +426,7 @@ Juntos, son **el legado de Querétaro para las siguientes décadas**.
 - Reuniones de trabajo (diciembre 2025 - enero 2026)
 - Propuesta de colaboración estratégica HA
 - Plan Querétaro 2050
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

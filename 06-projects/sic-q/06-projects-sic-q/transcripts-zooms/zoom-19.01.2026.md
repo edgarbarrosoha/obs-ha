@@ -1428,3 +1428,6 @@ José Daniel Muñoz Noval: Hasta luego.
 Patricia Chávez Cortes: Bien. Adiós.
 
 Sergio Ibarra: Ay.
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

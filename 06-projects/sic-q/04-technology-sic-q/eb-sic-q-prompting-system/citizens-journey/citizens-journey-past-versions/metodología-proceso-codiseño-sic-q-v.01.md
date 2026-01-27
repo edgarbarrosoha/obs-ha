@@ -204,3 +204,7 @@ Diseñar el SIC-Q de manera participativa. Llegar con una propuesta sólida (el 
 ---
 
 *Documento de proceso para Fase 1: Diseño Participativo del SIC-Q*
+
+## Connections
+- [[04-technology-sic-q]]
+- [[ha-root-sic-q]]

@@ -247,3 +247,6 @@ if __name__ == "__main__":
     insights = ha_system.export_insights()
     print("Insights:", insights)
 `
+## Connections
+- [[04-technology-ha-core]]
+- [[ha-root-ha-core]]

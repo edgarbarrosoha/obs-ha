@@ -2123,3 +2123,7 @@ La plataforma incorpora paneles de control y un generador de informes que facili
 El sitio está diseñado para maximizar la participación: ofrece una interfaz amigable y accesible (cumple la norma WCAG 2.2 AA), soporte multilingüe y herramientas de digitalización para integrar comentarios recogidos de manera presencial. Además, la plataforma cumple con normas de seguridad y privacidad (GDPR, ISO/IEC 27001), y los datos siguen siendo propiedad de la institución usuaria.
 
 En resumen, Go Vocal funciona como un hub de participación digital que **simplifica la recolección de ideas y opiniones**, **aplica inteligencia artificial para agrupar y resumir información** y **facilita la toma de decisiones respaldada por evidencias**. Su enfoque modular (captura, análisis y reporte) y su énfasis en la transparencia convierten a esta plataforma en una herramienta potente para gobiernos que buscan procesos participativos más eficientes y representativos.
+
+## Connections
+- [[05-context-sic-q]]
+- [[ha-root-sic-q]]

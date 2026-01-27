@@ -73,3 +73,7 @@ Considerable Improvements in Human Capital: Students
  Efforts to persuade our national dean to request and obtain new faculty lines
 
  Our efforts to upgrade and improve our outreach efforts to attract new students during the next 5 years.
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

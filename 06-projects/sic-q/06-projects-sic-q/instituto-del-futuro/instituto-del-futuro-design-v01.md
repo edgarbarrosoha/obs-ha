@@ -531,3 +531,7 @@ El Instituto adopta íntegramente el **Código de Ética del SIC-Q** (v.0.1) con
 *Documento elaborado como insumo técnico para el diseño institucional del Instituto del Futuro de Querétaro. Versión 1.0 sujeta a revisión y validación con stakeholders.*
 
 ---
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

@@ -94,6 +94,15 @@ Para el usuario, la experiencia es simple:
 
 ---
 
+## Connections
+
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto
+- [[agent-docet-technology|Agente Technology DOCET]] — Agente de esta dimensión
+- [[03-learning-docet|Learning DOCET]] — Dimensión anterior
+- [[05-context-docet|Context DOCET]] — Dimensión siguiente
+
+---
+
 ## Navegación
 
 ← [[03-learning-docet|Learning]] | [[05-context-docet|Context]] →

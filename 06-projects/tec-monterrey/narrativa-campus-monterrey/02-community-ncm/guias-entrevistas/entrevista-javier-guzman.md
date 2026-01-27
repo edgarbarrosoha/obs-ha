@@ -85,3 +85,7 @@ Para cada uno:
 - **Tono:** Visionario-práctico, con rigor de industria y ambición académica.
 - **Anclas:** "Investigación de impacto", "Transformación social", "Colaboración interdisciplinaria", "Internacionalización", "Transferencia tecnológica".
 - **Foco:** La investigación como motor de transformación y diferenciador estratégico del Campus Monterrey y del Tec.
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

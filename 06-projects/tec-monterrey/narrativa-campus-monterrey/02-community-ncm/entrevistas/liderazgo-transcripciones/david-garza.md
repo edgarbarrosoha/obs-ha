@@ -873,3 +873,7 @@ Edgar Barroso: Hacerlo bien, cuídense mucho. Muchas gracias.
 David Garza: Gracias. Edgar. Nos estamos viendo.
 
 Edgar Barroso: Hasta luego.
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

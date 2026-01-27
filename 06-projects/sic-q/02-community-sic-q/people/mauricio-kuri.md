@@ -396,3 +396,7 @@ Por su personalidad y por la forma en que comunica, es muy probable que disfrute
     
 
 Diseñar cualquier presentación para él —incluida una sobre AH— alrededor de estos principios maximiza la probabilidad de resonancia real con su estilo de liderazgo y su modo de pensar.
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

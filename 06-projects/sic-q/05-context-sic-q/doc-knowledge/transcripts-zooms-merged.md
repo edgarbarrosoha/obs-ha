@@ -4811,3 +4811,7 @@ Edgar: Venga hasta luego.
 Toño Rangel: A cerrar.
 
 Edgar: Vale.
+
+## Connections
+- [[05-context-sic-q]]
+- [[ha-root-sic-q]]

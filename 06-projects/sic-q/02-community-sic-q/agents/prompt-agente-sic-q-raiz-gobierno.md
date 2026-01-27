@@ -463,3 +463,7 @@ Querétaro ya ganó la atracción de inversión (US$1,055M/año), pero corre rie
 _Versión 1.0 — Enero 2026_
 _Framework: Horizons Architecture_
 _Desarrollado por: Horizons Architecture + Instituto del Futuro de Querétaro_
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

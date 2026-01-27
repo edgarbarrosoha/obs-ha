@@ -21,3 +21,7 @@
 - #persona/Javier-Ocampo
 - #persona/Poncho
 - #persona/Sarahi
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

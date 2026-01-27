@@ -272,3 +272,7 @@ Esta matriz permite:
 ---
 
 *Proceso de Diseño Participativo del SIC-Q — Metodología HA*
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

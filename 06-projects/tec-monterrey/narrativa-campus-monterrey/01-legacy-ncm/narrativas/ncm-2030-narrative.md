@@ -494,3 +494,7 @@ No con burocracia, sino con proyectos. Los X Labs de Salud-Ingeniería son el pr
 
 Las cuatro apuestas (Distrito, Posgrados, Selectividad, Facultad) son el marco estratégico—el "qué" queremos transformar. Los cinco proyectos (Density, Intersections, The Pool, Pulse, Evolution) son la ejecución—el "cómo" lo vamos a hacer, con entregables, milestones y responsables. Cada apuesta se materializa en uno o más proyectos, y los proyectos operan como sistema.
 
+## Connections
+- [[01-legacy-ncm]]
+- [[ha-root-ncm]]
+

@@ -4,3 +4,6 @@ Learning - Sarahí & Betty
 Technology - Oscar 
 Contexto - Oscar & Edgar
 Proyectos - Javi 
+## Connections
+- [[02-community-ha-core]]
+- [[ha-root-ha-core]]

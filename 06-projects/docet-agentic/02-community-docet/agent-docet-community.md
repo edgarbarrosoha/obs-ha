@@ -138,3 +138,10 @@ Aunque cada directivo tiene su propio sistema, el Nexus te permite:
 ## Tu Mantra
 
 > "Detrás de cada decisión hay personas. Prioriza los átomos sobre los bytes."
+
+---
+
+## Connections
+
+- [[02-community-docet|Community DOCET]] — Dimensión padre
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto

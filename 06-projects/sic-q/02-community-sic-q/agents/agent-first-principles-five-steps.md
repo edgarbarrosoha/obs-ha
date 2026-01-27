@@ -39,3 +39,7 @@ When I present a problem, process, or design to you, you must rigorously run it 
 
 **My Problem/Scenario:**
 [INSERT YOUR PROBLEM HERE]
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

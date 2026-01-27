@@ -147,3 +147,6 @@ Notas sobre cobertura de evidencia y limitaciones
 
 En conjunto, estos trabajos establecen la base intelectual (exactitud de multitudes, diversidad, c‑factor, aumento), demuestran plataformas y métodos que ya alcanzaron escala masiva (Wikipedia, Zooniverse, PB) y documentan sistemas de deliberación habilitados por IA (Pol.is y CDS) que operan a niveles municipales y nacionales y que están diseñados para escalar a poblaciones muy grandes. (1.1, 2.1, 3.1, 4.1, 5.1, 4.2, 6.1, 8.1, 7.1)
 [Timestamp: 2025/12/15 12:33:08]
+
+## Connections
+- [[HA PROJECTS]]

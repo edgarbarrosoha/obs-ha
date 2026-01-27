@@ -149,3 +149,7 @@ Imagina que su sobrino de 17 años pueda preguntarle al SIC: *"¿Qué carreras e
 - Entrevista inicial con Antonio Rangel (entrevista-toño-limpia.md)
 - Reunión SIC-Q 26 de diciembre 2025 (zoom-26.12.2025.md)
 - Perfil de Antonio Rangel (antonio-rangel.md)
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

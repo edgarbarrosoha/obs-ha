@@ -197,3 +197,7 @@ Edgar Arturo Barroso Merino
 47 minutes 29 seconds47:29
 Edgar Arturo Barroso Merino 47 minutes 29 seconds
 Thank you, thank you.
+
+## Connections
+- [[06-projects-ncm]]
+- [[ha-root-ncm]]

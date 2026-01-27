@@ -697,3 +697,7 @@ print("\nStarting Horizons Architecture System...")
 discussion, consensus = run_ha_system()
 ```
 
+
+## Connections
+- [[04-technology-ha-core]]
+- [[ha-root-ha-core]]

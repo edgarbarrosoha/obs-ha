@@ -11,3 +11,7 @@ parent: "[[03-learning-sic-q]]"
 ## Puntos clave
 - Narrativa clara del valor del sistema para ciudadanos y gobierno.
 - Estrategia de difusion y educacion civica digital.
+
+## Connections
+- [[03-learning-sic-q]]
+- [[ha-root-sic-q]]

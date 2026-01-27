@@ -244,3 +244,7 @@ Pero muy bien, Vale, muchísimo gusto en conocerte. Y el trabajo que tienes y la
 No, muchas gracias a ti, muy lindo y muy ameno el tiempo. Muchas gracias.
 
 *— Fin de la Entrevista 7 —*
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

@@ -77,3 +77,10 @@ Agentes que **empujan (nudge)** al directivo hacia sus metas, recordándole prio
 ---
 
 *Este archivo debe actualizarse al final de cada sesión.*
+
+---
+
+## Connections
+
+- [[04-technology-docet|Technology DOCET]] — Dimensión padre
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto

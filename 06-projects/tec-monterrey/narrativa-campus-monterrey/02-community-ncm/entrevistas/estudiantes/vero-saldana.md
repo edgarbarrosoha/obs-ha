@@ -235,3 +235,7 @@ No, pues sí, me gusta mucho las perspectivas que tienes. Yo no soy de salud, en
 Gracias a ustedes.
 
 *— Fin de la Entrevista 4 —*
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

@@ -275,3 +275,10 @@ Según el documento "Bio de perfiles de agentes directivos", los AVATARES a crea
 - Los KPIs deben ser medibles y relevantes para el rol
 - El tono debe adaptarse a la personalidad del directivo si se conoce
 - Actualizar este meta-prompt conforme evolucione el proyecto
+
+---
+
+## Connections
+
+- [[04-technology-docet|Technology DOCET]] — Dimensión padre
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto

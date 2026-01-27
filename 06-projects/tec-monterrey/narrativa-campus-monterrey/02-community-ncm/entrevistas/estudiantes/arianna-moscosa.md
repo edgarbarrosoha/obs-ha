@@ -205,3 +205,7 @@ Perfecto. Pues muy bien, muchísimas gracias, Ariana, por todas tus respuestas, 
 Muchísimas gracias.
 
 *— Fin de la Entrevista 5 —*
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

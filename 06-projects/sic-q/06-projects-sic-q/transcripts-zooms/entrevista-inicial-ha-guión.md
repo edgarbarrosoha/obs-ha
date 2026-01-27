@@ -449,3 +449,7 @@ Cierra confirmando que tu propuesta incluirá:
 ---
 
 ¿Quieres que lo convierta en una **hoja única imprimible** o en **guía para Google Form** con escalas 1–5 ya listas? Puedo entregarlo tal cual, con secciones y campos de captura.
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

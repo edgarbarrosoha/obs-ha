@@ -178,3 +178,6 @@ Si quieres, puedo entregarte:
 [^7]: [[Estilo en Español]]
 [^8]: [[Agente Entrevistador]]
 [Timestamp: 2025/10/27 11:26:36]
+
+## Connections
+- [[HA PROJECTS]]

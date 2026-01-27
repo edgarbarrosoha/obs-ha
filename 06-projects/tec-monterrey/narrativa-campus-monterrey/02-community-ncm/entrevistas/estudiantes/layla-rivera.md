@@ -197,3 +197,7 @@ Perfecto. No, pues muy bien, abarcamos varios temas. Muchísimas gracias, Laila.
 Gracias a ustedes.
 
 *— Fin de la Entrevista 3 —*
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

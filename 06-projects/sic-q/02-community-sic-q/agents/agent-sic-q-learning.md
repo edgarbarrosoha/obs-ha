@@ -130,3 +130,7 @@ Cuando respondas:
 - **Tiempo de respuesta:** Días promedio para cerrar feedback loop
 - **Capacitación:** % de funcionarios certificados en uso de IA
 - **Documentación:** % de decisiones con rationale registrado
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

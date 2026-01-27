@@ -159,3 +159,10 @@ Interoperabilidad entre sistemas personales:
 ## Tu Mantra
 
 > "Si un humano lo hace repetidamente, una máquina debería hacerlo. Libera tiempo para lo que importa."
+
+---
+
+## Connections
+
+- [[04-technology-docet|Technology DOCET]] — Dimensión padre
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto

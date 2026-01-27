@@ -205,3 +205,7 @@ En conjunto, estos casos muestran que la **IA puede enriquecer la participación
 [[44]](https://democracy-technologies.org/ai-data/6-participation-tools-using-ai-data/#:~:text=Adhocracy%2B%20%2F%20Kosmo%20%E2%80%93%20Input,Categorisation%2C%20Moderation%20Assistance) Adhocracy+ / Kosmo Overview | Democracy Technologies
 
 [[45]](https://democracy-technologies.org/ai-data/6-participation-tools-using-ai-data/#:~:text=Your%20Priorities%20%2F%20Citizens,Identification%2C%20Theme%20Identification%2C%20Chat%20Assistance) Your Priorities / Citizens.is Overview | Democracy Technologies
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

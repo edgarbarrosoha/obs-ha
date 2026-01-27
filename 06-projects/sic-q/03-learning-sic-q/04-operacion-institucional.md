@@ -12,3 +12,7 @@ parent: "[[03-learning-sic-q]]"
 - Flujo de decision hacia consejos tematicos y autoridades.
 - Gestion de tiempos de respuesta y cierre de feedback al ciudadano.
 - Coordinacion interinstitucional para implementar resultados.
+
+## Connections
+- [[03-learning-sic-q]]
+- [[ha-root-sic-q]]

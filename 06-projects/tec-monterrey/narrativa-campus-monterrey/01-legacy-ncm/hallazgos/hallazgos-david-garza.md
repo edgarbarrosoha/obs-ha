@@ -41,3 +41,7 @@ Principales puntos de David Garza
   Mensaje para el futuro
 
   El Tec de Monterrey piensa en grande, se reta ante contextos difíciles, y hace realidad proyectos e iniciativas complejas. Debemos ser siempre muy BOLD (audaces).
+
+## Connections
+- [[01-legacy-ncm]]
+- [[ha-root-ncm]]

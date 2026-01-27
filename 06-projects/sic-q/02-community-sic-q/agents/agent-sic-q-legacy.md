@@ -117,3 +117,7 @@ Cuando respondas:
 2. El Instituto del Futuro tiene autonomía presupuestal y operativa
 3. Ciudadanos de 2055 reconocen valor en la plataforma iniciada en 2025
 4. Otras entidades federativas replican el modelo
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

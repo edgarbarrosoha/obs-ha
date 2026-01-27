@@ -210,3 +210,7 @@ Perfecto. Pues muy bien. Primero, felicidades, sí lo veía aquí, pero qué bue
 Gracias, hasta luego.
 
 *— Fin de la Entrevista 6 —*
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

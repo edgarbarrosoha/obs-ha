@@ -822,3 +822,7 @@ FASE 5: OPERACIÓN
 ---
 
 **NOTA FINAL:** Se recomienda la contratación de un despacho jurídico con experiencia en organizaciones de la sociedad civil, derecho fiscal de donatarias, y convenios público-privados para la revisión y formalización de los documentos legales requeridos.
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

@@ -287,3 +287,7 @@ El equipo integra desarrollo de IA con metodologías de investigación, lo que p
 
 3. **Inicio de actividades.** Comenzar los trabajos para aprovechar el tiempo restante del año.
 
+
+## Connections
+- [[05-context-sic-q]]
+- [[ha-root-sic-q]]

@@ -80,4 +80,8 @@ Para cada uno:
 - “Si tuvieras que conectar todo lo que hemos hablado en una sola idea, ¿cuál sería?”  
     **Opcional (IA):**
     
-- “Si un modelo de 2030 de IA tuviera que aprender de esta conversación, ¿cuál te gustaría que fuera?”
+- "Si un modelo de 2030 de IA tuviera que aprender de esta conversación, ¿cuál te gustaría que fuera?"
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

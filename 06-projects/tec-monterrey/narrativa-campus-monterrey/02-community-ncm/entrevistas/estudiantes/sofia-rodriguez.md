@@ -204,3 +204,7 @@ Muy bien. Pues muchas gracias, Sofía. Ya, por mí, esas fueron todas las pregun
 No, de verdad, es un gusto, muchas gracias a todo el equipo por darme aquí el espacio.
 
 *— Fin de la Entrevista 2 —*
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

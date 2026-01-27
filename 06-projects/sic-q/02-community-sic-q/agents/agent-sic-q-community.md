@@ -145,3 +145,7 @@ Cuando respondas:
 - **Representatividad:** Distribución demográfica vs censo
 - **Net Promoter Score:** ¿Recomendarías SIC-Q a un vecino?
 - **Confianza institucional:** Encuesta pre/post participación
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

@@ -73,6 +73,14 @@ La eficiencia digital debe traducirse en métricas de mundo real:
 
 ---
 
+## Connections
+
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto
+- [[agent-docet-legacy|Agente Legacy DOCET]] — Agente de esta dimensión
+- [[02-community-docet|Community DOCET]] — Dimensión siguiente
+
+---
+
 ## Navegación
 
 ← [[ha-root-docet|Root]] | [[02-community-docet|Community]] →

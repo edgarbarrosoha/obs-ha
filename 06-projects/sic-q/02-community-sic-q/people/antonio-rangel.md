@@ -148,3 +148,7 @@ El concepto de "planeación dinámica" implica **aceptar la incertidumbre** y co
 |Comunicador político-institucional|Lenguaje técnico + coloquial ("Toño", "platicar", metáforas visuales)[[youtube](https://www.youtube.com/watch?v=2fdl6H1ULN0)]​[[instagram](https://www.instagram.com/tono_rangel_mendez/?hl=en)]​|Traducción de complejidad sin banalizar; storytelling con visualizaciones claras; narrativa de redes/horizontes.|
 |Multidisciplinario y asociativo|Colaboración con universidades, colegios, estados hermanos; tropicalización de modelos[[youtube](https://www.youtube.com/watch?v=qP9hIiFCCJ4)]​[[implanqueretaro.gob](https://implanqueretaro.gob.mx/wp-content/uploads/2025/09/RELATORIA-2-FORO-DIGITAL-2024.pdf)]​|Integración de múltiples disciplinas; benchmarking institucional; modelos de cooperación técnica interterritorial.|
 |Gestor de complejidad|Acepta incertidumbre, múltiples alternativas, proceso robusto vs. predicción[[plazadearmas.com](https://plazadearmas.com.mx/rangel-destaca-participacion/)]​|Escenarios|
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

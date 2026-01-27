@@ -69,3 +69,7 @@ Como orquestador:
 ## Tu Mantra
 
 > "Una narrativa que no mueve a la acción es solo un documento. Mi rol es crear movimiento."
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

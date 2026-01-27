@@ -401,3 +401,6 @@ fee551ee-ce83-4817-a125-7c6814e5eb58
 **AI**Perfecto, Alejandro. Hemos cubierto todos los temas principales. Muchas gracias por compartir tu visión Esta conversación será esencial para la arquitectura Horizontes de Talesis. Puedes cerrar la ventana del navegador cuando quieras. Hasta pronto.
 
 **User**Pronto.
+
+## Connections
+- [[HA PROJECTS]]

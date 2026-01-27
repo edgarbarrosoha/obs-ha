@@ -881,3 +881,7 @@ Edgar Barroso Systems: Venga que estés muy bien. Mucho gusto. Javier que estés
 Javier Guzmán: Gracias al equipo que no está claro que sí.
 
 Edgar Barroso Systems: Hasta luego.
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

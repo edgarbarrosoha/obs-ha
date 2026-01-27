@@ -88,3 +88,7 @@ Gracias a ti, Erika. Seguimos en contacto para construir ese futuro extraordinar
 Gracias.
 
 ---
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

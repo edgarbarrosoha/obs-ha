@@ -127,3 +127,7 @@ UNESCO. (2021). *Recommendation on the ethics of artificial intelligence*. https
 Mexico. (2010). *Ley Federal de Proteccion de Datos Personales en Posesion de los Particulares*. Diario Oficial de la Federacion.
 
 Mexico. (2017). *Ley General de Proteccion de Datos Personales en Posesion de Sujetos Obligados*. Diario Oficial de la Federacion.
+
+## Connections
+- [[05-context-sic-q]]
+- [[ha-root-sic-q]]

@@ -983,3 +983,7 @@ Toño Rangel: A sedgar a.
 Horizons Architecture Systems: Chao.
 
 Toño Rangel: Bye.
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

@@ -210,3 +210,6 @@ As an expert in tech talent acquisition and financing, I understand the challeng
 **Conclusion**
 
 By strategically combining in-house talent with university partnerships and selectively utilizing freelancers, HA can build a robust and cost-effective tech team. Emphasizing a strong company culture, competitive yet sustainable compensation, and efficient management practices will attract top talent and foster long-term growth.
+## Connections
+- [[06-projects-ha-core]]
+- [[ha-root-ha-core]]

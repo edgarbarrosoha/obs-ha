@@ -74,3 +74,11 @@ El objetivo de hoy es **descargar tu pensamiento vivo**. Queremos entender no so
 
 **Pregunta de síntesis:**
 "Si tuvieras que resumir el espíritu de este proyecto en una frase para convencer a un padre de familia escéptico de inscribir a su hijo en Docet *porque* usan IA, ¿qué le dirías?"
+
+---
+
+## Connections
+
+- [[01-legacy-docet|Legacy DOCET]] — Dimensión padre
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto
+- [[entrevista-limpia-legado|Transcripción Entrevista Legacy]] — Resultado de esta guía

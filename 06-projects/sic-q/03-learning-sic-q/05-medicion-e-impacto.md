@@ -12,3 +12,7 @@ parent: "[[03-learning-sic-q]]"
 - Definir KPIs de participacion, calidad de propuestas y adopcion institucional.
 - Evaluar sesgos y brechas de cobertura territorial y demografica.
 - Documentar lecciones y ajustar el sistema por iteraciones.
+
+## Connections
+- [[03-learning-sic-q]]
+- [[ha-root-sic-q]]

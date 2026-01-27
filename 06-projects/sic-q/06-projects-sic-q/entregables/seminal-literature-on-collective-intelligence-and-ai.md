@@ -56,3 +56,7 @@ Notes on evidence coverage and limitations
 - For AI roles, current evidence supports augmentation—moderation, summarization, mapping, facilitation, translation—rather than fully automated deliberation; governance and legitimacy considerations remain active research topics. (8.1, 8.2, 8.3, 9.1)
 
 Overall, these works collectively establish the intellectual foundation (crowd accuracy, diversity, c‑factor, augmentation), demonstrate platforms and methods that have already reached mass scale (Wikipedia, Zooniverse, PB), and document AI‑enabled deliberation systems (Pol.is and broader CDS) that have operated at municipal to national levels and are designed to scale to very large populations. (1.1, 2.1, 3.1, 4.1, 5.1, 4.2, 6.1, 8.1, 7.1)
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

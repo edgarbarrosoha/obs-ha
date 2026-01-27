@@ -82,3 +82,7 @@ Construye una narrativa que responda a estas preguntas estratégicas:
 ## DOCUMENTO BASE (NO MODIFICAR)
 
 [El documento "El Campus Monterrey hacia 2030" completo va aquí — las 8 secciones desde "Dónde estamos" hasta "Respaldo (Doble Clic)"]
+
+## Connections
+- [[04-technology-ncm]]
+- [[ha-root-ncm]]

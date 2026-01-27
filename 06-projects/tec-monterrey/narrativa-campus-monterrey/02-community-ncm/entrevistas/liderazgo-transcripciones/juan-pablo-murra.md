@@ -809,3 +809,7 @@ Edgar Barroso: Gracias. Adrián. Hasta luego.
 Juan Pablo Murra: Gracias por palo la película.
 
 Juan Pablo Murra: Muchas gracias.
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

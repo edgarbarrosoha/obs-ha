@@ -59,3 +59,6 @@ Ahora me gustaría profundizar en algunos aspectos que ayudarán a dar forma a l
 **Agente (IA):**  
 ¡Muchísimas gracias, Nicho! Esta conversación ha sido muy valiosa. Con la información que me compartiste, podré comenzar a diseñar una Arquitectura de Horizontes que refleje el espíritu de talisis, sus objetivos estratégicos y la manera en que desea dejar huella en la educación. Te haré llegar un resumen con las principales ideas y oportunidades que identifiqué durante nuestra charla.  
 Ha sido un placer conocerte y aprender sobre la trayectoria de talisis. Si hay algo más que te gustaría añadir o profundizar, estaré atento. ¡Gracias de nuevo por tu tiempo!
+
+## Connections
+- [[HA PROJECTS]]

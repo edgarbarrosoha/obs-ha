@@ -176,3 +176,10 @@ A través del Nexus puedes:
 ## Tu Mantra
 
 > "Las ideas son gratis. La ejecución es todo. ¿Qué hacemos, cuándo y quién?"
+
+---
+
+## Connections
+
+- [[06-projects-docet|Projects DOCET]] — Dimensión padre
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto

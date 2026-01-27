@@ -33,3 +33,6 @@ parent: "[[ha-root-sic-q]]"
 ## Recursos adicionales
 
 - [[prompt-creativo|Creativos]]
+
+## Connections
+- [[ha-root-sic-q]]

@@ -265,3 +265,7 @@ Cada vez que se ejecute este prompt, añade una entrada aquí:
 | 2026-01-20 | 02-community-ncm/entrevistas-directivos-ai-cynthia/ (11 archivos) | Moraima Campbell, José Manuel Aguirre, Érika Calles, Ricardo Swain, Gabe Aguilera, Xavier Ordeñana, Diana Grajeda, Edgar Muñiz, Alfonso Betancourt, Vianney Lara, Rogelio Sandoval | A, B, C | 5 | 12 |
 | 2026-01-23 | 01-legacy-ncm/hallazgos/hallazgos-javier-guzmán.md | Javier Guzmán (Vicepresidente de Investigación) | A | 9 | 2 |
 | 2026-01-23 | 01-legacy-ncm/hallazgos/hallazgos-guillermo-torre.md | Guillermo Torre | A | 8 | 6 |
+
+## Connections
+- [[04-technology-ncm]]
+- [[ha-root-ncm]]

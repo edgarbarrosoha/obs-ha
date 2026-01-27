@@ -52,3 +52,6 @@ parent: "[[ha-root-sic-q]]"
 ## 6. Comunicacion publica
 - Narrativa clara del valor del sistema para ciudadanos y gobierno.
 - Estrategia de difusion y educacion civica digital.
+
+## Connections
+- [[ha-root-sic-q]]

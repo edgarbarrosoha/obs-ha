@@ -67,3 +67,8 @@ Este principio guía las decisiones cuando todo lo demás cambia. No es nostalgi
 ## Navegación
 
 ← [[ha-root-ncm|Root]] | [[02-community-ncm|Community]] →
+
+## Connections
+- [[ha-root-ncm]]
+- [[HA ROOT]]
+- [[HA PROJECTS]]

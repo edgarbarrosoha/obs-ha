@@ -71,3 +71,7 @@ Fortalecer la colaboración sistémica — convertir nodos disciplinares fuertes
 ---
 
 *Este archivo debe actualizarse al final de cada sesión.*
+
+## Connections
+- [[04-technology-ncm]]
+- [[ha-root-ncm]]

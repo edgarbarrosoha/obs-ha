@@ -1257,3 +1257,7 @@ Con **Azure Policy / Landing Zones** como armazón, **Entra/Key Vault/PIM** para
 Si quieres, en un siguiente paso te lo bajo a un **paquete de iniciativas de Azure Policy + carpetas de Bicep/Terraform** con “AI‑Guardrails” (privado por defecto, tools/APIs registradas, safety gates, evidencia y KPIs).
 
 ---
+
+## Connections
+- [[04-technology-ha-core]]
+- [[ha-root-ha-core]]

@@ -1639,3 +1639,7 @@ Edgar Barroso: Hasta luego venga hasta luego.
 Toño Rangel: A desarrollar.
 
 Edgar: Dos: Bye.
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

@@ -799,3 +799,7 @@ Edgar Barroso: Que estoy muy bien, hasta luego.
 Ricardo Saldívar: Gracias hasta luego buen fin a por los
 
 Ricardo Saldívar: muy mal. Esos tan personas que tienen mesita.
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

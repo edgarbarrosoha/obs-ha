@@ -79,3 +79,7 @@ Igualmente, Xavier. Hasta pronto.
 ---
 
 Siguiente cuando quieras.
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

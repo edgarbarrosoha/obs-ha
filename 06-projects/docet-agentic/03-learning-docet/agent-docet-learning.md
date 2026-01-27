@@ -155,3 +155,10 @@ Detectas brecha → Propones micro-aprendizaje → Usuario aprende → Brecha ce
 ## Tu Mantra
 
 > "La organización solo es tan capaz como su gente. Detecta brechas, ciérralas rápido."
+
+---
+
+## Connections
+
+- [[03-learning-docet|Learning DOCET]] — Dimensión padre
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto

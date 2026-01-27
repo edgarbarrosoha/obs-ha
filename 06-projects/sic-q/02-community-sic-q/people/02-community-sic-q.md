@@ -58,3 +58,6 @@ parent: "[[ha-root-sic-q]]"
 
 ## Notas de verificación
 - Nombres incompletos o roles por confirmar: Patricia (apellido), Poncho, Javier Ocampo (rol exacto).
+
+## Connections
+- [[ha-root-sic-q]]

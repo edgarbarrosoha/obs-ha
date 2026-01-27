@@ -58,3 +58,7 @@ parent: "[[ha-root-ha-core|HA Root]]"
 ## Navegación
 
 ← [[03-learning-ha-core|Learning]] | [[05-context-ha-core|Context]] →
+
+## Connections
+- [[04-technology-ha-core]]
+- [[ha-root-ha-core]]

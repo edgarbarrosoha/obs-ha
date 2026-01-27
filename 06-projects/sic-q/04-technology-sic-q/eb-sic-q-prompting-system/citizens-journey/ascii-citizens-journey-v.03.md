@@ -3007,3 +3007,6 @@ SIC-Q v03 - CITIZEN JOURNEYS ASCII EXPERIENCE
   ══════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 ```
+## Connections
+- [[04-technology-sic-q]]
+- [[ha-root-sic-q]]

@@ -43,3 +43,6 @@ Notas: Velocity Coding - Building at the Speed
    Mycellium — el concepto de "AI-native codebase"
    es lo que estás construyendo para tus clientes.
                                                   
+## Connections
+- [[03-learning-ha-core]]
+- [[ha-root-ha-core]]

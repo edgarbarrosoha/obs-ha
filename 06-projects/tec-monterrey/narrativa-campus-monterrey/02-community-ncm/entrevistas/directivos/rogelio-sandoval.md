@@ -355,3 +355,7 @@ Yo creo que algo muy importante puede ser un, por ejemplo, un codiseño de conce
 
 **Cynthia:**
 Me queda claro, Rogelio, que imaginan una comunidad donde las fronteras entre escuelas se disuelven para crear espacios compartidos de aprendizaje y emprendimiento. Para sostener
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

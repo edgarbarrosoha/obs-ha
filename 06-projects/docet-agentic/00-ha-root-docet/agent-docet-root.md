@@ -153,5 +153,7 @@ Tú eres la interfaz simple. Los 6 agentes son tu equipo interno. El usuario sol
 
 
 ## Connections
-- [[HA ROOT]]
-- [[HA PROJECTS]]
+
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto
+- [[HA ROOT]] — Sistema padre
+- [[HA PROJECTS]] — Contexto de proyectos HA

@@ -205,3 +205,7 @@ No con burocracia, sino con proyectos. Los 3 Living Labs piloto de Salud-Ingenie
 
 **"¿Por qué estas cuatro apuestas?"**
 Porque responden a la pregunta de transformación. Son las que rompen los silos (Distrito), elevan la densidad de talento (Posgrados/Selectividad), activan a nuestra facultad (Facultad) y cambian la dinámica diaria del campus.
+
+## Connections
+- [[01-legacy-ncm]]
+- [[ha-root-ncm]]

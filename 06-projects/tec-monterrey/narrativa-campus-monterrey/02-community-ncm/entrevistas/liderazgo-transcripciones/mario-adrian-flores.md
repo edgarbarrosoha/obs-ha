@@ -139,3 +139,7 @@ Bueno, mira, si quieres, luego te platico más, este, porque sí necesito darte 
 
 **Cynthia:**
 Gracias a ti, Mario Adrián. Quedo atenta cuando quieras compartir más detalles para conectar esa vivencia con la visión 2030. Te deseo un excelente día y seguimos en contacto.
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

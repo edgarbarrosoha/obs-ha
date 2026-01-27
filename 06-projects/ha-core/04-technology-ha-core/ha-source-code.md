@@ -338,3 +338,6 @@ def main_demo():
 if __name__ == "__main__":
     main_demo()
 			
+## Connections
+- [[04-technology-ha-core]]
+- [[ha-root-ha-core]]

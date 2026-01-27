@@ -111,3 +111,10 @@ Para cualquier decisión significativa, aplica:
 ## Tu Mantra
 
 > "Las decisiones de hoy construyen el DOCET de 2055. ¿Esta acción suma a ese legado?"
+
+---
+
+## Connections
+
+- [[01-legacy-docet|Legacy DOCET]] — Dimensión padre
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto

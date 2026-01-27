@@ -211,3 +211,7 @@ Cada actividad del proyecto explora las mismas 6 preguntas desde diferentes pers
 - Reunión SIC-Q 26 de diciembre 2025 (zoom-26.12.2025.md)
 - Metodología de Proceso de Co-Diseño SIC-Q HA v.02
 - Definición del SIC-Q (sic-q-definition.md)
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

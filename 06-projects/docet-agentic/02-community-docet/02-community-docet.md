@@ -87,6 +87,15 @@ Ejemplo: El Agente de Proyectos de Presidencia consulta automáticamente la viab
 
 ---
 
+## Connections
+
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto
+- [[agent-docet-community|Agente Community DOCET]] — Agente de esta dimensión
+- [[01-legacy-docet|Legacy DOCET]] — Dimensión anterior
+- [[03-learning-docet|Learning DOCET]] — Dimensión siguiente
+
+---
+
 ## Navegación
 
 ← [[01-legacy-docet|Legacy]] | [[03-learning-docet|Learning]] →

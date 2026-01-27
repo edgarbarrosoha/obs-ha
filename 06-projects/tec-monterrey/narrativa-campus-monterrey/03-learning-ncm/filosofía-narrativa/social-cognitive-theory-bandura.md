@@ -375,5 +375,7 @@ Once a week, ask:
 - 📌 One-Line Reminder
     
 - Progress builds belief. Belief fuels persistence.
-    
 
+## Connections
+- [[03-learning-ncm]]
+- [[ha-root-ncm]]

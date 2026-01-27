@@ -160,3 +160,7 @@ Cuando respondas:
 - OECD Observatory of Public Sector Innovation
 - Democracy Technologies (benchmarks)
 - Medios locales de Querétaro (sentiment)
+
+## Connections
+- [[05-context-sic-q]]
+- [[ha-root-sic-q]]

@@ -366,3 +366,6 @@ Implementation notes (optional)
 - This note is designed to be a living document. Consider linking to: a Legacies Index, a glossary, and a governance playbook in your vault for quick cross-referencing.
 - If you want, I can generate similar Legacy notes for other project folders in one go, or set up a master Legacies Index to aggregate all Horizon notes.
 [Timestamp: 2025/10/27 10:30:27]
+
+## Connections
+- [[HA PROJECTS]]

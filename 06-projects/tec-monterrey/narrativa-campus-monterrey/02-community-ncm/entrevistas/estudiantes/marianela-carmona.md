@@ -173,3 +173,7 @@ No, me encantó escucharte. Que te vaya muy bien.
 Muchas gracias.
 
 *— Fin de la Entrevista 1 —*
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

@@ -129,3 +129,7 @@ FASE 6: Retroalimentación → Ciclo
 ---
 
 *Documento generado: 2026-01-20*
+
+## Connections
+- [[04-technology-sic-q]]
+- [[ha-root-sic-q]]

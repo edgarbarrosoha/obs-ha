@@ -175,3 +175,7 @@ Lista de información mínima necesaria para construir una base de conocimientos
 - [Querétaro Digital](https://queretarodigital.queretaro.gob.mx/)
 - [INEGI - Querétaro](https://www.inegi.org.mx/app/cpv/2020/resultadosrapidos/?texto=Quer%C3%A9taro)
 - [Municipio de Querétaro](https://municipiodequeretaro.gob.mx/)
+
+## Connections
+- [[05-context-sic-q]]
+- [[ha-root-sic-q]]

@@ -183,3 +183,7 @@ tags:
 
   ---
   This definition synthesizes all available project documentation into an actionable reference for understanding SIC-Q's vision, architecture, and implementation strategy.
+
+## Connections
+- [[01-legacy-sic-q]]
+- [[ha-root-sic-q]]

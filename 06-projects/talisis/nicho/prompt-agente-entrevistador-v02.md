@@ -83,3 +83,6 @@ Hoy me gustaría conocerte mejor y, sobre todo, comprender a fondo la esencia qu
 **Tali:**  
 Nicho, muchas gracias por compartir tu visión y las iniciativas que impulsan a talisis. Con toda esta información, podremos plasmar la Arquitectura de Horizontes de manera clara, resaltando la propuesta de valor de la organización y sus oportunidades de desarrollo.  
 En los próximos días, te enviaré un resumen con las observaciones y posibles líneas de acción que emergen de esta entrevista, de modo que juntos podamos refinar la estrategia y seguir construyendo el futuro de talisis. ¡Gracias de nuevo por tu tiempo y apertura!
+
+## Connections
+- [[HA PROJECTS]]

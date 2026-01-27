@@ -1111,3 +1111,7 @@ Edgar: Venga hasta luego.
 Toño Rangel: A cerrar.
 
 Edgar: Vale.
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

@@ -11,3 +11,6 @@ Add relevant emojis to enhance {}. Follow these rules:
     3. Keep all original text unchanged
     4. Choose emojis that match the context and tone
     Return only the emojified text.
+
+## Connections
+- [[HA PROJECTS]]

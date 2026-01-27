@@ -666,3 +666,7 @@ Y cuando quieran una pregunta específica, como lo de Sergio de "oye, pero tenem
 - Se está usando Claude 4.5 como modelo base
 - Posibilidad de cambiar a otros modelos o combinaciones
 - Opción futura de correr en servidores propios del gobierno
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

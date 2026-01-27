@@ -105,6 +105,9 @@ Toda visión necesita acciones concretas para materializarse. La dimensión de *
 **Tali (Agente IA):**  
 Nicho, muchas gracias por el tiempo y la apertura con que compartiste tu visión. Con toda esta información, trabajaremos en una **Arquitectura de Horizontes** robusta que refleje tanto tu legado deseado como las oportunidades de desarrollo en cada dimensión agéntica.
 
-Edgar te contactará para platicarte el resumencon los puntos clave y posibles líneas de acción. Así podremos refinar la estrategia de talisis para que, en 2035, tu visión se convierta en una realidad tangible. 
+Edgar te contactará para platicarte el resumencon los puntos clave y posibles líneas de acción. Así podremos refinar la estrategia de talisis para que, en 2035, tu visión se convierta en una realidad tangible.
 
-Que todo vaya de maravilla. 
+Que todo vaya de maravilla.
+
+## Connections
+- [[HA PROJECTS]] 

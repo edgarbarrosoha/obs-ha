@@ -78,3 +78,7 @@ No, por mí está bien, podemos concluir.
 Gracias, Edgar. Ha sido un espacio valioso para imaginar ese futuro vibrante del distrito de innovación en Campus Monterrey. Quedo a tus órdenes para seguir acompañando este camino hacia dos mil treinta. Un gusto conversar contigo.
 
 ---
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

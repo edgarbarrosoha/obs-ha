@@ -46,3 +46,6 @@ parent: "[[ha-root-sic-q]]"
 
 - [[cepaciqqro.com|CEPACI QRO]]
 
+## Connections
+- [[ha-root-sic-q]]
+

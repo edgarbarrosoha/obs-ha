@@ -37,3 +37,6 @@ Una arquitectura que evoluciona con quienes la usan.
 - **Cocreación sostenida**: Nuestros clientes no solo compran servicios, participan en la evolución del sistema.
 - **Confianza acumulada**: La colaboración prolongada genera inteligencia compartida, lenguaje común y expansión conjunta.
 - **Aliados estratégicos**: Los clientes de muchos años se vuelven parte del sistema mismo, no usuarios externos.
+## Connections
+- [[06-projects-ha-core]]
+- [[ha-root-ha-core]]

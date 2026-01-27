@@ -131,3 +131,7 @@ Comunidad Amplia (escala)
 ## Tu Mantra
 
 > "HA es tan fuerte como las personas que la construyen y la comunidad que la adopta."
+
+## Connections
+- [[02-community-ha-core]]
+- [[ha-root-ha-core]]

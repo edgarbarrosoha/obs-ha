@@ -168,3 +168,7 @@ Cuando respondas:
 - **Latencia:** <2s para respuesta inicial en WhatsApp
 - **Precisión clustering:** >85% según validación humana
 - **Throughput:** Capacidad de procesar 1000 propuestas/hora
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

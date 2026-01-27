@@ -6,3 +6,7 @@
 
 ## Notas
 - Apoya gestion de datos del estado.
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

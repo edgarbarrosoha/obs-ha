@@ -91,3 +91,6 @@ flowchart LR
     FB --> CICLO
     CICLO -. Regresa a participar .-> REG_TITLE
 ```
+## Connections
+- [[04-technology-sic-q]]
+- [[ha-root-sic-q]]

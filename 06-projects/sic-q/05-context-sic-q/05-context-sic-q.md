@@ -32,3 +32,6 @@ parent: "[[ha-root-sic-q]]"
 ## Relacionados en Projects
 
 - [[entregables|Entregables]]
+
+## Connections
+- [[ha-root-sic-q]]

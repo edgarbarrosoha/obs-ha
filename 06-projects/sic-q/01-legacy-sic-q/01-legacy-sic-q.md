@@ -33,3 +33,6 @@ Un sistema en el que cualquier ciudadana o ciudadano puede aportar, ver la traza
 ## Links
 - [[sic-q-definition]]
 - [[entrevista-toño-limpia]]
+
+## Connections
+- [[ha-root-sic-q]]

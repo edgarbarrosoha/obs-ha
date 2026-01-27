@@ -119,3 +119,7 @@
 | **Consolidar** | No lanzar cosas nuevas, fortalecer las existentes |
 | **Pensar en grande** | Ambición, ser BOLD |
 | **Diferenciación** | No copiar otros modelos, crear el propio |
+
+## Connections
+- [[01-legacy-ncm]]
+- [[ha-root-ncm]]

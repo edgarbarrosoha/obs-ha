@@ -2669,3 +2669,7 @@ Esta es la diferencia entre *administrar* el estado y *orquestar* el futuro de Q
 
 **Edgar Barroso**
 CEO, HA.
+
+## Connections
+- [[04-technology-sic-q]]
+- [[ha-root-sic-q]]

@@ -244,3 +244,7 @@ Con el respaldo del tec-monterrey y un equipo multidisciplinario comprometido co
 Atentamente,
 
 El Equipo de Arquitectura de Horizontes
+
+## Connections
+- [[06-projects-ha-core]]
+- [[ha-root-ha-core]]

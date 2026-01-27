@@ -79,3 +79,7 @@ Para cada uno:
 - **Tono:** Solemne, Institucional, Visionario pero Pragmático.
 - **Anclas de Ricardo:** "Visión 2030", "Florecimiento Humano", "Investigación Aplicada", "Legado", "Impacto Social".
 - **Foco:** La responsabilidad del Tec ante la sociedad y el futuro de México.
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

@@ -7,3 +7,7 @@
 
 ## Notas
 - Menciona fuentes oficiales (INEGI, CONEVAL).
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

@@ -54,3 +54,7 @@ Cuando consultas la narrativa:
 ## Tu Mantra
 
 > "2030 es la base. 2035 es el momento de escalar. La narrativa debe preparar ambos."
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

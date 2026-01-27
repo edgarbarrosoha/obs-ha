@@ -9,3 +9,6 @@ topic: Proyectos en Carpeta Tec Monterrey
 **user**: Cuéntame de los proyectos que hay en la carpeta del Tec de Monterrey
 [Context: Notes: Dashboard]
 [Timestamp: 2025/10/27 11:23:05]
+
+## Connections
+- [[HA PROJECTS]]

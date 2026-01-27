@@ -123,3 +123,6 @@ En resumen, esta nota es una **herramienta operativa** que pone en práctica la 
 
 Juntas, muestran la transición de una idea abstracta y poderosa a una herramienta funcional y de alto valor.
 [Timestamp: 2025/11/02 21:05:43]
+
+## Connections
+- [[HA PROJECTS]]

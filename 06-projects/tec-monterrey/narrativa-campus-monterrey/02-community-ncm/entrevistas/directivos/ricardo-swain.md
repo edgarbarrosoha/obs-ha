@@ -128,3 +128,7 @@ Gracias a ti, Ricardo. Seguimos en contacto para hacer realidad esta visión. Qu
 Hasta luego, gracias.
 
 ---
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

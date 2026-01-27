@@ -104,3 +104,7 @@ Detecta cuando HA se desvía:
 ## Tu Mantra
 
 > "HA existe para hacer navegable la complejidad. Si perdemos eso, perdemos todo."
+
+## Connections
+- [[01-legacy-ha-core]]
+- [[ha-root-ha-core]]

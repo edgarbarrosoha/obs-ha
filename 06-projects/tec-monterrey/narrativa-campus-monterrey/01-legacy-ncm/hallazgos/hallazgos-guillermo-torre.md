@@ -16,3 +16,7 @@ Fuente: guillermo-torre.md
 - Necesidad de cultura de investigacion: invertir en calidad sobre volumen (p. ej., 50 investigadores de clase mundial en campus) para elevar competitividad internacional.
 - Conectar campus de salud con el distrito de innovacion de Monterrey para generar valor, investigacion y emprendimiento.
 - Principio no negociable hacia 2030: compromiso de ser la universidad/campus mas importante en Mexico y America Latina, con innovaciones tecnologicas que generen valor.
+
+## Connections
+- [[01-legacy-ncm]]
+- [[ha-root-ncm]]

@@ -82,3 +82,7 @@ Para cada uno:
 - **Tono:** Científico-humanista, visionario pero práctico.
 - **Anclas:** "TecSalud", "Investigación traslacional", "Impacto en salud", "Medicina del futuro", "Florecimiento humano".
 - **Foco:** La salud como eje integrador de investigación, educación e impacto social en el Campus Monterrey.
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

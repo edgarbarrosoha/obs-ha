@@ -200,3 +200,7 @@ Lo que Javier quisiera que un modelo de IA aprendiera de esta conversación:
 - **Ricardo Saldívar:** Coincide en la internacionalización y Campus Monterrey como "génesis"
 - **Juan Pablo Murra:** Alineación en los cuatro pilares transformadores
 - **Tema recurrente en todas:** Importancia de la investigación para el Tec de Monterrey
+
+## Connections
+- [[01-legacy-ncm]]
+- [[ha-root-ncm]]

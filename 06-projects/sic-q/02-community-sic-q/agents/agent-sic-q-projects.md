@@ -186,3 +186,7 @@ Cuando respondas:
 - **Burndown:** Trabajo restante vs tiempo
 - **Lead time:** Días desde propuesta hasta feedback final
 - **Throughput:** Propuestas procesadas por semana
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

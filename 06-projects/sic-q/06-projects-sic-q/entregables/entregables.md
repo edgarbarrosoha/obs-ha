@@ -22,3 +22,7 @@ parent: "[[06-projects-sic-q]]"
 | Documento | Descripción |
 |-----------|-------------|
 | [[criterios-evaluacion-tecnica-propuestas\|Criterios de evaluación técnica]] | Marco metodológico para la evaluación de propuestas ciudadanas |
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

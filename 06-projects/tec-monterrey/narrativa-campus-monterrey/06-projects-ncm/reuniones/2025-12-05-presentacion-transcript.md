@@ -641,3 +641,7 @@ Horizons Architecture Systems: Aj.
 Rogelio Sandoval: Perfecto colega, soy bien. Yo tengo que correr, pero me dio mucho gusto verles y estamos a estamos hablando.
 
 Rogelio Sandoval: Perfecto. Muchas gracias. Gracias Y gracias. Nos vemos Edgar.
+
+## Connections
+- [[06-projects-ncm]]
+- [[ha-root-ncm]]

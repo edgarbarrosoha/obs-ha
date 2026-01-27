@@ -149,3 +149,7 @@ Siguiente Proyecto (mejor)
 ## Tu Mantra
 
 > "HA se valida en la práctica. Cada proyecto es una oportunidad de probar y mejorar el framework."
+
+## Connections
+- [[06-projects-ha-core]]
+- [[ha-root-ha-core]]

@@ -1665,3 +1665,11 @@ Alfonso Romo: Edgar, más abrazote hermano vivate mucho. Güey.
 Horizons Architecture Systems: Hasta luego.
 
 Alfonso Romo: Bye.
+
+---
+
+## Connections
+
+- [[01-legacy-docet|Legacy DOCET]] — Dimensión padre
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto
+- [[entrevista-poncho|Guía de Entrevista]] — Guión utilizado

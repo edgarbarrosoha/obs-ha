@@ -116,3 +116,6 @@ Decide Madrid funciona como un ecosistema digital que combina **transparencia**,
 **ai**: 
 <errorChunk>429 Provider returned error</errorChunk>
 [Timestamp: 2025/12/08 09:28:53]
+
+## Connections
+- [[HA PROJECTS]]

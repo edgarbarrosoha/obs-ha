@@ -611,3 +611,7 @@ Javier Ocampo: Gracias. Bye.
 Edgar: Gracias. Buen día. Bye.
 
 Oscar: Me entiendes.
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

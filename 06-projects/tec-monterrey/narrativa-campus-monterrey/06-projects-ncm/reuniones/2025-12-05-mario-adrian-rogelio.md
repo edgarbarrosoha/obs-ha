@@ -80,3 +80,7 @@ Here are the additional mandatory points to include in the narrative, derived sp
 ### 10. Systemic Coherence: Connecting the Dots
 *   **The "One Idea":** In response to the closing interview theme, the presentation must demonstrate how disparate elements—**Expedition FEMSA, the new curriculum, high selectivity, and faculty attraction**—are not isolated initiatives but are **articulated** parts of a single ecosystem.
 *   **The "Pulse":** The narrative should reflect that this plan isn't static; it captures the "living thought" of the institution, designed to be adaptable and to guide the *entire* system, not just the physical campus.
+
+## Connections
+- [[06-projects-ncm]]
+- [[ha-root-ncm]]

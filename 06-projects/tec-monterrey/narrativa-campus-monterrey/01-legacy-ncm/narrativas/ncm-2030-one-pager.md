@@ -68,3 +68,7 @@ Las tensiones (excelencia vs. escala, innovación vs. rigor, equidad vs. estrate
 ---
 
 *"Dejar el Tec mejor de lo que lo encontramos"* — Los estudiantes de hoy, repitiendo sin saberlo la esencia de don Eugenio. Las generaciones aprenden rápido, pero la cultura recuerda.
+
+## Connections
+- [[01-legacy-ncm]]
+- [[ha-root-ncm]]

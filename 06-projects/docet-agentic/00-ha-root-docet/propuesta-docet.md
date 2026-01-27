@@ -253,5 +253,7 @@ CEO, Horizons Architecture Systems
 **
 
 ## Connections
-- [[HA ROOT]]
-- [[HA PROJECTS]]
+
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto
+- [[HA ROOT]] — Sistema padre
+- [[HA PROJECTS]] — Contexto de proyectos HA

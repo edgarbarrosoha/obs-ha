@@ -44,3 +44,7 @@ El propósito final es convencer al Secretario Rangel de que esta arquitectura n
 2.  **Contexto Político:** Al mencionar a Antonio Rangel y el rol del gobierno, la IA ajustará el tono para hablar de "legitimidad", "trazabilidad" y "acción", que son lo que le importa a un funcionario público.
 3.  **Integración de HA:** Al instruir que use la teoría de HA como marco de referencia pero "simplificado", obtendrás argumentos filosóficos sólidos (transdisciplinariedad) aplicados a soluciones prácticas, alineándose con tu marca personal.
 4.  **Estructura del Journey:** El prompt obliga a la IA a seguir el flujo cronológico que pediste, asegurando que no se salte ningún paso crítico.
+
+## Connections
+- [[04-technology-sic-q]]
+- [[ha-root-sic-q]]

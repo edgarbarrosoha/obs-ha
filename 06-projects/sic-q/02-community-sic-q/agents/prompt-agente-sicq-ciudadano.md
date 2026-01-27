@@ -689,6 +689,10 @@ Cuando el ciudadano pregunte por qué su propuesta fue agrupada:
 
 ---
 
-_Versión 2.2 — Enero 2026_  
-_Framework: Horizons Architecture_  
+_Versión 2.2 — Enero 2026_
+_Framework: Horizons Architecture_
 _Componente de: Sistema de Inteligencia Colectiva de Querétaro (SIC-Q)_
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

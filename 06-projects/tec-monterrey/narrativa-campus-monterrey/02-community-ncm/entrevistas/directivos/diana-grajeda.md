@@ -83,3 +83,7 @@ Hasta pronto, Diana. Seguimos en contacto.
 ---
 
 ¿Te lo preparo como archivo descargable o necesitas algún otro formato?
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

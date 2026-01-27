@@ -233,3 +233,6 @@ Tu plan de desarrollo está vivo. Tali te ayudará a mantener el foco a través 
 > Tali enviará una pregunta anónima a tus evaluadores originales:
 >
 > "Hola [Nombre del Evaluador]. Sé que Ana Gómez está trabajando en su capacidad para 'UNIR' equipos y fomentar la colaboración. En los últimos 3 meses, ¿has observado alguna acción o comportamiento que refleje su progreso en esta área? Cualquier ejemplo específico es muy útil."
+
+## Connections
+- [[HA PROJECTS]]

@@ -77,3 +77,6 @@ Más allá de consolidar y organizar datos, Tali puede evolucionar hacia una int
 - **Resumen**: reiterar que Tali no es solo una herramienta tecnológica, sino la respuesta estratégica a la complejidad y escala de talisis. Se han obtenido resultados concretos —mejora del NPS, integración de datos, ahorro de costos— y se abren oportunidades en personalización, eficiencia y crecimiento.
     
 - **Petición al consejo**: solicitar respaldo para continuar invirtiendo en infraestructura de datos, talento de IA y desarrollo de interfaces de voz; enfatizar que, hacia 2035, talisis puede ser referencia en educación de clase mundial gracias a la integración de la inteligencia artificial.
+
+## Connections
+- [[HA PROJECTS]]

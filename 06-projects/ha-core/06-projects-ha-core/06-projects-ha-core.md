@@ -55,3 +55,7 @@ parent: "[[ha-root-ha-core|HA Root]]"
 ## Navegación
 
 ← [[05-context-ha-core|Context]] | [[ha-root-ha-core|Root]] →
+
+## Connections
+- [[06-projects-ha-core]]
+- [[ha-root-ha-core]]

@@ -12,3 +12,7 @@ parent: "[[03-learning-sic-q]]"
 - Modelos de datos y procesos de ingesta (fuentes oficiales y ciudadanas).
 - Clustering semantico, sintesis y trazabilidad de propuestas.
 - Integracion de canales (web, WhatsApp, presencial) y sistemas gubernamentales.
+
+## Connections
+- [[03-learning-sic-q]]
+- [[ha-root-sic-q]]

@@ -707,3 +707,7 @@ Edgar Barroso - Mario Adrián Flores: Es que está Javier Guzmán. Yo no sé qui
 
 01:00:09.000 --> 01:00:12.000
 Edgar Barroso - Mario Adrián Flores: Este. Muchísimas gracias. Bueno, muchas gracias.
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

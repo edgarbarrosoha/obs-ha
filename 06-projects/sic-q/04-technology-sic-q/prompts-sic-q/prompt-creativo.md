@@ -456,3 +456,7 @@
     Rafailov, R., Sharma, A., Mitchell, E., et al. (2023). "Direct preference optimization: Your language model is secretly a reward model." *NeurIPS 2023*.`
     > 
 </aside>
+
+## Connections
+- [[04-technology-sic-q]]
+- [[ha-root-sic-q]]

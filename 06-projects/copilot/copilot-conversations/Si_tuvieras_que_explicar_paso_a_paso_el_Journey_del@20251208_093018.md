@@ -255,3 +255,6 @@ B2 --> S3
 **ai**: 
 <errorChunk>Your input exceeds the context window of this model. Please adjust your input and try again.</errorChunk>
 [Timestamp: 2025/12/08 17:01:00]
+
+## Connections
+- [[HA PROJECTS]]

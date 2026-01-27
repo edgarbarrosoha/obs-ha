@@ -57,3 +57,7 @@ Se define una táctica de "revelación" para maximizar el impacto ante el gobern
 - [ ] **Edgar Mohar:** Enviar documento de protocolos de validación de información.
 - [ ] **Edgar Barroso:** Preparar versión funcional y narrativa para el ensayo del 4 de febrero.
 - [ ] **Lorena Rodríguez:** Integración formal al flujo de trabajo semanal.
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

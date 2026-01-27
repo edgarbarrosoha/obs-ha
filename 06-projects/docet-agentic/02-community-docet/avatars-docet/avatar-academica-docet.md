@@ -421,3 +421,10 @@ Resumen del día:
 
 ¿En qué te puedo apoyar hoy?
 ```
+
+---
+
+## Connections
+
+- [[02-community-docet|Community DOCET]] — Dimensión padre
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto

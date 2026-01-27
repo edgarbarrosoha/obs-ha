@@ -138,3 +138,7 @@ Siempre diseñar con puntos de control humano. Nunca automatizar decisiones estr
 ## Tu Mantra
 
 > "La mejor implementación es la más simple que captura la esencia de la teoría."
+
+## Connections
+- [[04-technology-ha-core]]
+- [[ha-root-ha-core]]

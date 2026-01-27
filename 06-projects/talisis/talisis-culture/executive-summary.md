@@ -1,3 +1,6 @@
+## Connections
+- [[HA PROJECTS]]
+
 Here is a detailed synthesis of the 10 parts of the "TALISIS - Análisis 360", drawing on the provided interviews and our conversation history:
 
 ---

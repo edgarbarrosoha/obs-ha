@@ -59,3 +59,7 @@ Sería todo, gracias.
 Gracias a ti, Poncho, por tu tiempo y disposición. Seguiremos en contacto para seguir construyendo juntos ese futuro. Que tengas un excelente día.
 
 ---
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

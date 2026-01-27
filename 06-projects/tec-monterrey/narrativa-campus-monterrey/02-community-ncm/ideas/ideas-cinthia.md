@@ -18,3 +18,7 @@ Para enriquecer la narrativa del director del Campus Monterrey es importante sus
     
 
 Estos hallazgos proporcionan una base sólida para la narrativa de María Adrián Flores. Al presentarlos ante la alta dirección, se podrá argumentar que la estrategia propuesta surge de una escucha profunda, se alinea con la visión 2030 y aprovecha tanto las fortalezas actuales como las oportunidades identificadas por la comunidad.
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

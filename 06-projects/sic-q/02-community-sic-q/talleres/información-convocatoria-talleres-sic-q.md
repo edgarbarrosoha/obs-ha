@@ -456,3 +456,7 @@ ATENTAMENTE
 [Nombre del firmante]
 [Cargo]
 Secretaría de Planeación y Participación Ciudadana
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

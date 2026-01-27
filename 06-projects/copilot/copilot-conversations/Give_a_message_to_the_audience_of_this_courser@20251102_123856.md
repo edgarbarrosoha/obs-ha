@@ -66,3 +66,6 @@ Este curso es una oportunidad única para elevar su nivel de expertise en IA y a
 
 Espero que este mensaje sea útil y motivador para los participantes del curso. ¡Buena suerte!
 [Timestamp: 2025/11/02 12:39:07]
+
+## Connections
+- [[HA PROJECTS]]

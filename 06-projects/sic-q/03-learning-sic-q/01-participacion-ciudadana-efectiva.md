@@ -12,3 +12,7 @@ parent: "[[03-learning-sic-q]]"
 - Disenar flujos que reduzcan friccion (onboarding simple, canales multiples).
 - Entender incentivos para participar y sostener la participacion.
 - Practicas de facilitacion para convertir ideas sueltas en propuestas claras.
+
+## Connections
+- [[03-learning-sic-q]]
+- [[ha-root-sic-q]]

@@ -351,3 +351,7 @@ Los criterios aquí establecidos se informan de las siguientes prácticas intern
 *Documento elaborado como parte del desarrollo del Sistema de Inteligencia Colectiva de Querétaro (SIC-Q).*
 
 *Última actualización: Diciembre 2025*
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

@@ -685,3 +685,6 @@ if __name__ == "__main__":
     final_result = example_usage_scenario()
     logger.info("Final result from usage scenario: %s", final_result)
 `
+## Connections
+- [[04-technology-ha-core]]
+- [[ha-root-ha-core]]

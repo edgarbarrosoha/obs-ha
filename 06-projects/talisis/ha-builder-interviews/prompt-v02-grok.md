@@ -1,6 +1,9 @@
-Agregar: 
+## Connections
+- [[HA PROJECTS]]
+
+Agregar:
 {
-- No sólo cites lo que dijo {Alejandro}, no es una transcripción, es un análisis profundo para encontrar hallazgos, reflexiones y que pueda servir para el RAG de un agente  de IA que represente las ideas de Alejandro en el contexto de HA. 
+- No sólo cites lo que dijo {Alejandro}, no es una transcripción, es un análisis profundo para encontrar hallazgos, reflexiones y que pueda servir para el RAG de un agente  de IA que represente las ideas de Alejandro en el contexto de HA.
 - Desarrolla la narrativa de las ideas de Alejandro. Mantén un lenguaje claro, neutral, sin hibérboles, que describa claramente lo que dice Alejandro, pero que no suene exagerada y que sea muy articulado.
 }
 

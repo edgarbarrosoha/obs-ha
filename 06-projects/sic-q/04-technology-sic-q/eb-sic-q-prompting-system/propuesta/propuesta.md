@@ -9,3 +9,7 @@ TASK: tomando en cuenta la entrevista que estoy subiendo con Toño, elabora una 
 Aquí la entrevista:
 
 {}
+
+## Connections
+- [[04-technology-sic-q]]
+- [[ha-root-sic-q]]

@@ -592,3 +592,7 @@ IV. En última instancia, ante los tribunales competentes del Estado de Queréta
 ---
 
 **Documento elaborado como insumo técnico para el diseño institucional del Instituto del Futuro de Querétaro. Sujeto a revisión legal y validación con stakeholders.**
+
+## Connections
+- [[06-projects-sic-q]]
+- [[ha-root-sic-q]]

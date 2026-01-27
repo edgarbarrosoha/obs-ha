@@ -173,3 +173,7 @@ Para activar el consejo agéntico, proporciona:
 4. El tiempo disponible para la narrativa
 
 El consejo dialogará internamente y producirá una narrativa en el formato especificado.
+
+## Connections
+- [[04-technology-ncm]]
+- [[ha-root-ncm]]

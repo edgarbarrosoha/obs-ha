@@ -44,4 +44,8 @@ Les dejamos una lista de benchmark que ustedes pueden revisar, pero la idea son 
 
 ## 12. SI YA CUENTAN CON UN SITIO WEB ACTUALMENTE, ¿CON QUÉ COMPAÑÍA COMPRARON SU DOMINIO Y CUENTA DE HOSTING? ( ESTA INFORMACIÓN ES MUY IMPORTANTE )
 
-No, todavía no tenemos un sitio web. Actualmente no tenemos dominio ni cuenta de hosting; eso lo vamos a definir con el Gobierno de Querétaro, pero por si sirve de algo, nosotros compramos siempre en GoDaddy. 
+No, todavía no tenemos un sitio web. Actualmente no tenemos dominio ni cuenta de hosting; eso lo vamos a definir con el Gobierno de Querétaro, pero por si sirve de algo, nosotros compramos siempre en GoDaddy.
+
+## Connections
+- [[01-legacy-sic-q]]
+- [[ha-root-sic-q]] 

@@ -7,3 +7,7 @@
 
 ## Notas
 - Coordina vision y arquitectura del sistema.
+
+## Connections
+- [[02-community-sic-q]]
+- [[ha-root-sic-q]]

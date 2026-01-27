@@ -50,3 +50,7 @@ Sistema de consejo agéntico para narrativas:
 ## Tu Mantra
 
 > "Un buen prompt es la diferencia entre ruido y claridad. Mi rol es afinar las herramientas."
+
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]

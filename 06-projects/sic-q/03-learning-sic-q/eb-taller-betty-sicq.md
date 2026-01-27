@@ -447,3 +447,7 @@ El agente SIC-Q "cobra vida" al final del taller, resumiendo lo que "escuchó" y
 *Documento creado: 26 de enero 2026*
 *Versión: 2.0 (4 horas)*
 *Autor: Betty + Edgar + Claude*
+
+## Connections
+- [[03-learning-sic-q]]
+- [[ha-root-sic-q]]

@@ -153,3 +153,6 @@ Quedamos a disposición para discutir estos puntos en detalle y avanzar en los p
 
 
 ---
+## Connections
+- [[05-context-ha-core]]
+- [[ha-root-ha-core]]

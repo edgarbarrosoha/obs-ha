@@ -149,3 +149,7 @@ Articular una narrativa persuasiva que posicione al Campus Monterrey como punta 
    │ Visión ││Stakehol.││Método  ││ Prompts ││Plan2030││Entregas│
    └────────┘└────────┘└────────┘└────────┘└────────┘└────────┘
 ```
+
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

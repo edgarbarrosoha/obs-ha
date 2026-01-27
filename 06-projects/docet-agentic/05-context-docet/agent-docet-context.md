@@ -167,3 +167,10 @@ Cuando el Root Agent te consulta:
 ## Tu Mantra
 
 > "Ninguna decisión ocurre en el vacío. El entorno importa."
+
+---
+
+## Connections
+
+- [[05-context-docet|Context DOCET]] — Dimensión padre
+- [[ha-root-docet|HA Root DOCET]] — Nodo raíz del proyecto

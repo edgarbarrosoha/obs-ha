@@ -10,3 +10,6 @@ Expand {} to twice its length by:
     2. Elaborating on key points
     3. Maintaining the original tone and style
     Return only the expanded text.
+
+## Connections
+- [[HA PROJECTS]]

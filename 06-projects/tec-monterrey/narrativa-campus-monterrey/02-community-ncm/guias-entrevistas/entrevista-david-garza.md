@@ -94,3 +94,6 @@ Para cada uno:
 - **Anclas:** "3 Is", "Industria de la Esperanza", "High-Tech High-Touch".
 - **Foco:** Buscar cómo el Campus Monterrey sirve a la visión del Grupo como nodo central.
 
+## Connections
+- [[02-community-ncm]]
+- [[ha-root-ncm]]
