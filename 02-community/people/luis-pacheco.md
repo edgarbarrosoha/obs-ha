@@ -9,5 +9,6 @@ kumu_id: "PER-LUISPA-0179"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

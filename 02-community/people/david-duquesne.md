@@ -32,5 +32,6 @@ Emerging Technologies
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[AMAZON EU]]

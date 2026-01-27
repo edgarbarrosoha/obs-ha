@@ -24,6 +24,7 @@ Policy Analysis | Decision Sciences | Economics | Science and Technology Policy 
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Partners]]
 - [[TEC DE MONTERREY]]

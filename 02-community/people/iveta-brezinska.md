@@ -30,5 +30,6 @@ Security & Compliance
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[AMAZON EU]]

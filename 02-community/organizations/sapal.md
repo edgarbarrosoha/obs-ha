@@ -23,6 +23,7 @@ Drinking water | Sewerage | Sanitation | Water reuse | Sustainability | Water cu
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Antonio Morfín]]
 - [[Enrique Haro]]

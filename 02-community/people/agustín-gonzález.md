@@ -9,5 +9,6 @@ kumu_id: "PER-AGUSTI-0157"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Leads]]

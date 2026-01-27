@@ -26,5 +26,6 @@ Public Innovation | Policy Design | Urban Development | Research Management | St
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Municipio León]]

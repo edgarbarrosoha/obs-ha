@@ -256,3 +256,6 @@ Tecnológico de Monterrey
 
   
 **
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

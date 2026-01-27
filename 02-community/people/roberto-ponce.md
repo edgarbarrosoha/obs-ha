@@ -27,6 +27,7 @@ Artificial Intelligence | Data Science | Urban Analytics | Spatial Analysis | Co
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[EGyTP]]
 - [[Jose Antonio Torres]]

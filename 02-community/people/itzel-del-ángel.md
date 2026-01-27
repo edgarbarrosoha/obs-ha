@@ -26,5 +26,6 @@ Electrical & Electronic Engineering
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

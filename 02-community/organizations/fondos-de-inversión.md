@@ -9,6 +9,7 @@ kumu_id: "INS-FONDOS-0030"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Angel Hub]]
 - [[HA Context]]

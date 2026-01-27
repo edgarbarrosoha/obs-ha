@@ -25,5 +25,6 @@ Public Policy | Governance | Anti-Corruption; |Transparency | Public Spending | 
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[ECSyG]]

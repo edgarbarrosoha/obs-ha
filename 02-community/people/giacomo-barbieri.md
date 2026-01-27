@@ -28,5 +28,6 @@ Asset Management | Smart Maintenance | Human-Centric Design | Decision-Making | 
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Research]]

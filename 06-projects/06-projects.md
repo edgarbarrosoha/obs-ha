@@ -99,3 +99,9 @@ Oportunidad ──▶ Propuesta ──▶ Kick-off ──▶ Ejecución ──�
 ---
 
 *Líder de dimensión: Javi*
+
+
+---
+→ [[ha-network|Ver mapa completo de HA]]
+## Connections
+- [[HA ROOT]]

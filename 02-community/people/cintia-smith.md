@@ -21,5 +21,6 @@ Strategic Foresight | Innovation | Public Policy | Government Transformation | R
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[TEC DE MONTERREY]]

@@ -27,5 +27,6 @@ Machine Learning | Computer Vision | Deep Learning Optimization | AI Safety | E
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

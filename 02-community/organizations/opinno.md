@@ -23,3 +23,6 @@ kumu_id: "COM-OPINNO-0006"
 
 ## Expertise
 Innovation Strategy | Agile Methodologies | Design Thinking | Service Design | Product Design | Digital Transformation | Entrepreneurship | Open Innovation | UX | Prototyping | Technology Development | Lean Startup | Big Data | IoT | Machine Learning | Blockchain | Cybersecurity
+
+## Connections
+- [[HA COMMUNITY]]

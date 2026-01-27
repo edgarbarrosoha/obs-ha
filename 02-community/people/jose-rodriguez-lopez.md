@@ -6,3 +6,6 @@ kumu_id: "PER-JOSERO-0031"
 ---
 
 # Jose Rodriguez Lopez
+
+## Connections
+- [[HA COMMUNITY]]

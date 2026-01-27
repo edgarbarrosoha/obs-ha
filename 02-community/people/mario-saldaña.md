@@ -24,3 +24,6 @@ kumu_id: "PER-MARIOS-0202"
 
 ## Expertise
 Innovation Management 1 Design Thinking | Creative Spaces Design | Digital Transformation | Entrepreneurship | Branding | Teaching & Mentorship | Technological Trend Spotting | Collaboration & Team Leadership
+
+## Connections
+- [[HA COMMUNITY]]

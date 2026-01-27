@@ -70,3 +70,6 @@ Participantes adicionales a considerar: Hayden, Andrés, Claudia
 
 6. Elementos a agregar o clarificar en la propuesta
 ElementoAcciónTabla de alcance por plazoIncluir escenarios: qué se entrega en marzo vs. mayo vs. junioEvento de presentaciónMencionar disponibilidad para co-presentación en MéxicoMetodología híbridaExplicar ventajas de agentes IA + cuándo se usan entrevistadores humanosPropiedad de datosConfirmar que todos los datos generados son propiedad de LemontechInferencias de productoDestacar el valor agregado de recomendaciones aplicadas para desarrollo de producto
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

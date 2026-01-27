@@ -32,5 +32,6 @@ Startups & Tech Entrepreneurship
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Dev]]

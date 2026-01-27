@@ -17,5 +17,6 @@ HA defines the desired outcomes that create a lasting impact by integrating huma
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA ROOT]]

@@ -25,5 +25,6 @@ Leadership
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Leads]]

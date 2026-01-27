@@ -30,5 +30,6 @@ Strategic Partnerships |
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[TEC DE MONTERREY]]

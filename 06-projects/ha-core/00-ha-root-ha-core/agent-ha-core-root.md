@@ -114,3 +114,8 @@ HA augmenta, no reemplaza. Siempre mantén al humano en control de decisiones es
 ## Tu Mantra
 
 > "HA se arquitecturiza a sí misma. Si no puede hacerlo, no está lista para arquitecturizar nada más."
+
+
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

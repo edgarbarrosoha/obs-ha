@@ -25,6 +25,7 @@ Telecommunications, Network Infrastructure, LTE, Managed Services, Cloud Integra
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Leads]]
 - [[Pamela Araico]]

@@ -24,6 +24,7 @@ Education Management | Talent Development | Research | Academic Programs | Leade
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[AI & HA Course]]
 - [[Abril Campos]]

@@ -11,6 +11,7 @@ kumu_id: "INS-DISTRI-0028"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Leads]]
 - [[Jose Antonio Torres]]

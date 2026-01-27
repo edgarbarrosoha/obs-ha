@@ -23,3 +23,6 @@ kumu_id: "PER-SAULLO-0220"
 
 ## Expertise
 Digital Law | AI Regulation | Internet Platforms | Legal Research | Policy Analysis | Academic Writing | Consulting
+
+## Connections
+- [[HA COMMUNITY]]

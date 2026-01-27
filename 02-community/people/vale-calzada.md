@@ -9,5 +9,6 @@ kumu_id: "PER-VALECA-0061"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

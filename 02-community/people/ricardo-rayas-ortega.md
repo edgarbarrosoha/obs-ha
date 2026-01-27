@@ -9,5 +9,6 @@ kumu_id: "PER-RICARD-0055"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Palacio de Hierro]]

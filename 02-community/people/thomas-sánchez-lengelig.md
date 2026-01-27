@@ -11,5 +11,6 @@ Data & Devs
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

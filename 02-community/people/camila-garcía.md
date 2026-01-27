@@ -22,3 +22,6 @@ kumu_id: "PER-CAMILA-0203"
 
 ## Expertise
 Leadership | Project Management | Storytelling | Event Planning | Social Responsibility | Digital Strategy | Community Engagement | Networking | Collaboration
+
+## Connections
+- [[HA COMMUNITY]]

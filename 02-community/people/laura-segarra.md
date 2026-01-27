@@ -28,6 +28,7 @@ Strategic Design|· Innovation Management | Design Thinking | Systems Thinking |
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Alejandra Zermeño]]
 - [[Edgar Muñiz]]

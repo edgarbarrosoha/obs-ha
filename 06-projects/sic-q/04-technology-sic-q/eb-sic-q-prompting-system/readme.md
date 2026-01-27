@@ -36,3 +36,8 @@ SIC-Q is an AI-assisted collective intelligence system concept designed to scale
 - Most content is in Spanish and includes proper names and local references.
 - Mermaid diagrams can be rendered in Markdown viewers that support Mermaid.
 - PDFs are source references; use them for citation or deeper context.
+
+
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

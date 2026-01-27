@@ -178,3 +178,8 @@ Horizons Architecture (HA) es un framework de pensamiento sistémico que integra
 | Prompts de agentes | ✅ 7 agentes definidos |
 | Partnerships | Opinno, TEC, EBCT |
 | Valuación objetivo | $6M USD |
+
+
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

@@ -9,6 +9,7 @@ kumu_id: "PER-MIGUEL-0129"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[AT&T]]
 - [[Daniel Ríos Villa]]

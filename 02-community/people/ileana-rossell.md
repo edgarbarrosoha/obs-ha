@@ -21,5 +21,6 @@ Government Relations
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[EGyTP Educación continua]]

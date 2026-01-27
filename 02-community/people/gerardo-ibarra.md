@@ -26,5 +26,6 @@ Strategic Management | Project Leadership | Organizational Development | Social 
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[EXPLORA]]

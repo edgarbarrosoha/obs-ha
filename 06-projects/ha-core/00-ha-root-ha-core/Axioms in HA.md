@@ -208,3 +208,7 @@ If you want, next we can:
 - Translate it into software architecture language
     
 - Or show how this differs from frameworks that _lack_ axioms and why they collapse over time
+
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

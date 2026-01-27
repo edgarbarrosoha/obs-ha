@@ -9,3 +9,6 @@ kumu_id: "PER-OSCARA-0207"
 # Oscar Arce
 
 Banorte
+
+## Connections
+- [[HA COMMUNITY]]

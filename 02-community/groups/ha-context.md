@@ -17,5 +17,6 @@ HA proposes strategies based on external data analysis and artificial intelligen
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA ROOT]]

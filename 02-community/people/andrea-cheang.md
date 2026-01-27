@@ -31,5 +31,6 @@ Software Development
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[AMAZON EU]]

@@ -24,6 +24,7 @@ Construction Materials | Cement Production | Aggregates | Ready-Mix Concrete | S
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Antonio Pita]]
 - [[Christopher Cushnan]]

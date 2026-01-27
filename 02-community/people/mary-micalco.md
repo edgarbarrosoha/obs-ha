@@ -20,3 +20,6 @@ kumu_id: "PER-MARYMI-0043"
 
 ## Expertise
 Operations Management | Team Leadership | Public Communication | Strategic Coordination | Policy Communication
+
+## Connections
+- [[HA COMMUNITY]]

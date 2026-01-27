@@ -24,3 +24,6 @@ kumu_id: "COM-BIMBO-0004"
 
 ## Expertise
 Food Production
+
+## Connections
+- [[HA COMMUNITY]]

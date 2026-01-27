@@ -11,5 +11,6 @@ Artista visual
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

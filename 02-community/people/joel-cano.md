@@ -23,6 +23,7 @@ Technology Transfer; Deep Tech Startups; Business Development; Blockchain; Innov
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Arturo Santos]]
 - [[EBCT]]

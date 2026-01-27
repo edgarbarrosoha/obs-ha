@@ -21,5 +21,6 @@ Training | Team Management | Software Quality Management | Software Validation |
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[SAPAL]]

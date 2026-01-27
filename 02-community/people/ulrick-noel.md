@@ -23,6 +23,7 @@ Entrepreneurship Strategy | Innovation | Artificial Intelligence (AI) | Venture 
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[IEEGL]]
 - [[Luis Almanza]]

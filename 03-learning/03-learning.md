@@ -70,3 +70,9 @@ Incluye activos explícitos (manuales, wikis, datasets) y tácitos (skills del e
 ---
 
 *Líderes de dimensión: Sarahí & Betty*
+
+
+---
+→ [[ha-network|Ver mapa completo de HA]]
+## Connections
+- [[HA ROOT]]

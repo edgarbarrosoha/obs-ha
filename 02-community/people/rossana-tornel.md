@@ -25,5 +25,6 @@ Economic Research | Econometrics | Data Analysis | Platform Development | Agricu
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

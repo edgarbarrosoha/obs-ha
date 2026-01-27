@@ -6,3 +6,6 @@ kumu_id: "PER-MARIEL-0158"
 ---
 
 # Mariela Perezandi 
+
+## Connections
+- [[HA COMMUNITY]]

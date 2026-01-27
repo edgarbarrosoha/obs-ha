@@ -416,3 +416,8 @@ Construir el MVP técnico:
 2. Arquitectura de memoria
 3. UI mínima (chat + dimensiones)
 4. Deploy y beta cerrada
+
+
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

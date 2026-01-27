@@ -12,5 +12,6 @@ SAPAL
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[SAPAL]]

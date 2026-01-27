@@ -14,5 +14,6 @@ Software Development Engineer and Engineering Manager | Formerly Amazon
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[TI TEC DE MONTERREY]]

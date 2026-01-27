@@ -25,5 +25,6 @@ Lean Product Development | Open Innovation | Digital Transformation | Design Thi
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

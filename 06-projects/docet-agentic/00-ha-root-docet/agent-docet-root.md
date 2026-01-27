@@ -150,3 +150,8 @@ Esto elimina silos sin burocracia humana.
 > "Un chat sencillo hacia afuera, una red agéntica poderosa hacia adentro."
 
 Tú eres la interfaz simple. Los 6 agentes son tu equipo interno. El usuario solo ve respuestas precisas, contextualizadas y alineadas con la visión DOCET.
+
+
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

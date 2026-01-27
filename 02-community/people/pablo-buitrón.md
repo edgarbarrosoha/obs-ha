@@ -24,6 +24,7 @@ Executive Education | Leadership Development | Talent Management | Business Stra
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Cristian Granados]]
 - [[EGADE]]

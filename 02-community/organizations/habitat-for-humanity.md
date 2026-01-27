@@ -26,6 +26,7 @@ Shelter | Housing | Disaster Response | Building | Volunteer Management | Advoca
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Ernesto Castro]]
 - [[HA Leads]]

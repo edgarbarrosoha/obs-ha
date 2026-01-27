@@ -229,3 +229,6 @@ Estructura creada:
   4. Algo más?
 
   El producto está diseñado. Ahora toca construir.
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

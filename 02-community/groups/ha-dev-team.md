@@ -14,6 +14,7 @@ kumu_id: "GRP-HADEVT-0002"
 
 
 ## Connections
+- [[HA ROOT]]
 
 - [[Alan Maciel]]
 - [[Alberto Barradas]]

@@ -20,3 +20,6 @@ kumu_id: "COM-KETXAL-0016"
 
 ## Expertise
 Digital Solutions | Software Development | Innovation | User Experience
+
+## Connections
+- [[HA COMMUNITY]]

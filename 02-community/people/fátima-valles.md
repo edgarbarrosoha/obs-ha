@@ -9,5 +9,6 @@ kumu_id: "PER-FATIMA-0122"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Laura Ortega ]]

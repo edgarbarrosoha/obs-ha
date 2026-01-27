@@ -10,6 +10,7 @@ kumu_id: "PER-JOSEAN-0030"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Distrito Tec]]
 - [[Roberto Ponce]]

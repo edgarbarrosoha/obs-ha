@@ -25,5 +25,6 @@ Holistic Education
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Leads]]

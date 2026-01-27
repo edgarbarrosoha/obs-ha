@@ -24,3 +24,6 @@ kumu_id: "PER-NAPOLE-0050"
 
 ## Expertise
 Artificial Intelligence | Robotics | Embedded Systems | Automation | Innovation Management | Programming (C++, Python, MATLAB, LabVIEW) | FPGA | PLC | Agile Development
+
+## Connections
+- [[HA COMMUNITY]]

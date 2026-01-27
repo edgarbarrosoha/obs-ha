@@ -26,5 +26,6 @@ Vocational Training
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Juan Carlos López]]

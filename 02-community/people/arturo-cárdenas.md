@@ -9,5 +9,6 @@ kumu_id: "PER-ARTURO-0178"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

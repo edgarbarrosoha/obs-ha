@@ -22,6 +22,7 @@ Innovation Strategy
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Laura Segarra]]
 - [[Polos]]

@@ -26,6 +26,7 @@ Technology Transfer | Intellectual Property | Innovation | Science-Based Entrepr
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Joel Cano]]
 - [[TEC DE MONTERREY]]

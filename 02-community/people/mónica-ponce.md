@@ -27,5 +27,6 @@ Customer Service
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[TEC DE MONTERREY]]

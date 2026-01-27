@@ -24,5 +24,6 @@ Digital Transformation | Operational Excellence | Lean Six Sigma | Process Engin
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[FEMSA]]

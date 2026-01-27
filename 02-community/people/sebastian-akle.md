@@ -23,5 +23,6 @@ Statistical Genetics | Computational Biology | GWAS | Multi-Omics Analysis | Nex
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

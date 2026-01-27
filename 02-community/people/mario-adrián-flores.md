@@ -10,6 +10,7 @@ kumu_id: "PER-MARIOA-0044"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Distrito Tec]]
 - [[TEC DE MONTERREY]]

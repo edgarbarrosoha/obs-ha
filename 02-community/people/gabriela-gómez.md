@@ -12,5 +12,6 @@ FEMSA
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[FEMSA]]

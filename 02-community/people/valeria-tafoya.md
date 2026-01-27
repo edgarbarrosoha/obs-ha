@@ -31,5 +31,6 @@ Program Design & Implementation
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

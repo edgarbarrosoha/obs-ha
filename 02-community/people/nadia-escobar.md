@@ -10,3 +10,6 @@ kumu_id: "PER-NADIAE-0226"
 # Nadia Escobar
 
 HA Legal Team
+
+## Connections
+- [[HA COMMUNITY]]

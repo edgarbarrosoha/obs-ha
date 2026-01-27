@@ -10,5 +10,6 @@ kumu_id: "PER-SIOREL-0060"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Accounting]]

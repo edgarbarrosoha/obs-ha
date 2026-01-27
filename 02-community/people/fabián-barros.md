@@ -28,5 +28,6 @@ Creative Direction | Digital Arts | Emerging Technologies | AI & Virtual Environ
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

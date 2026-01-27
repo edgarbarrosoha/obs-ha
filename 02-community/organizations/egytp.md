@@ -25,6 +25,7 @@ Public Policy | Governance | Research | Leadership Development | Social Innovati
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Adolfo de Unánue]]
 - [[EGyTP Educación continua]]

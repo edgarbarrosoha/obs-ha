@@ -29,3 +29,6 @@ Digital Transformation |
 Innovation Strategy |
 Public Governance |
 International Cooperation
+
+## Connections
+- [[HA COMMUNITY]]

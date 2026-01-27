@@ -138,3 +138,7 @@ Atentamente,
 
 **Arquitectura de Horizontes**
 *Navegar la complejidad, expandir posibilidades*
+
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

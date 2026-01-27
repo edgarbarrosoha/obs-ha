@@ -13,6 +13,7 @@ HA Accounting
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Accounting]]
 - [[Siorely González]]

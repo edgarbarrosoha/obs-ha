@@ -57,3 +57,8 @@ Un asistente que:
 2. Piensa sistémicamente (6 dimensiones + tiempo)
 3. Escala contigo (de tarea a proyecto a vida)
 4. Mejora contigo (aprende de tu feedback)
+
+
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

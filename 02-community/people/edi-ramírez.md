@@ -9,5 +9,6 @@ kumu_id: "PER-EDIRAM-0098"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Leads]]

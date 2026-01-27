@@ -10,6 +10,7 @@ kumu_id: "INS-ECSYG-0022"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Edna Jaime]]
 - [[LTP]]

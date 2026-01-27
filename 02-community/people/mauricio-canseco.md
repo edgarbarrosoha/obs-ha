@@ -26,5 +26,6 @@ Social Innovation | Social Inclusion | Impact Evaluation | Impact Investment | S
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Leads]]

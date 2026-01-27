@@ -22,3 +22,6 @@ kumu_id: "COM-ANTENA-0003"
 
 ## Expertise
 Data Analytics │ Artificial Intelligence │ Web Development │ Emerging Technologies │ E-commerce │ Digital Transformation
+
+## Connections
+- [[HA COMMUNITY]]

@@ -155,3 +155,8 @@ Usuario (Directivo)
 | 1 | Aprobación de Fase 1 | Alfonso Romo | ⏳ Bloqueante |
 | 2 | Auditoría de datos | DOCET + HA | ⏳ Post-aprobación |
 | 3 | Calibración de agentes | Directivos + HA | ⏳ Semana 1-2 |
+
+
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

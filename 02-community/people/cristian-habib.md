@@ -22,3 +22,6 @@ kumu_id: "PER-CRISTI-0014"
 
 ## Expertise
 Project & Strategy Management
+
+## Connections
+- [[HA COMMUNITY]]

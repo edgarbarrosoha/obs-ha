@@ -24,6 +24,7 @@ Online education | Human behavior sciences | Law | Pedagogy | Computer systems |
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Leads]]
 - [[José Antonio Hernández ]]

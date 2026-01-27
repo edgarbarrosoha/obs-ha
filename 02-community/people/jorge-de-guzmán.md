@@ -27,5 +27,6 @@ Graphic Design | Illustration | Editorial Design | Web Design & Development | Br
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

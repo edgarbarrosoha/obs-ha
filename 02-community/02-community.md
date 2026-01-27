@@ -68,3 +68,9 @@ No es solo un organigrama; es un **grafo operativo** para coordinar quién decid
 ---
 
 *Líderes de dimensión: Sarahí & Edgar*
+
+
+---
+→ [[ha-network|Ver mapa completo de HA]]
+## Connections
+- [[HA ROOT]]

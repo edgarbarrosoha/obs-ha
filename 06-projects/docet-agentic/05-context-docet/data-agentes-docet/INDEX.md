@@ -519,3 +519,8 @@ Obsidian index of all converted notes.
 - [[Plan Operativo 2025-2026 SIA|Plan Operativo 2025-2026 SIA]]
 - [[Proceso de Comunicación|Proceso de Comunicación]]
 - [[ha-eb/06-projects/ha/00-ha-root/06-projects/docet-agentic/05-context-docet/data-agentes-docet/Dirección de operaciones y administración/Read me IA Docet|Read me IA Docet]]
+
+
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

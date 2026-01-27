@@ -26,6 +26,7 @@ Retail Management | Brand Experience | Customer Service | Luxury Marketing | Omn
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Bernd Michael Benemann Latisnere]]
 - [[HA Leads]]

@@ -21,3 +21,6 @@ kumu_id: "PER-DANIEL-0016"
 
 ## Expertise
 Government Relations | Public Policy
+
+## Connections
+- [[HA COMMUNITY]]

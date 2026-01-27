@@ -13,5 +13,6 @@ HA Research
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Research]]

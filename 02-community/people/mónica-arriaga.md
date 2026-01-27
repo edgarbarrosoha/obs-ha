@@ -24,5 +24,6 @@ UX/UI Design | Product Design | Innovation Strategy | User Research | Digital St
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

@@ -24,6 +24,7 @@ Entrepreneurship | Innovation | Business development | Education | Research
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[TEC DE MONTERREY]]
 - [[Ulrick Noel]]

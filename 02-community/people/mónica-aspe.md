@@ -25,6 +25,7 @@ Business Strategy | Corporate Leadership | Public Policy | Corporate Reputation 
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[AT&T]]
 - [[Daniel Ríos Villa]]

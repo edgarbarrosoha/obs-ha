@@ -24,6 +24,7 @@ Economic Development | Innovation | Business Promotion | Competitiveness | Inves
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Leads]]
 - [[Manuel Alejandro González]]

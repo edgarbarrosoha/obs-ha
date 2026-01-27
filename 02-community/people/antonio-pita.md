@@ -21,6 +21,7 @@ Project Management
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[CEMEX]]
 - [[HA Team Europe]]

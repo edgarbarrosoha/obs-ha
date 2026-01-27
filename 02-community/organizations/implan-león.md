@@ -26,6 +26,7 @@ Urban Planning
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Elvira Toba]]
 - [[HA Projects]]

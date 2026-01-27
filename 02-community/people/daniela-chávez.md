@@ -9,5 +9,6 @@ kumu_id: "PER-DANIEL-0100"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

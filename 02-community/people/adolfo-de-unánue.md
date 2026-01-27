@@ -22,5 +22,6 @@ Machine Learning │ Data Science │ AI Ethics │ Public Policy │ Cybernetic
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[EGyTP]]

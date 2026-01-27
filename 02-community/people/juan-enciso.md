@@ -23,5 +23,6 @@ Teaching | Strategic Leadership | Organizational Change | Global Logistics | Int
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Pablo Buitrón]]

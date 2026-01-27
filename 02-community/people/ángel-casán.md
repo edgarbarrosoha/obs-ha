@@ -33,5 +33,6 @@ Client Relationship Management
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[TALISIS]]

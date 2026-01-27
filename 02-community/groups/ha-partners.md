@@ -14,6 +14,7 @@ kumu_id: "GRP-HAPART-0006"
 
 
 ## Connections
+- [[HA ROOT]]
 
 - [[HA COMMUNITY]]
 - [[Nicho Garza Sada]]

@@ -67,3 +67,9 @@ El Legado es la **función objetivo** del sistema. Gobierna decisiones humanas y
 ---
 
 *Líder de dimensión: Edgar*
+
+
+---
+→ [[ha-network|Ver mapa completo de HA]]
+## Connections
+- [[HA ROOT]]

@@ -48,3 +48,8 @@ updated: 2025-12-25
 1. **Consulta específica** → Usar agente dimensional directamente
 2. **Consulta compleja** → Root Agent coordina y sintetiza
 3. **Supervisión humana** → Siempre presenta opciones, nunca decide solo
+
+
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

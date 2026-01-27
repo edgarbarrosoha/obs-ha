@@ -9,6 +9,7 @@ kumu_id: "PER-VICTOR-0143"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[LLL]]
 - [[TEC DE MONTERREY]]

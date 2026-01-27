@@ -22,6 +22,7 @@ Educational Innovation | Academic Development | Student Engagement | Global Educ
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Carlos Recordón]]
 - [[TEC DE MONTERREY]]

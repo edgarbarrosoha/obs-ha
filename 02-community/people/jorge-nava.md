@@ -9,3 +9,6 @@ kumu_id: "PER-JORGEN-0156"
 # Jorge Nava
 
 Opinno
+
+## Connections
+- [[HA COMMUNITY]]

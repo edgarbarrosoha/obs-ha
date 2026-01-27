@@ -9,5 +9,6 @@ kumu_id: "PER-ISAACL-0123"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Carlos Recordón]]

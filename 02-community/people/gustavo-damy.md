@@ -24,6 +24,7 @@ Cybersecurity | Information Security Management | Cloud Services | E-commerce Se
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Team Europe]]
 - [[UPU]]

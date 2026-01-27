@@ -29,5 +29,6 @@ Video Production
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Kineviz.com]]

@@ -1025,3 +1025,6 @@ flowchart LR
   ARoot --- P5
   ARoot --- G7
   
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

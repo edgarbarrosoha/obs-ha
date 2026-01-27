@@ -29,5 +29,6 @@ Vendor & Stakeholder Management
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[CEMEX]]

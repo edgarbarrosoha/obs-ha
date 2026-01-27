@@ -10,5 +10,6 @@ kumu_id: "PER-CARLOS-0204"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Anagrama]]

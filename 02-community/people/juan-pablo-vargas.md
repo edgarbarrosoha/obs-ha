@@ -9,5 +9,6 @@ kumu_id: "PER-JUANPA-0070"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HABITAT FOR HUMANITY]]

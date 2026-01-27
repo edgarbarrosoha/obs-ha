@@ -30,5 +30,6 @@ Digital Innovation |
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[ANKER BIOS]]

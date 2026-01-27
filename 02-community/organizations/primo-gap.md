@@ -10,5 +10,6 @@ kumu_id: "COM-PRIMOG-0019"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Rafa]]

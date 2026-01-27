@@ -28,5 +28,6 @@ Strategy & Operations · Business Transformation · Project Management · Produc
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Leads]]

@@ -397,3 +397,6 @@ El proyecto se basa en el marco de **Arquitectura de Horizontes (HA)**.
 | **Software** | Plataforma de Creación Artística | Aplicación web utilizada en los quioscos o dispositivos durante el piloto. | URL de la aplicación en Azure. |
 | **Evento** | Reporte de Impacto del Piloto | Análisis de los resultados y recomendaciones para futuras ediciones. | Presentación ejecutiva y reporte en PDF. |
 | **Comunicación** | Galería Digital de Obras | Sitio web con una selección curada y anónima de las creaciones de los estudiantes. | Sitio web público o interno. |
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

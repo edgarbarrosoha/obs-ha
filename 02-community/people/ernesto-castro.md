@@ -9,5 +9,6 @@ kumu_id: "PER-ERNEST-0069"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HABITAT FOR HUMANITY]]

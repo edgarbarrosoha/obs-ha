@@ -10,5 +10,6 @@ kumu_id: "PER-LAURAK-0039"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

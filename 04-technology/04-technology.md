@@ -76,3 +76,9 @@ Define qué servicios y tools usar, cómo integrarlos, con qué protocolos y cos
 ---
 
 *Líder de dimensión: Oscar*
+
+
+---
+→ [[ha-network|Ver mapa completo de HA]]
+## Connections
+- [[HA ROOT]]

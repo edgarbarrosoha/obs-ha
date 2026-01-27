@@ -9,6 +9,7 @@ kumu_id: "PER-MANUEL-0128"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Luis Cabrera]]
 - [[SEDEC AGS]]

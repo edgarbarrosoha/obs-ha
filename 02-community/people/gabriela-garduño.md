@@ -21,5 +21,6 @@ HR Strategy | Talent Development | Succession Planning | Employee Engagement | O
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[TEC DE MONTERREY]]

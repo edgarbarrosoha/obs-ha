@@ -32,5 +32,6 @@ Venture Strategy
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Leads]]

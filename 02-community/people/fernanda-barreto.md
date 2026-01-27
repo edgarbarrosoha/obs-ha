@@ -27,5 +27,6 @@ Social Research & Analysis
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Research]]

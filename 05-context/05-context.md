@@ -133,3 +133,9 @@ Es **escaneo dinámico**: personas definen variables a monitorear y agentes sugi
 ---
 
 *Líderes de dimensión: Oscar & Edgar*
+
+
+---
+→ [[ha-network|Ver mapa completo de HA]]
+## Connections
+- [[HA ROOT]]

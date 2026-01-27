@@ -24,5 +24,6 @@ Corporate Innovation │ Frugal Innovation │ Strategic Leadership │ Intrapre
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Pablo Buitrón]]

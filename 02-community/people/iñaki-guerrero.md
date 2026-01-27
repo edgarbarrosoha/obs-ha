@@ -11,5 +11,6 @@ Investigador
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Research]]

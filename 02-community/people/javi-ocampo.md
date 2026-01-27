@@ -22,3 +22,6 @@ kumu_id: "PER-JAVIOC-0004"
 
 ## Expertise
 Experience Strategy | Brand Strategy & Identity | Business Operations | Digital Strategy | UX | AI & Hybrid Intelligence | Fractal & Systems Thinking | Prompt Engineering
+
+## Connections
+- [[HA COMMUNITY]]

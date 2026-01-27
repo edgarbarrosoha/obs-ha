@@ -27,5 +27,6 @@ Applied Mathematics | Machine Learning | Data Science | Curriculum Development |
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

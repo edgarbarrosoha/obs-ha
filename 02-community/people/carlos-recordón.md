@@ -9,6 +9,7 @@ kumu_id: "PER-CARLOS-0120"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Isaac López]]
 - [[PREPA TEC]]

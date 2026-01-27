@@ -112,3 +112,8 @@ Cuando respondas:
 - Un estudiante de preparatoria puede usar la herramienta intuitivamente
 - La plataforma sirve como input (recoge ideas) y output (provee información estratégica)
 - El sistema se fortalece con el uso (ciclo virtuoso)
+
+
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

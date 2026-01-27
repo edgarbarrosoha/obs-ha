@@ -23,5 +23,6 @@ Public Innovation
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

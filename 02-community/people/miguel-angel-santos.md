@@ -24,5 +24,6 @@ Applied Research | Economic Development | Policy Design | Public Leadership | In
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[EGyTP]]

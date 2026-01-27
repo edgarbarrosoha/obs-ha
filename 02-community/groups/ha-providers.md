@@ -11,3 +11,7 @@ kumu_id: "GRP-HAPROV-0005"
 ---
 
 # HA Providers
+
+## Connections
+- [[HA COMMUNITY]]
+- [[HA ROOT]]

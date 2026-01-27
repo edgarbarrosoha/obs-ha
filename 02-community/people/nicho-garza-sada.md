@@ -12,6 +12,7 @@ Partner & Adviser
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Council]]
 - [[HA Partners]]

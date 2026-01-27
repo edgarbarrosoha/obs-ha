@@ -23,3 +23,6 @@ kumu_id: "PER-JORGEH-0124"
 
 ## Expertise
 Educational Innovation | Leadership Development | Youth Empowerment | Public Policy | Strategic Management | Global Mobility Programs | Organizational Leadership
+
+## Connections
+- [[HA COMMUNITY]]

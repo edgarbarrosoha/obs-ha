@@ -41,3 +41,7 @@ password: test-chat-horizon-arch-2025#$
 
 
 
+
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

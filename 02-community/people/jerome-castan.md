@@ -25,5 +25,6 @@ Hardware Engineering | Software Engineering | PCB Design | BLE/RTOS Development 
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

@@ -26,5 +26,6 @@ Regenerative Strategy | Systems Thinking | Policy Design | Social Innovation | E
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

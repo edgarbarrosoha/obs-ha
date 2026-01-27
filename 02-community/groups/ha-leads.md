@@ -14,6 +14,7 @@ kumu_id: "GRP-HALEAD-0004"
 
 
 ## Connections
+- [[HA ROOT]]
 
 - [[Agustín González]]
 - [[Ahmed Aljizani]]

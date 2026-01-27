@@ -28,6 +28,7 @@ Web Development
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Dev Team]]
 - [[HA Team Europe]]

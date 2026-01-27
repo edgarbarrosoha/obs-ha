@@ -9,5 +9,6 @@ kumu_id: "PER-JUANCA-0034"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Pablo Buitrón]]

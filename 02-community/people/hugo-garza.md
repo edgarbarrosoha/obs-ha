@@ -10,6 +10,7 @@ kumu_id: "PER-HUGOGA-0023"
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Council]]
 - [[TEC DE MONTERREY]]

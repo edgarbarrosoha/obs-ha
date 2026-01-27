@@ -6,3 +6,7 @@ kumu_id: "GRP-HASOUT-0007"
 ---
 
 # HA South America Team
+
+## Connections
+- [[HA COMMUNITY]]
+- [[HA ROOT]]

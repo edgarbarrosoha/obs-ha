@@ -13,5 +13,6 @@ HA Dev Team
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

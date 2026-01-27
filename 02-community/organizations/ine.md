@@ -23,3 +23,6 @@ kumu_id: "INS-INE-0007"
 
 ## Expertise
 Electoral Administration
+
+## Connections
+- [[HA COMMUNITY]]

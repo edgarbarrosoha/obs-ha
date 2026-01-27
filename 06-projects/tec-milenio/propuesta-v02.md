@@ -159,3 +159,6 @@ Atentamente,
 
 **Edgar Barroso**
 CEO, Horizons Architecture Systems
+## Connections
+- [[HA ROOT]]
+- [[HA PROJECTS]]

@@ -10,3 +10,6 @@ kumu_id: "PER-MONICA-0216"
 # Mónica Mendiola
 
 HA External Providers
+
+## Connections
+- [[HA COMMUNITY]]

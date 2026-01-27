@@ -12,5 +12,6 @@ IECA
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[María Micalco]]

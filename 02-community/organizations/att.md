@@ -24,6 +24,7 @@ Wireless Communications | Broadband Services | Managed Hosting | Enterprise Solu
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA PROJECTS]]
 - [[Miguel Casas]]

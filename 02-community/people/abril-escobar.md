@@ -22,5 +22,6 @@ Sustainable Design │ Behavioral Design │ Research │ Innovation Strategy �
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Cristian Habib Montero]]

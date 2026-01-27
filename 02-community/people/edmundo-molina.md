@@ -23,5 +23,6 @@ Policy Analysis
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[EGyTP]]

@@ -30,5 +30,6 @@ Regional Economic Analysis |
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[TEC DE MONTERREY]]

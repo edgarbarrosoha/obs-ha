@@ -25,5 +25,6 @@ Front-end Development | React | Full-stack Development | Software Architecture |
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

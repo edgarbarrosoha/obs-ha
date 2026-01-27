@@ -32,5 +32,6 @@ Cloud Architecture
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[AMAZON EU]]

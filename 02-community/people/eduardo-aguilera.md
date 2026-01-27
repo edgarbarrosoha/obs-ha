@@ -29,5 +29,6 @@ Process Optimization
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Dev]]

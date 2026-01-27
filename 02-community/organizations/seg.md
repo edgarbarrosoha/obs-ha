@@ -28,6 +28,7 @@ Educational Policy | Quality Education | RVOE | Educational Planning | Dual Educ
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA Leads]]
 - [[Lupita Valenzuela]]

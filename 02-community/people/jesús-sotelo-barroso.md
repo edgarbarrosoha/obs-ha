@@ -28,5 +28,6 @@ Higher Education
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[HA External Providers]]

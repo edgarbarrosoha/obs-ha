@@ -27,6 +27,7 @@ Artificial Intelligence | Data Analysis | Software Development | Project Managem
 
 
 ## Connections
+- [[HA COMMUNITY]]
 
 - [[Erick Lozano]]
 - [[HA Founding Team]]

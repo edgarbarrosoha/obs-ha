@@ -16,6 +16,9 @@ kumu_id: "DIM-HACOMM-0002"
 HA identifies key agents and institutions, fostering collaborative networks aligned with the legacy, supported by AI tools.
 
 
+
+→ [[HA COMMUNITY|Ver directorio completo A-Z]]
+
 ## Connections
 
 - [[AMAZON EU]]
