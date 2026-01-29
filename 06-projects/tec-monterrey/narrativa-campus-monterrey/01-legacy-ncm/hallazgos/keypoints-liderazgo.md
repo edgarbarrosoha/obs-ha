@@ -1,6 +1,13 @@
-# Key Points de las Cuatro Entrevistas de Liderazgo
+# Key points de todos los hallazgos - Plan 2030 Campus Monterrey
 
-**Fuentes:** hallazgos-david-garza.md, hallazgos-guillermo-torre.md, hallazgos-javier-guzmán.md, hallazgos-juan-pablo-murra.md
+**Fuentes:**
+- Liderazgo: David Garza, Guillermo Torre, Javier Guzmán, Juan Pablo Murra
+- Directivos: 13 entrevistas con directores y decanos regionales
+- Estudiantes: 7 entrevistas con líderes estudiantiles
+
+---
+
+# Parte I: Liderazgo ejecutivo
 
 ---
 
@@ -18,14 +25,14 @@
 - **Multidisciplinariedad**: Convergencia ingeniería + salud + negocios
 - **Posgrados**: Aumentar proporción de estudiantes de posgrado (actualmente muy baja comparada con universidades top)
 
-**Cambios necesarios (Mindsets):**
+**Cambios necesarios (mindsets):**
 - Superar la visión de que investigación y educación son cosas separadas
 - Recuperar la colegialidad académica (discusiones en departamentos sobre temas educativos, no solo operativos)
 - Pasar de "necesito más recursos" a "¿qué puedo yo poner en la mesa?"
 - Profesores que "vendan" la institución hacia afuera, no solo internamente
 - Hacer apuestas estratégicas fuertes en lugar de distribuir recursos equitativamente
 
-**Big Bet:**
+**Big bet:**
 - Necesitan un proyecto emblemático en ingeniería similar a "Origen" en salud
 - Algo único que solo pueda hacerse en México/Tec
 
@@ -41,12 +48,12 @@
 - La calidad clínica es la base para lograr excelencia educativa
 - Compromiso de ser **generadores de nuevo conocimiento**, no solo transmisores
 
-**Modelo Integrado:**
+**Modelo integrado:**
 - Atención, aprendizaje e investigación aplicada deben operar como un **continuo**
 - Proyectos interdisciplinarios (ingeniería + medicina) para resolver problemas clínicos con potencial de emprendimiento
 - La interdisciplina (ingeniería, medicina, política pública) es clave para innovación
 
-**Iniciativas Estratégicas:**
+**Iniciativas estratégicas:**
 - **TecSalud Network**: Red de hospitales afiliados para formación e investigación; busca transparencia de resultados clínicos como política pública
 - **Áreas en Monterrey**: Xenotrasplante, terapias para diabetes (trasplante de islotes), cardiometabólico, terapia celular para neurodegenerativas y cáncer
 - **Programa Origen**: Base genómica de 100k mexicanos (80k secuenciados) para minería de datos
@@ -60,7 +67,7 @@
 - Externas: Polarización público/privada, restricción económica sin fondeo gubernamental
 - Estratégica: Más alumnos vs. menos pero de élite; para campus insignia se requiere **selectividad y competitividad internacional**
 
-**Cultura de Investigación:**
+**Cultura de investigación:**
 - Invertir en **calidad sobre volumen**: 50 investigadores de clase mundial en campus (no 500 promedio)
 - Ejemplo Broad Institute: 34 investigadores principales con presupuesto de $1 billón
 - La cultura se genera con interacción cotidiana: café, pasillos, conversaciones informales
@@ -77,43 +84,43 @@
 - Campus Monterrey como **flagship**: 70% de fondos de investigación del Tec se concentran aquí
 - "Éxito llama más éxito" - efecto magneto consolidado
 
-**Posición Estratégica:**
+**Posición estratégica:**
 - **Llave de acceso a Latinoamérica** para el norte desarrollado
 - Proximidad geográfica y cultural con Texas/EE.UU.
 - Puente para Europa también
 
-**Investigación Aplicada:**
+**Investigación aplicada:**
 - Apuesta por investigación aplicada con **transferencia e incidencia social**
 - Tensiones entre básica/aplicada son **percibidas, no reales**: son parte de un continuo
 - "Entender la investigación como proceso, no como evento único"
 
-**Tres Ingredientes para el Éxito:**
+**Tres ingredientes para el éxito:**
 1. **Convicción** de que es el camino correcto
 2. **Ejemplos de éxito** que ya están sucediendo
 3. **Comunicación hacia el exterior** (mayor oportunidad)
 
-**Financiamiento - No Negociables:**
+**Financiamiento - no negociables:**
 - Transformación: de 80% fondos gubernamentales a 80% iniciativa privada + fundaciones
 - No depender de fondos gubernamentales
 - **"Dejar de pescar en el mismo lago, ir a pescar al mar"** (financiamiento internacional)
 - Que la investigación sea tan atractiva que los socios quieran pagar por ella
 
-**Colaboración Interdisciplinaria:**
+**Colaboración interdisciplinaria:**
 - Generar **espacios de encuentro** - "choques moleculares"
 - "No pienso en escuelas. Pienso en **problemas reales del mundo**"
 - "Una sola escuela no puede resolver un problema real"
 
-**Propuesta de Valor: El Ingenio Mexicano:**
+**Propuesta de valor: el ingenio mexicano:**
 - No somos "baratos", somos **eficientes**
 - "El mexicano con poco hace mucho"
 - **Esta historia de eficiencia no la hemos contado bien**
 - "Tenemos que abrazar nuestra mexicanidad" como ventaja competitiva
 
-**Cuatro Pilares Transformadores:**
+**Cuatro pilares transformadores:**
 
 | Pilar | Matices |
 |-------|---------|
-| **Distrito de Innovación** | El más importante. Conexión de investigación aplicada hasta la sociedad |
+| **Distrito de innovación** | El más importante. Conexión de investigación aplicada hasta la sociedad |
 | **Posgrados presenciales** | Más carreras/cursos en inglés. Doctorados científicos en inglés |
 | **Selectividad** | No solo interna, sino para atraer estudiantes internacionales |
 | **Facultad de excelencia** | Preferir latinos de top universidades con potencial; validar también profesores formados en México |
@@ -137,7 +144,7 @@
 5. **Posgrados presenciales** - doctorados, residencias médicas, MBA
 6. **Narrativa integrada** - comunicar mejor lo que ya hacemos
 
-**El Profesor Transformador:**
+**El profesor transformador:**
 - Ejemplo: profesora de Imperial College con PhD en física que creó 2,500 páginas de Wikipedia de científicas
 - **"50 de esos te transforman Campus Monterrey"**
 
@@ -152,7 +159,7 @@
 2. **Balance sistema** - ¿qué tan "un solo Tec" vs. ecosistema de campus complementarios?
    - Solución: estándares compartidos + **desviaciones positivas permitidas**
 
-**Filosofía y Principios del Tec:**
+**Filosofía y principios del Tec:**
 - Valores de Don Eugenio: educación, libertad, libre empresa, corresponsabilidad social, emprendimiento
 - **"Creemos que el futuro puede ser mejor y nosotros lo hacemos mejor"**
 - Preocupación: en últimos años se ha hablado menos de estos principios
@@ -168,7 +175,7 @@
 3. Alinear estructuras y sistemas
 4. Role Modeling (líderes como ejemplo)
 
-**Vivencia Estudiantil:**
+**Vivencia estudiantil:**
 - Experiencia inmersiva de 4 años, bienestar en 7 dimensiones
 - Comunidad segura, diversa e incluyente
 - DNA Tec: "El del Tec quiere salir a comerse el mundo"
@@ -181,7 +188,177 @@
 
 ---
 
-## Puntos en Común (Los Cuatro Líderes)
+# Parte II: Directivos (colectivo de 13 entrevistas)
+
+> **Visión 2030:** Un campus insignia con distrito de innovación vibrante, talento sobresaliente, cultura de colaboración interdisciplinaria y referencia en América Latina
+
+---
+
+## 1. Distrito de innovación como epicentro
+
+- Expedition FEMSA y Hub de Innovación operando al 100% con empresas, startups y laboratorios
+- "Human collisions" cotidianas entre investigadores, estudiantes y emprendedores
+- Red latinoamericana de distritos de innovación liderada desde Monterrey
+- Cuatro pilares: Centro de Diseño e Ingeniería, Centro Biotecnológico FEMSA, Hub de Innovación, Expedition FEMSA
+- Aura: IA para conectar personas, proyectos y capacidades del ecosistema
+
+## 2. Talento sobresaliente (no negociable)
+
+- Incremento transformacional de estudiantes A-plus, no mejoras marginales
+- 50 investigadores de primer nivel que transformen el campus, no 500 promedio
+- Profesores comprometidos con enseñanza, no solo credenciales académicas
+- Definición holística de "sobresaliente": académico, liderazgo, valores
+- "Las mejores universidades atraen a los mejores alumnos, después no los descomponen"
+
+## 3. Colaboración multidisciplinaria
+
+- Romper silos entre escuelas, departamentos y áreas operativas
+- Trayectorias por competencias con evidencia, no por materias aprobadas
+- Portafolio de evidencias validado para el 100% de egresados
+- Concentraciones interescuelas obligatoriamente multidisciplinarias
+- Innovación transdisciplinar: "No es medicina, no es ingeniería... es Health"
+
+## 4. Gobernanza dual del ecosistema
+
+- Gobernanza externa: gobierno, universidad, empresa, emprendedores, inversionistas, sociedad
+- Gobernanza interna: escuelas, infraestructura, operaciones, comercialización, vinculación
+- Empoderar líderes intermedios, no esperar que los directores resuelvan todo
+- Mesas temáticas: comunicación, vivencia, atracción de empresas, desarrollo de startups
+
+## 5. Internacionalización y selectividad
+
+- Mayor porcentaje de estudiantes internacionales de tiempo completo
+- Acreditaciones globales (AACSB para Escuela de Negocios)
+- Facultad internacional referente en sus áreas
+- Journey de preparación desde secundaria para atraer el mejor talento
+- Vinculación con colegios proveedores de alta calidad
+
+## 6. Inteligencia artificial como habilitador
+
+- Admisión holística con IA para procesar información integral de aspirantes
+- Agentes que agilicen procesos administrativos y liberen tiempo para escucha humana
+- Plataformas de recomendación personalizada para plan de vida estudiantil
+- Alfabetización en IA para toda la comunidad (colaboradores, profesores, estudiantes)
+- Puntos de consulta con expertos en IA actualizados constantemente
+
+## 7. Cultura y valores Tec
+
+- "Back to basics": puntualidad, responsabilidad, compromiso, rigor académico
+- Filosofía original de don Eugenio: libertad, libre empresa, corresponsabilidad social
+- "Creemos que el futuro puede ser mejor y nosotros lo hacemos mejor"
+- No copiar modelo de universidad tradicional de Boston; crear modelo propio desde México
+- Vivencia estudiantil como lujo y privilegio que hay que nutrir y celebrar
+
+## 8. Investigación de impacto
+
+- Generadores de nuevo conocimiento, no solo transmisores
+- Investigación aplicada conectada con mercado a través del distrito de innovación
+- Áreas estratégicas: xenotrasplantes, cardiometabólico, terapia celular, Proyecto ORIGEN
+- Cultura de investigación generada por interacción cotidiana: café, pasillos, conversaciones
+- "El primer paper importante nació de una conversación en el café"
+
+### Tensiones identificadas por directivos
+
+1. **Más sueños que recursos:** Creatividad en generación de nuevos modelos de financiamiento
+2. **Cantidad vs. calidad:** "Menos pero los mejores" para ser competitivos internacionalmente
+3. **Un solo Tec vs. campus diversos:** Estándares comunes + desviaciones positivas permitidas
+4. **Centralización vs. autonomía:** Campus Monterrey necesita más independencia por su volumen y complejidad
+5. **Comunicar sin presumir:** Posicionar Monterrey sin dañar susceptibilidades de otros campus
+
+### Frase síntesis de los directivos
+
+> *"50 de esos te transforman Campus Monterrey"*
+> — Sobre investigadores y profesores de primer nivel
+
+### Mensaje para el futuro (directivos)
+
+Aceptar el compromiso de ser la universidad más importante de México y América Latina por la capacidad de generar conocimiento que avanza la ciencia, la salud y la formación. Esto debe traducirse en innovaciones tecnológicas que generen emprendimiento de valor. No queremos un copy-paste de universidades tradicionales; queremos un modelo que desde México y Monterrey sirva para el mundo, con nuestras fortalezas, valores y capacidades únicas.
+
+---
+
+# Parte III: Estudiantes (colectivo de 7 entrevistas)
+
+> **Visión 2030:** Un campus humano, diverso y disruptivo que escucha, acompaña y empodera a sus estudiantes
+
+---
+
+## 1. Campus que escucha y acompaña
+
+- Espacios de diálogo y cocreación con estudiantes (no comunicación unilateral)
+- Mentoría continua durante toda la carrera, no solo primer semestre
+- Responsabilidad social integrada en el ADN de la formación educativa
+- Bienestar emocional como prioridad institucional
+
+## 2. Liderazgo humanizado
+
+- Líderes que no olviden que trabajamos con personas, no con piezas de un proyecto
+- Cultura del error: reprobar no es fracasar, es oportunidad de reflexión
+- Educación reflexiva más que punitiva
+- Reconocer que somos humanos antes que estudiantes o colaboradores
+
+## 3. Colaboración y vinculación
+
+- Mayor colaboración entre los 200+ grupos estudiantiles del campus
+- Romper silos entre carreras, escuelas y departamentos
+- Conexiones transdisciplinarias (negocios + ingeniería + arte + salud)
+- Homologación nacional de procesos entre campus del Tec
+
+## 4. Visibilidad e impacto estudiantil
+
+- Mayor difusión del trabajo de grupos estudiantiles
+- Contar historias, no solo anunciar eventos
+- Reconocimiento a nivel campus de proyectos e iniciativas estudiantiles
+- Empoderar a estudiantes como agentes de cambio
+
+## 5. Internacionalización real
+
+- No limitarse a intercambios e idiomas
+- Profesores y líderes internacionales como parte cotidiana
+- Que estudiantes de medicina y otras carreras tengan acceso a oportunidades globales
+- Que el Tec sea visto como igual por universidades internacionales
+
+## 6. Tecnología con propósito
+
+- Inteligencia artificial como herramienta, no como sustituto del factor humano
+- Saber usar la IA, no prohibirla
+- Regresar al contacto humano: el voz a voz sigue funcionando
+- Aulas interactivas y tecnología inmersiva en la educación
+
+## 7. Investigación accesible
+
+- Investigación como parte integral de la formación, no algo aspiracional
+- Facilitar contactos con doctores e investigadores
+- Que todos los estudiantes publiquen al menos un póster o abstract al graduarse
+
+## 8. Participación democrática
+
+- Estudiantes eligiendo no solo presidentes, sino iniciativas y proyectos
+- Presupuesto participativo como ejemplo de cocreación
+- Procesos electorales homologados a nivel nacional
+
+### Tensiones identificadas por estudiantes
+
+1. **Comunicación unilateral vs. cocreación:** Informar no basta, los estudiantes quieren participar en las decisiones
+2. **Comunidades apáticas:** Muchos estudiantes vienen a clase y se van sin conocer la oferta del campus
+3. **Conocimiento que desaparece:** Cada gestión de grupos estudiantiles empieza de cero
+4. **Burocracia excesiva:** El Tec se ha vuelto muy burocrático en canales de comunicación
+5. **Medicina aislada:** Estudiantes de salud no tienen acceso a las mismas oportunidades que el resto del campus
+
+### Frase síntesis de los estudiantes
+
+> *"Dejar el Tec mejor de lo que lo encontramos"*
+
+### Mensaje para el futuro (estudiantes)
+
+Un campus irreconocible en infraestructura pero reconocible en valores. Diverso en ideas, disruptivo en métodos, pero siempre humano. Donde ser estudiante del Tec sea un privilegio consciente, no un paso automático. Donde la educación se cuestione constantemente: por qué estudiamos, para qué nos formamos, y cómo impactamos a la sociedad.
+
+---
+
+# Parte IV: Síntesis cruzada
+
+---
+
+## Puntos en común (liderazgo ejecutivo)
 
 | Tema | Consenso |
 |------|----------|
@@ -201,19 +378,50 @@
 
 ---
 
-## Citas Clave por Líder
+## Convergencias entre los tres grupos
 
-**David Garza:**
+| Tema | Liderazgo | Directivos | Estudiantes |
+|------|-----------|------------|-------------|
+| **Talento** | Mejores profesores y alumnos | 50 investigadores de primer nivel | Líderes humanizados |
+| **Colaboración** | Convergencia de disciplinas | Romper silos entre escuelas | Conexiones transdisciplinarias |
+| **Internacionalización** | Atraer talento global | Mayor % de internacionales | Profesores internacionales cotidianos |
+| **Valores** | Legado de Don Eugenio | Back to basics | Reconocernos como humanos |
+| **IA** | Pioneros en adaptación | Habilitador de procesos | Herramienta, no sustituto |
+| **Investigación** | Aplicada con impacto | Conectada con mercado | Accesible para estudiantes |
+| **Comunicación** | Contar mejor lo que hacemos | Posicionar sin presumir | Contar historias, no eventos |
+
+---
+
+## Divergencias clave
+
+| Tema | Liderazgo ejecutivo | Directivos | Estudiantes |
+|------|---------------------|------------|-------------|
+| **Prioridad** | Selectividad y posgrados | Distrito de innovación | Escucha y acompañamiento |
+| **Enfoque** | Competitividad global | Gobernanza del ecosistema | Participación democrática |
+| **Tensión principal** | Recursos vs. ambición | Centralización vs. autonomía | Comunicación unilateral |
+| **Medida de éxito** | Rankings internacionales | Ecosistema vibrante | Bienestar estudiantil |
+
+---
+
+## Citas clave por grupo
+
+**David Garza (Liderazgo):**
 > "Prestigio internacional ganado por el impacto de investigación traducida en innovación."
 
-**Guillermo Torre:**
+**Guillermo Torre (Liderazgo):**
 > "Yo quiero 50 investigadores de clase mundial en el campus, no 500 promedio."
 
-**Javier Guzmán:**
+**Javier Guzmán (Liderazgo):**
 > "El mexicano con poco hace mucho. Tenemos que abrazar nuestra mexicanidad como ventaja competitiva."
 
-**Juan Pablo Murra:**
+**Juan Pablo Murra (Liderazgo):**
 > "Las mejores universidades atraen a los mejores alumnos, después no los descomponen."
+
+**Directivos (colectivo):**
+> "50 de esos te transforman Campus Monterrey."
+
+**Estudiantes (colectivo):**
+> "Dejar el Tec mejor de lo que lo encontramos."
 
 ---
 
@@ -223,3 +431,5 @@
 - [[hallazgos-guillermo-torre]]
 - [[hallazgos-javier-guzmán]]
 - [[hallazgos-juan-pablo-murra]]
+- [[hallazgos-directivos]]
+- [[hallazgos-estudiantes]]
