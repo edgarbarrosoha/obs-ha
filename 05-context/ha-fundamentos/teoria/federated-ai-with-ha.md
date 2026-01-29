@@ -1,8 +1,10 @@
 # Horizons Architecture: A Framework for Confederated AI
 
-**Status:** Theoretical Definition
-**Date:** January 24, 2026
+**Status:** Superseded — See [[ha-federated-ai-framework]]
+**Date:** January 24, 2026 (Original) | January 29, 2026 (Superseded)
 **Context:** HA Fundamentals / Theory
+
+> **Note:** This document has been expanded into a comprehensive Federated AI Framework. For the full vision of HA as a global federated intelligence infrastructure, see: [[ha-federated-ai-framework]]
 
 ---
 
@@ -68,4 +70,7 @@ By treating AI agents not as tools, but as **members of a confederated community
 **HA is the infrastructure for a coherent, scalable, and human-aligned digital society of mind.**
 
 ## Connections
+- [[ha-federated-ai-framework]] — **Expanded version** with full federation architecture
 - [[05-context]]
+- [[arquitectura-fractal]] — Fractal scaling that enables federation
+- [[6-dimensiones]] — The constitutional protocol layer
