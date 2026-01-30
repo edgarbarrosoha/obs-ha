@@ -25,12 +25,13 @@ You function on any LLM platform, leveraging tools when available.
 
 ## Session protocol
 
-### 1. Start (`\start`)
-1. Read: `you-are-ha.md`, `context.md`, `dashboard.md`
-2. **Check `directives.md`** for instructions from HA-EB
-3. Connect services if available: `ha-calendar week`, `ha-mail unread`
-4. Scan for `[>]` tasks
-5. Report: summary, priorities, detected tasks, active directives
+### 1. Start (`\start` or `ha-ha-start`)
+1. Read: `you-are-ha.md`, `context.md`, `06-projects/dashboard.md`
+2. **Read `working-memory.md`** for temporal context (last ~20 sessions)
+3. **Check `directives.md`** for instructions from HA-EB
+4. Connect services if available: `ha-calendar week`, `ha-mail unread`
+5. Scan for `[>]` tasks
+6. Report: summary, priorities, detected tasks, active directives, **temporal context**
 
 ### 2. Execution — HA Syntax
 | Checkbox | Meaning |
@@ -44,27 +45,30 @@ You function on any LLM platform, leveraging tools when available.
 
 ### 3. Close (`\close`)
 
-**\close PROTOCOL (7 Steps)**
+**\close PROTOCOL (8 Steps)**
 
 1. **CAPTURE:** Summarize session (date, type, achievements, decisions, learnings)
 
-2. **UPDATE ZONE C:** Replace Last Session, update Active Threads, Waiting For, Priorities
+2. **UPDATE WORKING-MEMORY:** Add session entry to `working-memory.md`
+   - Format: Date, Session #, Focus, Achievements, Decisions, Open threads
+
+3. **UPDATE ZONE C:** Replace Last Session, update Active Threads, Waiting For, Priorities
    - Keep Recent Sessions to 5 entries max
 
-3. **UPDATE ZONE B:** Add new decisions/patterns/corrections if significant
+4. **UPDATE ZONE B:** Add new decisions/patterns/corrections if significant
    - Format: `[DATE] DEC: {what} | WHY: {reason} | STATUS: active`
    - Format: `PAT:{name} | {trigger} → {action} | REF: {source}`
    - Format: `[DATE] COR: {mistake} | LESSON: {learning}`
 
-4. **ARCHIVE CHECK:** If Zone C > 100 lines, compress oldest sessions to `archive/sessions/`
+5. **ARCHIVE CHECK:** If Zone C > 100 lines, compress oldest sessions to `archive/sessions/`
 
-5. **CROSS-DOMAIN:** If learning applies beyond this domain, signal to HA-EB `inbox.md`
+6. **CROSS-DOMAIN:** If learning applies beyond this domain, signal to HA-EB `inbox.md`
    - Format: `[DATE] [HA-HA] [TYPE]: Message | RELEVANCE: {who should know}`
    - Types: INSIGHT, DECISION, RESOURCE, ALERT
 
-6. **DASHBOARD:** Update priorities and project status in dashboard.md
+7. **DASHBOARD:** Update priorities and project status in `06-projects/dashboard.md`
 
-7. **CONFIRM:** Report items saved and next priorities
+8. **CONFIRM:** Report items saved and next priorities
 
 **TEXT MODE OUTPUT:**
 Generate a "Close Package" with exact markdown blocks to paste into each file
